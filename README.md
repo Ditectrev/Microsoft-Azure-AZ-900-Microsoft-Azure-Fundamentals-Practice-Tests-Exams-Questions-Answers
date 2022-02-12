@@ -26,9 +26,9 @@
 |20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
 |21 | [Under which of the following circumstances could a company look at decommissioning its data center](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
 |22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
-|23 | [An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools-installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|24 | [An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|25 | [An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and Powershell core installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macOS-and-powershell-core-installed)|
+|23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools-installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
+|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
+|25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macOS-and-powershell-core-installed)|
 |26 | [An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement](#an-administrator-needs-to-view-the-list-of-planned-maintenance-events-that-could-potentially-affect-the-availability-of-the-resources-hosted-in-an-azure-subscription-which-of-the-following-blade-in-the-azure-portal-should-the-administrator-consider-for-this-requirement)|
 |27 | [Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose](#your-team-needs-to-have-an-integrated-solution-in-place-that-can-be-used-for-the-deployment-of-code-which-of-the-following-service-can-be-used-for-this-purpose)|
 |28 | [Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose](#your-team-needs-a-tool-that-can-provide-guidance-and-recommendations-that-can-be-used-to-improve-an-azure-environment-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -861,21 +861,21 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in Powershell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and Powershell core installed
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed
 
 - [x] Yes.
 - [ ] No.
@@ -999,7 +999,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer
 
 - [x] Azure CLI.
-- [x] Azure Powershell.
+- [x] Azure PowerShell.
 - [x] The Azure Portal.
 
 *[⬆ Back to Top](#table-of-contents)*
