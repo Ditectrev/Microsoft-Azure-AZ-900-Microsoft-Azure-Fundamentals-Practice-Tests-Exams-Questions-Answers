@@ -939,7 +939,7 @@ to ensure that the services running on the virtual machines are available if a s
 ###  A company wants to have a data store hosted in Azure. Below are the key requirements for the data store a) The data store must be able to store JSON documents b) The data store must be able to handle data writes from multiple regions Which of the following would be the ideal data store for this requirement
 
 - [ ] Azure SQL Database.
-- [x] Azure CosmosDB.
+- [x] Azure Cosmos DB.
 - [ ] Azure Redis Cache.
 - [ ] Azure SQL data warehouse.
 
@@ -1190,7 +1190,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure SQL database.
 - [x] Azure SQL data warehouse.
 - [x] Azure Data Lake.
-- [ ] Azure CosmosDB.
+- [ ] Azure Cosmos DB.
 
 *[⬆ Back to Top](#table-of-contents)*
 
