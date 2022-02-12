@@ -896,7 +896,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Advisor.
 - [ ] Azure Cognitive services.
 - [ ] Azure Application Insights.
-- [x] Azure Devops.
+- [x] Azure DevOps.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -905,7 +905,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] Azure Advisor.
 - [ ] Azure Cognitive services.
 - [ ] Azure Application Insights.
-- [ ] Azure Devops.
+- [ ] Azure DevOps.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -914,7 +914,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Advisor.
 - [x] Azure Cognitive services.
 - [ ] Azure Application Insights.
-- [ ] Azure Devops.
+- [ ] Azure DevOps.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -923,7 +923,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Advisor.
 - [ ] Azure Cognitive services.
 - [x] Azure Application Insights.
-- [ ] Azure Devops.
+- [ ] Azure DevOps.
 
 *[⬆ Back to Top](#table-of-contents)*
 
