@@ -894,7 +894,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose
 
 - [ ] Azure Advisor.
-- [ ] Azure Cognitive services.
+- [ ] Azure Cognitive Services.
 - [ ] Azure Application Insights.
 - [x] Azure DevOps.
 
@@ -903,7 +903,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose
 
 - [x] Azure Advisor.
-- [ ] Azure Cognitive services.
+- [ ] Azure Cognitive Services.
 - [ ] Azure Application Insights.
 - [ ] Azure DevOps.
 
@@ -912,7 +912,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose
 
 - [ ] Azure Advisor.
-- [x] Azure Cognitive services.
+- [x] Azure Cognitive Services.
 - [ ] Azure Application Insights.
 - [ ] Azure DevOps.
 
@@ -921,7 +921,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose
 
 - [ ] Azure Advisor.
-- [ ] Azure Cognitive services.
+- [ ] Azure Cognitive Services.
 - [x] Azure Application Insights.
 - [ ] Azure DevOps.
 
