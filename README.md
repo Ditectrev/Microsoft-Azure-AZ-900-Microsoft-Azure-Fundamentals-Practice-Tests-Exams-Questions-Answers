@@ -3035,7 +3035,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] SQL Server stretch databases.
 - [ ] Data factories.
 - [ ] SQL elastic pools.
-- [ ] Virlual Clusters.
+- [ ] Virtual Clusters.
 - [ ] Managed databases.
 - [ ] Elastic Job agents.
 - [ ] SQL managed instances.
