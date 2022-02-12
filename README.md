@@ -1212,15 +1212,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You have an on-premises network that contains several servers. You plan to migrate all the servers to Azure. You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended period.
-
-- [x] Fault tolerance.
-- [ ] Elasticity.
-- [ ] Scalability.
-- [ ] Low latency.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### An organization that hosts its infrastructure in a private cloud can close its data center.
 
 - [ ] No change is needed.
