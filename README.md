@@ -4966,7 +4966,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The virtual machines can be moved to the new subscription only if they are all in the same resource group.
 - [ ] The virtual machines can be moved to the new subscription only if they run Windows Server 2016.
 
-  *[⬆ Back to Top](#table-of-contents)
+*[⬆ Back to Top](#table-of-contents)
 
 ### To complete the sentence, select the appropriate option in the answer area. ... is the process of verifying a user's credentials
 
