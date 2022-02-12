@@ -4966,7 +4966,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The virtual machines can be moved to the new subscription only if they are all in the same resource group.
 - [ ] The virtual machines can be moved to the new subscription only if they run Windows Server 2016.
 
-*[⬆ Back to Top](#table-of-contents)
+*[⬆ Back to Top](#table-of-contents)*
 
 ### To complete the sentence, select the appropriate option in the answer area. ... is the process of verifying a user's credentials
 
@@ -4985,8 +4985,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] An Azure tag must be added before an administrator.
 
 *[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A platform as a service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications
 
@@ -5016,7 +5014,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### QueNote: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure subscription named Subscription! You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create –resource-group RG1 –name VM1 –image UbuntuLTS –generate-ssh-keys You need to create VM1 in Subscription! by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select Bash. Run the command in Cloud Shell. Does this meet the goal?
+### Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure subscription named Subscription! You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create –resource-group RG1 –name VM1 –image UbuntuLTS –generate-ssh-keys You need to create VM1 in Subscription! by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select Bash. Run the command in Cloud Shell. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
