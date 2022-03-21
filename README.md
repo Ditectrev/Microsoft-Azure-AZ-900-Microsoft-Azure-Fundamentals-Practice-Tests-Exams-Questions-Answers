@@ -76,7 +76,6 @@
 |69 | [What are two characteristics the public cloud? Each correct answer presents a complete solutio](#what-are-two-characteristics-the-public-cloud-each-correct-answer-presents-a-complete-solution)|
 |70 | [Your company plans to migrate all its data and resources to Azure. The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company's-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |71 | [Your company plans to migrate all its data and resources to Azure. The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server installed. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company's-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
-|73 | [Your company hosts an accounting application named App1 that is used by all the customers of the company App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?](#your-company-hosts-an-accounting-application-named-app1-that-is-used-by-all-the-customers-of-the-company-app1-has-low-usage-during-the-first-three-weeks-of-each-month-and-very-high-usage-during-the-last-week-of-each-month-which-benefit-of-azure-cloud-services-supports-cost-management-for-this-type-of-usage-pattern)|
 |74 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
 |75 | [You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-100-servers-you-need-to-recommend-a-solution-that-provides-additional-resources-to-your-users-the-solution-must-minimize-capital-and-operational-expenditure-costs-what-should-you-include-in-the-recommendation)|
 |76 | [You plan to migrate several servers from an on-premises network to Azure. What is an advantage of using a public cloud service for the servers over an on-premises network?](#you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-what-is-an-advantage-of-using-a-public-cloud-service-for-the-servers-over-an-on-premises-network)|
@@ -1238,15 +1237,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company hosts an accounting application named App1 that is used by all the customers of the company App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?
-
-- [ ] High availability.
-- [ ] High latency.
-- [x] Elasticity.
-- [ ] Load balancing.
 
 *[⬆ Back to Top](#table-of-contents)*
 
