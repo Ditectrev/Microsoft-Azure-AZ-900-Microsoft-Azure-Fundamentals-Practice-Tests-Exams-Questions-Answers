@@ -80,7 +80,6 @@
 |75 | [You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-100-servers-you-need-to-recommend-a-solution-that-provides-additional-resources-to-your-users-the-solution-must-minimize-capital-and-operational-expenditure-costs-what-should-you-include-in-the-recommendation)|
 |76 | [You plan to migrate several servers from an on-premises network to Azure. What is an advantage of using a public cloud service for the servers over an on-premises network?](#you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-what-is-an-advantage-of-using-a-public-cloud-service-for-the-servers-over-an-on-premises-network)|
 |77 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails, Solution: You deploy the virtual machines to two or more scale sets. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-scale-sets-does-this-meet-the-goal)|
-|79 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more regions. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-regions-does-this-meet-the-goal)|
 |80 | [You have 1,000 virtual machines hosted on the Hyper-V hosts in a data center. You plan to migrate all the virtual machines to an Azure pay-as-you-go subscription. You need to identify which expenditure model to use for the planned Azure solution. Which expenditure model should you identify?](#you-have-1000-virtual-machines-hosted-on-the-hyper-v-hosts-in-a-data-center-you-plan-to-migrate-all-the-virtual-machines-to-an-azure-pay-as-you-go-subscription-you-need-to-identify-which-expenditure-model-to-use-for-the-planned-azure-solution-which-expenditure-model-should-you-identify)|
 |81 | [The company plans to reduce the following administrative responsibilities of network administrators: • Backing up application data * Replacing failed server hardware Managing physical server security * Updating server operating systems • Managing permissions to shared documents The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify? Each correct answer presents a complete solution.](#the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-‚Ä¢-backing-up-application-data-_-replacing-failed-server-hardware-managing-physical-server-security-_-updating-server-operating-systems-‚Ä¢-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migration-which-two-responsibilities-should-you-identify-each-correct-answer-presents-a-complete-solution)|
 |82 | [You plan to provision Infrastructure as a Service (laaS) resources in Azure. Which resource is an example of laaS?](#you-plan-to-provision-infrastructure-as-a-service-laas-resources-in-azure-which-resource-is-an-example-of-laas)|
@@ -1270,13 +1269,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more regions. Does this meet the goal?
-
-- [x] Yes.
-- [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
