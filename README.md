@@ -645,7 +645,6 @@ to ensure that the services running on the virtual machines are available if a s
 |655 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
 to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more availability zones. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need)|
 |656 | [To complete the sentence, select the appropriate option in the answer area. When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines)|
-|657 | [Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify? Each correct answer presents part of the solution. NOTE: Each correct selection is worth one point.](#your-company-plans-to-deploy-several-million-sensors-that-will-upload-data-to-azure-you-need-to-identify-which-azure-resources-must-be-created-to-support-the-planned-solution-which-two-azure-resources-should-you-identify-each-correct-answer-presents-part-of-the-solution-note-each-correct-selection-is-worth-one-point)|
 |658 | [After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create –resource-group RG1 –name VM1 –image UbuntuLTS–generate-ssh-keys You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From PowerShell, sign in to Azure and then run the command. Does this meet the goal?](#after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-subscription-named-subscription1-you-sign-in-to-the-azure-portal-and-create-a-resource-group-named-rg1-from-azure-documentation-you-have-the-following-command-that-creates-a-virtual-machine-named-vm1-az-vm-create-‚Äìresource-group-rg1-‚Äìname-vm1-‚Äìimage-ubuntults‚Äìgenerate-ssh-keys-you-need-to-create-vm1-in-subscription1-by-using-the-command-solution-from-a-computer-that-runs-windows-10-install-azure-cli-from-powershell-sign-in-to-azure-and-then-run-the-command-does-this-meet-the-goal)|
 |659 | [To complete the sentence, select the appropriate option in the answer area. When you are implementing a Software as a Service (SaaS) solution, you are responsible for](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for)|
 |660 | [After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.Your company plans to migrate all its data and resources to Azure. The company’s migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screenyour-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-companys-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
@@ -1463,7 +1462,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] Azure Data Lake.
 - [ ] Azure Queue storage.
 - [ ] Azure File Storage.
-- [x] Azure loT Hub.
+- [x] Azure IoT Hub.
 - [ ] Azure Notification Hubs.
 
 *[⬆ Back to Top](#table-of-contents)*
@@ -5643,16 +5642,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] By using the same Azure Resource Manager template.
 - [x] To the same resource group.
 - [ ] To the same availability zone.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify? Each correct answer presents part of the solution. NOTE: Each correct selection is worth one point.
-
-- [x] Azure Data Lake.
-- [ ] Azure Queue storage.
-- [ ] Azure File Storage.
-- [x] Azure IoT Hub.
-- [ ] Azure Notification Hubs.
 
 *[⬆ Back to Top](#table-of-contents)*
 
