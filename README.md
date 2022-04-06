@@ -134,7 +134,6 @@
 |136 | [You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?](#you-need-to-ensure-that-when-azure-active-directory-azure-ad-users-connect-to-azure-ad-from-the-internet-by-using-an-anonymous-ip-address-the-users-are-prompted-automatically-to-change-their-password-which-azure-service-should-you-use)|
 |137 | [Your company plans to deploy several web servers and several database servers to Azure. You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers. What should you include in the recommendation?](#your-company-plans-to-deploy-several-web-servers-and-several-database-servers-to-azure-you-need-to-recommend-an-azure-solution-to-limit-the-types-of-connections-from-the-web-servers-to-the-database-servers-what-should-you-include-in-the-recommendation)|
 |138 | [To what should an application connect to retrieve security tokens?](#to-what-should-an-application-connect-to-retrieve-security-tokens)|
-|139 | [Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |140 | [Your network contains an Active Directory forest. The forest contains 5.000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the Impact on users after the planned migration. What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
 |141 | [Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?](#which-service-provides-network-traffic-filtering-across-multiple-azure-subscriptions-and-virtual-networks)|
 |142 | [Which Azure service should you use to store certificates?](#which-azure-service-should-you-use-to-store-certificates)|
@@ -272,7 +271,6 @@
 |280 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can be associated to multiple Azure Active Directory (Azure AD) tenants.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-subscription-can-be-associated-to-multiple-azure-active-directory-azure-ad-tenants)|
 |281 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can change the Azure Active Directory (Azure AD) tenant to which an Azure subscription is associated](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-change-the-azure-active-directory-azure-ad-tenant-to-which-an-azure-subscription-is-associated)|
 |282 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: When an Azure subscription expires, the associated Azure Active Directory (Azure AD) tenant is deleted automatically](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-subscription-expires-the-associated-azure-active-directory-azure-ad-tenant-is-deleted-automatically)|
-|283 | [This question requires that you evaluate the underlined text to determine if it is correct. Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.bInstructions: Review the underlined text. If it makes the statement correct, select ג€No change is neededג€. If the statement is incorrect, select the answer choice that makes the statement correct.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptionsbinstructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-◊í‚Ç¨no-change-is-needed◊í‚Ç¨-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |284 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A single Microsoft account can be used to manage multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-single-microsoft-account-can-be-used-to-manage-multiple-azure-subscriptions)|
 |285 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Two Azure subscriptions can be merged into a single subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-two-azure-subscriptions-can-be-merged-into-a-single-subscription)|
 |286 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A company can use resources from multiple subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-use-resources-from-multiple-subscriptions)|
@@ -1709,15 +1707,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.
-
-- [ ] No change is needed.
-- [ ] Management groups.
-- [x] Azure policies.
-- [ ] Azure App Service plans.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Your network contains an Active Directory forest. The forest contains 5.000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the Impact on users after the planned migration. What should you recommend?
 
 - [ ] Implement Azure Multi-Factor Authentication (MFA).
@@ -2805,15 +2794,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.bInstructions: Review the underlined text. If it makes the statement correct, select ג€No change is neededג€. If the statement is incorrect, select the answer choice that makes the statement correct.
-
-- [ ] No change is needed.
-- [ ] Management groups.
-- [x] Azure policies.
-- [ ] Azure App Service plans.
 
 *[⬆ Back to Top](#table-of-contents)*
 
