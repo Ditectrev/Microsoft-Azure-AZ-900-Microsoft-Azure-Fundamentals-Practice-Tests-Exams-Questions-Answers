@@ -357,7 +357,6 @@
 |370 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network subnet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
 |371 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
 |372 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a network interface](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
-|373 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts. Instructions: Review the underlined text. If it makes the statement correct, select ג€No change is neededג€. If the statement is incorrect, select the answer choice that makes the statement correct.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-◊í‚Ç¨no-change-is-needed◊í‚Ç¨-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)
 |374 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-after-you-create-a-virtual-machine-you-need-to-modify-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |375 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create custom Azure roles to control access to resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-custom-azure-roles-to-control-access-to-resources)|
 |376 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user account can be assigned to multiple Azure roles](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-account-can-be-assigned-to-multiple-azure-roles)|
@@ -3458,15 +3457,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts. Instructions: Review the underlined text. If it makes the statement correct, select ג€No change is neededג€. If the statement is incorrect, select the answer choice that makes the statement correct.
-
-- [ ] No change is needed.
-- [ ] Azure Active Directory (Azure AD) administrative accounts.
-- [ ] Personally Identifiable Information (PII).
-- [x] Server applications.
 
 *[⬆ Back to Top](#table-of-contents)*
 
