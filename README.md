@@ -155,14 +155,14 @@
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
 |159 | [You can create an Azure support request from support.microsoft.com](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |160 | [The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone)|
-|161 | [All Azure services thal are In public preview are provided without any documentalion](#all-azure-services-thal-are-in-public-preview-are-provided-without-any-documentalion)|
+|161 | [All Azure services that are in public preview are provided without any documentalion.](#all-azure-services-thalt-are-in-public-preview-are-provided-without-any-documentalion)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |163 | [An Azure service is available to all Azure customers when it is in public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
-|164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-does-this-meet-the-goal)|
+|164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
 |165 | [Your company plans to request an architectural review of an Azure environment from Microsoft. The company currently has a Basic support plan. You need to recommend a new support plan for the company. The solution must minimize costs. Which support plan should you recommend?](#your-company-plans-to-request-an-architectural-review-of-an-azure-environment-from-microsoft-the-company-currently-has-a-basic-support-plan-you-need-to-recommend-a-new-support-plan-for-the-company-the-solution-must-minimize-costs-which-support-plan-should-you-recommend)|
 |166 | [What is required to use Azure Cost Management?](#what-is-required-to-use-azure-cost-management)|
 |167 | [Your Azure trial account expired last week. You are now unable to create additional Azure Active Directory (Azure AD) user accounts.](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-azure-active-directory-azure-ad-user-accounts)|
-|168 | [Your company plans to purchase an Azure subscription, The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-does-this-meet-the-goal)|
+|168 | [Your company plans to purchase an Azure subscription, The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-premier-support-plan-does-this-meet-the-goal)|
 |169 | [Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |170 | [Which statement accurately describes the Modem Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modem-lifecycle-policy-for-azure-services)|
 |171 | [You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing Azure subscription exceeds a specified limit. Instructions: Review the underlined text. If it makes the statement correct, select "No change is needed." If the staterment is incorrect, select the answer choice that makes the statement correct](#you-can-use-advisor-recommendations-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-azure-subscription-exceeds-a-specified-limit-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-staterment-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
@@ -1887,7 +1887,8 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### All Azure services thal are In public preview are provided without any documentalion
+### All Azure services that are in public preview are provided without any documentalion.
+
 - [ ] No change is needed.
 - [ ] Only configurable from Azure CLI.
 - [x] Excluded from the Service Level Agreements.
@@ -1896,6 +1897,7 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?
+
 - [x] Uptime.
 - [ ] Feature avalability.
 - [ ] Bandwidth.
@@ -1912,7 +1914,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Does this meet the goal?
+### Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -1946,7 +1948,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company plans to purchase an Azure subscription, The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Does this meet the goal?
+### Your company plans to purchase an Azure subscription, The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
