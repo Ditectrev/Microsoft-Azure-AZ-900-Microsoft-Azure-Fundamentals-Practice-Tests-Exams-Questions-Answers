@@ -166,7 +166,7 @@
 |169 | [Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |170 | [Which statement accurately describes the Modem Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modem-lifecycle-policy-for-azure-services)|
 |171 | [You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing Azure subscription exceeds a specified limit.](#you-can-use-advisor-recommendations-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-azure-subscription-exceeds-a-specified-limit)|
-|172 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. To implement a hybrid cloud model, a company must first have a private cloud.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-to-implement-a-hybrid-cloud-model-a-company-must-first-have-a-private-cloud)|
+|172 | [To implement a hybrid cloud model, a company must first have a private cloud.](#to-implement-a-hybrid-cloud-model-a-company-must-first-have-a-private-cloud)|
 |173 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. A company can extend the computing resources of its internal network by using a hybrnd cloud.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-a-company-can-extend-the-computing-resources-of-its-internal-network-by-using-a-hybrnd-cloud)|
 |174 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No.  In a public cloud model, only guest users at your company can access the resources in the cloud.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
 |175 | [You have an on-premises network that contains several servers. You plan to migrate all the servers to Azure. You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended period. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-several-servers-you-plan-to-migrate-all-the-servers-to-azure-you-need-to-recommend-a-solution-to-ensure-that-some-of-the-servers-are-available-if-a-single-azure-data-center-goes-offline-for-an-extended-period-what-should-you-include-in-the-recommendation)|
@@ -1981,7 +1981,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true, Otherwise, select No. To implement a hybrid cloud model, a company must first have a private cloud.
+### To implement a hybrid cloud model, a company must first have a private cloud.
 
 - [ ] Yes.
 - [x] No.
