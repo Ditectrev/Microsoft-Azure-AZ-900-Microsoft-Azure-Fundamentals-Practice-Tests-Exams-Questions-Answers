@@ -118,7 +118,7 @@
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |121 | [Azure Databricks is an Apache Spark-based analytics service.](#azure-databricks-is-an-apache-spark-based-analytics-service)|
 |122 | [Which Azure service provides a set of version control tools to manage code?](#which-azure-service-provides-a-set-of-version-control-tools-to-manage-code)|
-|123 | [Azure Site Recovery provides fault tolerance for virtual machines:](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
+|123 | [Azure Site Recovery provides fault tolerance for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |124 | [An Availability Zone in Azure has physically separate locations across two continents.](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |125 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company's-regional-requirements-what-should-you-use)|
 |126 | [Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts. Instructions: Review the underlined text. If it makes the statement correct, select "No change is needed". If the statement is incorrect, select the answer choice that makes the statement corect.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-corect)|
@@ -1564,7 +1564,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Azure Site Recovery provides fault tolerance for virtual machines:
+### Azure Site Recovery provides fault tolerance for virtual machines.
 
 - [x] No change is needed.
 - [ ] Disaster recovery.
