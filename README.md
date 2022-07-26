@@ -168,7 +168,7 @@
 |171 | [You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing Azure subscription exceeds a specified limit.](#you-can-use-advisor-recommendations-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-azure-subscription-exceeds-a-specified-limit)|
 |172 | [To implement a hybrid cloud model, a company must first have a private cloud.](#to-implement-a-hybrid-cloud-model-a-company-must-first-have-a-private-cloud)|
 |173 | [A company can extend the computing resources of its internal network by using a hybrid cloud.](#a-company-can-extend-the-computing-resources-of-its-internal-network-by-using-a-hybrid-cloud)|
-|174 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No.  In a public cloud model, only guest users at your company can access the resources in the cloud.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
+|174 | [In a public cloud model, only guest users at your company can access the resources in the cloud.](#in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
 |175 | [You have an on-premises network that contains several servers. You plan to migrate all the servers to Azure. You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended period. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-several-servers-you-plan-to-migrate-all-the-servers-to-azure-you-need-to-recommend-a-solution-to-ensure-that-some-of-the-servers-are-available-if-a-single-azure-data-center-goes-offline-for-an-extended-period-what-should-you-include-in-the-recommendation)|
 |176 | [An organization that hosts its infrastructure [in a private cloud] can close its data center. Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the statement is incorrect, select the answer choice that makes the statement correct.](#an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-close-its-data-center-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |177 | [What are two characteristics of the public cloud? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#what-are-two-characteristics-of-the-public-cloud-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
@@ -1995,7 +1995,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true, Otherwise, select No.  In a public cloud model, only guest users at your company can access the resources in the cloud.
+### In a public cloud model, only guest users at your company can access the resources in the cloud.
 
 - [ ] Yes.
 - [x] No.
