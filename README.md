@@ -394,7 +394,6 @@
 |412 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |413 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure has built-in authentication and authorization services that provide secure access to Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
 |414 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can view your company's regulatory compliance report from](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-view-your-company's-regulatory-compliance-report-from)|
-|415 | [What should you use to evaluate whether your companyג€™s Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-company-has-azure-environment-meets-regulatory-requirements)|
 |416 | [Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-you-need-to-ensure-that-administrators-can-only-create-resources-in-those-regions-what-should-you-use)|
 |417 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-requires-the-implementation-of-domain-controllers-on-azure-virtual-machines)|
 |418 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) provides authentication services for resources hosted in Azure and Microsoft 365](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-provides-authentication-services-for-resources-hosted-in-azure-and-microsoft-365)|
@@ -409,7 +408,6 @@
 |427 | [You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use? To answer, select the appropriate setting in the answer area. Hot Area:](#you-create-a-resource-group-named-rg1-in-azure-resource-manager-you-need-to-prevent-the-accidental-deletion-of-the-resources-in-rg1-which-setting-should-you-use-to-answer-select-the-appropriate-setting-in-the-answer-area-hot-area)|
 |428 | [You have a resource group named RG1. You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-the-solution-must-ensure-that-other-objects-can-be-created-in-rg1-what-should-you-use)|
 |429 | [You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-integrated applications. What should you implement?](#you-have-an-azure-subscription-and-100-windows-10-devices-you-need-to-ensure-that-only-users-whose-devices-have-the-latest-security-patches-installed-can-access-azure-active-directory-azure-ad-integrated-applications-what-should-you-implement)|
-|430 | [What should you use to evaluate whether your companyג€™s Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-company-has-azure-environment-meets-regulatory-requirements)|
 |431 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: enables users to authenticate to multiple applications by using single sign-on (SSO)](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-enables-users-to-authenticate-to-multiple-applications-by-using-single-sign-on-sso)|
 |432 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will)|
 |433 | [Which task can you perform by using Azure Advisor?](#which-task-can-you-perform-by-using-azure-advisor)|
@@ -3731,15 +3729,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### What should you use to evaluate whether your company has Azure environment meets regulatory requirements?
-
-- [ ] Azure Service Health.
-- [ ] Azure Knowledge Center.
-- [x] Azure Security Center.
-- [ ] Azure Advisor.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?
 
 - [ ] A read-only lock.
@@ -3848,15 +3837,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Bastion.
 - [ ] Azure Firewall.
 - [ ] Azure Policy.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### What should you use to evaluate whether your company has Azure environment meets regulatory requirements?
-
-- [ ] The Knowledge Center website.
-- [ ] The Advisor blade from the Azure portal.
-- [x] Compliance Manager from the Service Trust Portal.
-- [ ] Compliance Manager from the Service Trust Portal.
 
 *[⬆ Back to Top](#table-of-contents)*
 
