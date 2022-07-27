@@ -139,7 +139,6 @@
 |142 | [Which Azure service should you use to store certificates?](#which-azure-service-should-you-use-to-store-certificates)|
 |143 | [You have a resource group named RG1. You plan to create virtual networks and app services in RG1. You need to prevent the creation of virtual machines only in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-plan-to-create-virtual-networks-and-app-services-in-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-what-should-you-use)|
 |144 | [What can Azure Information Protection encrypt?](#what-can-azure-information-protection-encrypt)|
-|145 | [What should you use to evaluate whether your company's Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-company's-azure-environment-meets-regulatory-requirements)|
 |146 | [From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days. Instructions: Review the underlined text. If it makes the statement correct, select "No change is needed". If the statement is incorrect, select the answer choice that makes the statement correct.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |147 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
 |148 | [From Azure Cloud Shell, you can track your company's regulatory standards and regulations, such as ISO 27001](#from-azure-cloud-shell-you-can-track-your-company's-regulatory-standards-and-regulations-such-as-iso-27001)|
@@ -201,7 +200,7 @@
 |210 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |211 | [[Resource groups] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions. Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the statement is incorrect, select the answer choice that makes the statement correct.](#resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |212 | [Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration.  What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
-|213 | [What should you use to evaluate whether your company’s Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-companys-azure-environment-meets-regulatory-requirements)|
+|213 | [What should you use to evaluate whether your company's Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-companys-azure-environment-meets-regulatory-requirements)|
 |214 | [From [Azure Monitor], you can view which user turned off a specific virtual machine during the last 14 days. Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the statement is incorrect, select the answer choice that makes the statement correct.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |215 | [From [Azure Cloud Shell], you can track your company’s regulatory standards and regulations, such as ISO 27001. Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed.” If the statement is incorrect, select the answer choice that makes the statement correct.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
 |216 | [The [Microsoft Online Services Privacy Statement] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data. Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed.” If the statement is incorrect, select the answer choice that makes the statement correct.](#the-microsoft-online-services-privacy-statement-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data-instructions-review-the-underlined-text-if-it-makes-the-statement-correct-select-no-change-is-needed-if-the-statement-is-incorrect-select-the-answer-choice-that-makes-the-statement-correct)|
@@ -1746,15 +1745,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
-
-- [ ] The Knowledge Center website.
-- [ ] The Advisor blade from the Azure portal.
-- [x] Compliance Manager from the Service Trust Portal.
-- [ ] The Solutions blade from the Azure portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days. Instructions: Review the underlined text. If it makes the statement correct, select "No change is needed". If the statement is incorrect, select the answer choice that makes the statement correct.
 
 - [ ] No change is needed.
@@ -2274,7 +2264,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### What should you use to evaluate whether your company’s Azure environment meets regulatory requirements?
+### What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
 
 - [ ] The Knowledge Center website.
 - [ ] The Advisor blade from the Azure portal.
