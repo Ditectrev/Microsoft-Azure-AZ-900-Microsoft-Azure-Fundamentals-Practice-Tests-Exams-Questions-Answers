@@ -154,7 +154,7 @@
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
 |159 | [You can create an Azure support request from support.microsoft.com](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |160 | [The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone)|
-|161 | [All Azure services that are in public preview are provided without any documentalion.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentalion)|
+|161 | [All Azure services that are in public preview are provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |163 | [An Azure service is available to all Azure customers when it is in public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
 |164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
@@ -1873,7 +1873,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### All Azure services that are in public preview are provided without any documentalion.
+### All Azure services that are in public preview are provided without any documentation.
 
 - [ ] No change is needed.
 - [ ] Only configurable from Azure CLI.
