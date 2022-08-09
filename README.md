@@ -547,7 +547,6 @@
 |577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
 |578 | [To complete the sentence, select the appropriate option in the answer area. An Azure Policy initiative is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-azure-policy-initiative-is-a)|
 |579 | [Your company has an Azure subscription that contains the following unused resources:* 20 user accounts in Azure Active Directory (Azure AD) * Five groups in Azure AD * 10 public IP addresses * 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources_-20-user-accounts-in-azure-active-directory-azure-ad-_-five-groups-in-azure-ad-_-10-public-ip-addresses-_-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
-|580 | [This question requires that you evaluate the bold text to determine if it is correct. All Azure services that are in public preview are provided without any documentation.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
 |582 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a ... offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
@@ -4909,15 +4908,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The network interfaces.
 - [x] The public IP addresses.
 - [ ] The groups.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the bold text to determine if it is correct. All Azure services that are in public preview are provided without any documentation.
-
-- [ ] No change is needed.
-- [ ] Only configurable from Azure CLI.
-- [x] Excluded from the Service Level Agreements.
-- [ ] Only configurable from the Azure portal.
 
 *[⬆ Back to Top](#table-of-contents)*
 
