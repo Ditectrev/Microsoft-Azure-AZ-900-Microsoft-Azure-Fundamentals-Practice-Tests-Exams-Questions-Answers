@@ -173,7 +173,6 @@
 |186 | [[An Azure region] contains one or more data centers that are connected by using a low-latency network.](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
 |187 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-remove-the-virtual-machines-what-should-you-recommend)|
 |188 | [One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
-|189 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data. Which two solutions should you recommend? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |190 | [You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?](#you-need-to-identify-the-type-of-failure-for-which-an-azure-availability-zone-can-be-used-to-protect-access-to-azure-services-what-should-you-identify)|
 |192 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-macos-and-has-powershell-core-60-installed-does-this-meet-the-goal)|
 |193 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the amount of inbound traffic to all the Azure virtual networks. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-all-the-azure-virtual-networks-what-should-you-create)|
@@ -569,7 +568,6 @@
 |615 | [You have an Azure environment that contains 10 web apps.To which URL should you connect to manage all the Azure resources? To answer, select the appropriate options in the answer area . NOTE: Each correct selection is worth one point. https://___.___.com Hot area: 2](#you-have-an-azure-environment-that-contains-10-web-apps-to-which-url-should-you-connect-to-manage-all-the-azure-resources-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-https//12com-hot-area-2)|
 |616 | [You plan to create an Azure virtual machine. You need to identify which storage service must be used to store the data disks of the virtual machine. What should you identify? To answer, select the appropriate service in the answer area.](#you-plan-to-create-an-azure-virtual-machine-you-need-to-identify-which-storage-service-must-be-used-to-store-the-data-disks-of-the-virtual-machine-what-should-you-identify-to-answer-select-the-appropriate-service-in-the-answer-area)|
 |617 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, white others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the PowerApps portal. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-white-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
-|618 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data. Which two solutions should you recommend? Each correct answer presents a complete solution . NOTE: Each correct selection is worth one point.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |620 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |621 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point To implement an Azure Multi-Factor Authentication (MFA) solution, you must deploy a federation solution or sync on-premises identities to the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-implement-an-azure-multi-factor-authentication-mfa-solution-you-must-deploy-a-federation-solution-or-sync-on-premises-identities-to-the-cloud)|
 |622 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-two-valid-methods-for-azure-multi-factor-authentication-mfa-are-picture-identification-and-a-passport-number)|
@@ -2014,16 +2012,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Automatic scaling.
 - [ ] Data compression.
 - [ ] Versioning.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data. Which two solutions should you recommend? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.
-
-- [x] Azure Data Lake.
-- [ ] Azure Cosmos DB.
-- [x] Azure SQL Data Warehouse.
-- [ ] Azure SQL Database.
-- [ ] Azure Database for PostgreSQL.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -5049,16 +5037,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data. Which two solutions should you recommend? Each correct answer presents a complete solution . NOTE: Each correct selection is worth one point.
-
-- [ ] Azure SQL Database.
-- [ ] Azure Cosmos DB.
-- [x] Azure SQL Data Warehouse.
-- [ ] Azure Database for PostgreSQL.
-- [x] Azure Data Lake.
 
 *[⬆ Back to Top](#table-of-contents)*
 
