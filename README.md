@@ -83,7 +83,6 @@
 |85 | [Your company plans to migrate all its data and resources to Azure. The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure virtual machines, Azure SQL databases, and Azure Storage accounts. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company's-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-virtual-machines-azure-sql-databases-and-azure-storage-accounts-does-this-meet-the-goal)|
 |86 | [Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the company. Each application will have several prerequisite applications and services installed. You need to recommend a cloud deployment solution for all the applications. What should you recommend?](#your-company-plans-to-deploy-several-custom-applications-to-azure-the-applications-will-provide-invoicing-services-to-the-customers-of-the-company-each-application-will-have-several-prerequisite-applications-and-services-installed-you-need-to-recommend-a-cloud-deployment-solution-for-all-the-applications-what-should-you-recommend)|
 |87 | [An Azure region contains one or more data centers that are connected by using a low-latency network](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
-|89 | [One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
 |90 | [A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use? Each correct answer presents a complete solution.](#a-support-engineer-plans-to-perform-several-azure-management-tasks-by-using-the-azure-cli-you-install-the-cli-on-a-computer-you-need-to-tell-the-support-engineer-which-tools-to-use-to-run-the-cli-which-two-tools-should-you-instruct-the-support-engineer-to-use-each-correct-answer-presents-a-complete-solution)|
 |91 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend? Each correct answer presents a complete solution.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution)|
 |92 | [You need to identify the type of failure for which an Azure Availability Zone can be usod to protect access to Azure services What should you identify?](#you-need-to-identify-the-type-of-failure-for-which-an-azure-availability-zone-can-be-usod-to-protect-access-to-azure-services-what-should-you-identify)|
@@ -501,7 +500,6 @@
 |536 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services allows developers to deploy or update applications to Azure using Continuous Integration/Continuous Delivery (CI/CD) pipelines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-allows-developers-to-deploy-or-update-applications-to-azure-using-continuous-integration/continuous-delivery-ci/cd-pipelines)|
 |537 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services includes a Git repository for developers to store code](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-includes-a-git-repository-for-developers-to-store-code)|
 |538 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services can be used to build and host web apps](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-can-be-used-to-build-and-host-web-apps)|
-|540 | [This question requires that you evaluate the underlined text to determine if it is correct. One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
 |542 | [This question requires that you evaluate the underlined text to determine if it is correct. You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must be deployed to a separate virtual network.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-be-deployed-to-a-separate-virtual-network)|
 |543 | [You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create-to-answer-select-the-appropriate-resource-in-the-answer-area)|
 |544 | [This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
@@ -1250,14 +1248,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Is found in each country where Microsoft has a subsidiary office.
 - [ ] Can be found in every country in Europe and the Americas only.
 - [ ] Contains one or more data centers that are connected by using a high-latency network.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.
-- [x] No change is needed.
-- [ ] Automatic scaling.
-- [ ] Data compression.
-- [ ] Versioning.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4513,15 +4503,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.
-
-- [x] No change is needed.
-- [ ] Automatic scaling.
-- [ ] Data compression.
-- [ ] Versioning.
 
 *[⬆ Back to Top](#table-of-contents)*
 
