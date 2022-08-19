@@ -83,7 +83,6 @@
 |85 | [Your company plans to migrate all its data and resources to Azure. The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure virtual machines, Azure SQL databases, and Azure Storage accounts. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company's-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-virtual-machines-azure-sql-databases-and-azure-storage-accounts-does-this-meet-the-goal)|
 |86 | [Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the company. Each application will have several prerequisite applications and services installed. You need to recommend a cloud deployment solution for all the applications. What should you recommend?](#your-company-plans-to-deploy-several-custom-applications-to-azure-the-applications-will-provide-invoicing-services-to-the-customers-of-the-company-each-application-will-have-several-prerequisite-applications-and-services-installed-you-need-to-recommend-a-cloud-deployment-solution-for-all-the-applications-what-should-you-recommend)|
 |87 | [An Azure region contains one or more data centers that are connected by using a low-latency network](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
-|88 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-what-should-you-recommend)|
 |89 | [One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
 |90 | [A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use? Each correct answer presents a complete solution.](#a-support-engineer-plans-to-perform-several-azure-management-tasks-by-using-the-azure-cli-you-install-the-cli-on-a-computer-you-need-to-tell-the-support-engineer-which-tools-to-use-to-run-the-cli-which-two-tools-should-you-instruct-the-support-engineer-to-use-each-correct-answer-presents-a-complete-solution)|
 |91 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend? Each correct answer presents a complete solution.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution)|
@@ -1251,15 +1250,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Is found in each country where Microsoft has a subsidiary office.
 - [ ] Can be found in every country in Europe and the Americas only.
 - [ ] Contains one or more data centers that are connected by using a high-latency network.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and What should you recommend?
-
-- [ ] Azure Reserved Virtual Machines (VM) Instances.
-- [ ] Azure virtual machine scale sets.
-- [x] Azure DevTest Labs.
-- [ ] Microsoft Managed Desktop.
 
 *[⬆ Back to Top](#table-of-contents)*
 
