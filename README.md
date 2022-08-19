@@ -172,7 +172,7 @@
 |181 | [Your company hosts an accounting application named App1 that is used by all the customers of the company. App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?](#your-company-hosts-an-accounting-application-named-app1-that-is-used-by-all-the-customers-of-the-company-app1-has-low-usage-during-the-first-three-weeks-of-each-month-and-very-high-usage-during-the-last-week-of-each-month-which-benefit-of-azure-cloud-services-supports-cost-management-for-this-type-of-usage-pattern)|
 |182 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more scale sets. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-scale-sets-does-this-meet-the-goal)|
 |184 | [You plan to provision Infrastructure as a Service (IaaS) resources in Azure. Which resource is an example of IaaS?](#you-plan-to-provision-infrastructure-as-a-service-iaas-resources-in-azure-which-resource-is-an-example-of-iaas)|
-|186 | [An Azure region [contains one or more data centers that are connected by using a low-latency network.](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
+|186 | [[An Azure region] contains one or more data centers that are connected by using a low-latency network.](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
 |187 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-remove-the-virtual-machines-what-should-you-recommend)|
 |188 | [One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
 |189 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data. Which two solutions should you recommend? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
@@ -299,7 +299,6 @@
 |317 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can have multiple account administrators](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-subscription-can-have-multiple-account-administrators)|
 |318 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can be managed by using a Microsoft account only](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |319 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group can contain multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-group-can-contain-multiple-azure-subscriptions)|
-|320 | [This question requires that you evaluate the underlined text to determine if it is correct. An Azure region contains one or more data centers that are connected by using a low-latency network.(#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
 |321 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To use Azure Active Directory (Azure AD) credentials to sign in to a computer that runs Windows 10, the computer must be joined to Azure AD](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-use-azure-active-directory-azure-ad-credentials-to-sign-in-to-a-computer-that-runs-windows-10-the-computer-must-be-joined-to-azure-ad)|
 |322 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Users in Azure Active Directory (Azure AD) are organized by using resource groups](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
 |323 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) groups support dynamic membership rules](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-groups-support-dynamic-membership-rules)|
@@ -594,7 +593,6 @@
 |640 | [Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.](#which-cloud-deployment-solution-is-used-for-azure-virtual-machines-and-azure-sql-databases-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point)|
 |641 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure virtual machines:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-virtual-machines)|
 |642 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure SQL databases](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-sql-databases)|
-|644 | [This question requires that you evaluate the underlined text to determine if it is correct. An Azure region contains one or more data centers that are connected by using a low-latency network.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
 |645 | [To complete the sentence, select the appropriate option in the answer area. When planning to migrate a public website to Azure, you must plan to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to)|
 |646 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Pay-As-You-Go pricing is an example of CapEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-pay-as-you-go-pricing-is-an-example-of-capex)|
 |647 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Reserved VM Instances are an example of OpEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-reserved-vm-instances-are-an-example-of-opex)|
@@ -1247,7 +1245,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An Azure region contains one or more data centers that are connected by using a low-latency network.
+### [An Azure region] contains one or more data centers that are connected by using a low-latency network.
 
 - [x] No change is needed.
 - [ ] Is found in each country where Microsoft has a subsidiary office.
@@ -2019,15 +2017,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] An Azure virtual machine.
 - [ ] An Azure logic app.
 - [ ] An Azure SQL database.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### An Azure region [contains one or more data centers that are connected by using a low-latency network.
-
-- [x] No change is needed.
-- [ ] Is found in each country where Microsoft has a subsidiary office.
-- [ ] Can be found in every country in Europe and the Americas only.
-- [ ] Contains one or more data centers that are connected by using a high-latency network.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -2998,15 +2987,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. An Azure region contains one or more data centers that are connected by using a low-latency network.
-
-- [x] No change is needed.
-- [ ] Is found in each country where Microsoft has a subsidiary office.
-- [ ] Can be found in every country in Europe and the Americas only.
-- [ ] Contains one or more data centers that are connected by using a high-latency network.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -5228,15 +5208,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Infrastructure as a service (laaS).
 - [x] Platform as a service (PaaS).
 - [ ] Software as a service (SaaS).
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. An Azure region contains one or more data centers that are connected by using a low-latency network.
-
-- [x] No change is needed.
-- [ ] Is found in each country where Microsoft has a subsidiary office.
-- [ ] Can be found in every country in Europe and the Americas only.
-- [ ] Contains one or more data centers that are connected by using a high-latency network.
 
 *[⬆ Back to Top](#table-of-contents)*
 
