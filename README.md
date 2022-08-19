@@ -1263,7 +1263,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Azure Data Lake.
 - [ ] Azure Cosmos DB.
-- [x] Azure SOQL Data Warehouse.
+- [x] Azure SQL Data Warehouse.
 - [ ] Azure SQL Database.
 - [ ] Azure Database for PostgreSQL.
 
