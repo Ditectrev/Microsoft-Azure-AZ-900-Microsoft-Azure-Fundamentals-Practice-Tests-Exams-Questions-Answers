@@ -607,7 +607,6 @@ to ensure that the services running on the virtual machines are available if a s
 |662 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure resources can only access other resources in the same resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-resources-can-only-access-other-resources-in-the-same-resource-group)|
 |663 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you delete a resource group, all the resources in the resource group will be deleted](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-delete-a-resource-group-all-the-resources-in-the-resource-group-will-be-deleted)|
 |664 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A resource group can contain resources from multiple Azure regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-resource-group-can-contain-resources-from-multiple-azure-regions)|
-|665 | [You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?](#you-need-to-identify-the-type-of-failure-for-which-an-azure-availability-zone-can-be-used-to-protect-access-to-azure-services-what-should-you-identify)|
 |668 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Data that is copied to an Azure Storage account is maintained automatically in at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
 |669 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All data that is copied to an Azure Storage account is backed up automatically to another Azure data center](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-data-that-is-copied-to-an-azure-storage-account-is-backed-up-automatically-to-another-azure-data-center)|
 |670 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. An Azure Storage account can contain up to 2 TB of data and up to one million files](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-storage-account-can-contain-up-to-2-tb-of-data-and-up-to-one-million-files)|
@@ -5288,15 +5287,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?
-
-- [ ] a physical server failure.
-- [ ] an Azure region failure.
-- [ ] a storage failure.
-- [x] an Azure data center failure.
 
 *[⬆ Back to Top](#table-of-contents)*
 
