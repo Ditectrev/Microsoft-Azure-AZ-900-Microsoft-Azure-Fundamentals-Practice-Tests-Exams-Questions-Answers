@@ -317,7 +317,6 @@
 |346 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-improve-the-security-of-an-azure-active-directory-azure-ad-environment)|
 |347 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to reduce the cost of running Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-reduce-the-cost-of-running-azure-virtual-machines)|
 |348 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-configure-the-network-settings-on-azure-virtual-machines)|
-|351 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From a command prompt, sign in to Azure and then run the command. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-subscription-named-subscription1-you-sign-in-to-the-azure-portal-and-create-a-resource-group-named-rg1-from-azure-documentation-you-have-the-following-command-that-creates-a-virtual-machine-named-vm1-az-vm-create-resource-group-rg1-name-vm1-image-ubuntults-generate-ssh-keys-you-need-to-create-vm1-in-subscription1-by-using-the-command-solution-from-a-computer-that-runs-windows-10-install-azure-cli-from-a-command-prompt-sign-in-to-azure-and-then-run-the-command-does-this-meet-the-goal)|
 |352 | [Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10](#several-support-engineers-plan-to-manage-azure-by-using-the-computers-shown-in-the-following-table-computer1-windows-10)|
 |353 | [Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10](#several-support-engineers-plan-to-manage-azure-by-using-the-computers-shown-in-the-following-table-computer1-windows-10)|
 |354 | [Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10](#several-support-engineers-plan-to-manage-azure-by-using-the-computers-shown-in-the-following-table-computer1-windows-10)|
@@ -1397,13 +1396,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-### You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh=keys You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From a command prompt, sign in to Azure and then run the command. Does this meet the goal?
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
 
 ### An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Windows 10 and has the Azure PowerShell module installed. Does this meet the goal?
 
@@ -3094,13 +3086,6 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From a command prompt, sign in to Azure and then run the command. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
