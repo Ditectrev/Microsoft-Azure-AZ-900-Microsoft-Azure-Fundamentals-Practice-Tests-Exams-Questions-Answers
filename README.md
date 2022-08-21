@@ -109,7 +109,6 @@
 |119 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |122 | [Which Azure service provides a set of version control tools to manage code?](#which-azure-service-provides-a-set-of-version-control-tools-to-manage-code)|
-|125 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company's-regional-requirements-what-should-you-use)|
 |126 | [Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
 |127 | [Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?](#your-company-plans-to-automate-the-deployment-of-servers-to-azure-your-manager-is-concerned-that-you-may-expose-administrative-credentials-during-the-deployment-you-need-to-recommend-an-azure-solution-that-encrypts-the-administrative-credentials-during-the-deployment-what-should-you-include-in-the-recommendation)|
 |128 | [You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-control-the-ports-that-devices-on-the-internet-can-use-to-access-the-virtual-machines-what-should-you-use)|
@@ -179,7 +178,7 @@
 |203 | [[Azure Databricks] is an Apache Spark-based analytics service.](#azure-databricks-is-an-apache-spark-based-analytics-service)|
 |204 | [Azure Site Recovery provides [fault tolerance] for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |205 | [An Availability Zone in Azure has physically separate locations [across two continents].](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
-|206 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company’s regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-companys-regional-requirements-what-should-you-use)|
+|206 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-companys-regional-requirements-what-should-you-use)|
 |207 | [Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
 |208 | [After you create a virtual machine, you need to modify the [network security group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |209 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
@@ -363,7 +362,6 @@
 |403 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource can have multiple Delete locks](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-can-have-multiple-delete-locks)|
 |404 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource inherits locks from its resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-inherits-locks-from-its-resource-group)|
 |405 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If an Azure resource has a Read-only lock, you can add a Delete lock to the resource](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-an-azure-resource-has-a-read-only-lock-you-can-add-a-delete-lock-to-the-resource)|
-|406 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the companyג€™s regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company-has-regional-requirements-what-should-you-use)|
 |407 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-authorization-to-access-azure-resources-can-be-provided-only-to-azure-active-directory-azure-ad-users)|
 |408 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on- premises Active Directory can be used to access Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |409 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure has built-in authentication and authorization services that provide secure access to Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
@@ -1453,15 +1451,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?
-
-- [ ] The Knowledge Center.
-- [ ] Azure Marketplace.
-- [ ] The MyApps portal.
-- [x] The Trust Center.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.
 
 - [ ] No change is needed.
@@ -2041,7 +2030,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company’s regional requirements. What should you use?
+### Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?
 
 - [ ] The Knowledge Center.
 - [ ] Azure Marketplace.
@@ -3433,15 +3422,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company has regional requirements. What should you use?
-
-- [ ] The Knowledge Center.
-- [ ] Azure Marketplace.
-- [ ] The MyApps portal.
-- [x] The Trust Center.
 
 *[⬆ Back to Top](#table-of-contents)*
 
