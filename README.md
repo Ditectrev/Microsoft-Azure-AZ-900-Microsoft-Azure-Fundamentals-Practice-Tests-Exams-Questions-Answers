@@ -109,7 +109,6 @@
 |119 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |122 | [Which Azure service provides a set of version control tools to manage code?](#which-azure-service-provides-a-set-of-version-control-tools-to-manage-code)|
-|124 | [An Availability Zone in Azure has physically separate locations across two continents.](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |125 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company's-regional-requirements-what-should-you-use)|
 |126 | [Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
 |127 | [Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?](#your-company-plans-to-automate-the-deployment-of-servers-to-azure-your-manager-is-concerned-that-you-may-expose-administrative-credentials-during-the-deployment-you-need-to-recommend-an-azure-solution-that-encrypts-the-administrative-credentials-during-the-deployment-what-should-you-include-in-the-recommendation)|
@@ -179,7 +178,7 @@
 |202 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |203 | [[Azure Databricks] is an Apache Spark-based analytics service.](#azure-databricks-is-an-apache-spark-based-analytics-service)|
 |204 | [Azure Site Recovery provides [fault tolerance] for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
-|205 | [An Availability Zone in Azure has physically separate locations [across two continents.](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
+|205 | [An Availability Zone in Azure has physically separate locations [across two continents].](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |206 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company’s regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-companys-regional-requirements-what-should-you-use)|
 |207 | [Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
 |208 | [After you create a virtual machine, you need to modify the [network security group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
@@ -269,7 +268,6 @@
 |295 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you assign permissions for a user to manage a resource group, the user can manage all the Azure resources in that resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-assign-permissions-for-a-user-to-manage-a-resource-group-the-user-can-manage-all-the-azure-resources-in-that-resource-group)|
 |296 | [You plan to deploy a critical line-of-business application to Azure. The application will run on an Azure virtual machine. You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent. What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Minimum number of virtual machines:](#you-plan-to-deploy-a-critical-line-of-business-application-to-azure-the-application-will-run-on-an-azure-virtual-machine-you-need-to-recommend-a-deployment-solution-for-the-application-the-solution-must-provide-a-guaranteed-availability-of-9999-percent-what-is-the-minimum-number-of-virtual-machines-and-the-minimum-number-of-availability-zones-you-should-recommend-for-the-deployment-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area-minimum-number-of-virtual-machines)|
 |297 | [You plan to deploy a critical line-of-business application to Azure. The application will run on an Azure virtual machine. You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent. What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Minimum number of availability zones:](#you-plan-to-deploy-a-critical-line-of-business-application-to-azure-the-application-will-run-on-an-azure-virtual-machine-you-need-to-recommend-a-deployment-solution-for-the-application-the-solution-must-provide-a-guaranteed-availability-of-9999-percent-what-is-the-minimum-number-of-virtual-machines-and-the-minimum-number-of-availability-zones-you-should-recommend-for-the-deployment-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area-minimum-number-of-availability-zones)|
-|298 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Availability Zone in Azure has physically separate locations](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-availability-zone-in-azure-has-physically-separate-locations)|
 |299 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data that is stored in an Azure Storage account automatically has at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-stored-in-an-azure-storage-account-automatically-has-at-least-three-copies)|
 |300 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All data that is copied to an Azure Storage account is backed up automatically to another Azure data center](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-data-that-is-copied-to-an-azure-storage-account-is-backed-up-automatically-to-another-azure-data-center)|
 |301 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure Storage account can contain up to 2 TB of data and up to one million files](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-storage-account-can-contain-up-to-2-tb-of-data-and-up-to-one-million-files)|
@@ -474,7 +472,6 @@
 |518 | [This question requires that you evaluate the underlined text to determine if it is correct. When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines-to-the-same-azure-region)|
 |519 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to migrate all its data and resources to Azure. The company’s migration plan states that only platform as a service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server. installed. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-companys-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-supports-the-planned-migration-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
 |521 | [To complete the sentence, select the appropriate option in the answer area. All Azure services that are in public preview are](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-all-azure-services-that-are-in-public-preview-are)|
-|522 | [To complete the sentence, select the appropriate option in the answer area. An Availability Zone in Azure has physically separate locations](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-availability-zone-in-azure-has-physically-separate-locations)|
 |523 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a - offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
 |524 | [To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
 |525 | [Your company plans to move several servers to Azure. The company’s compliance policy states that a server named FinServer must be on a separate network segment You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?](#your-company-plans-to-move-several-servers-to-azure-the-companys-compliance-policy-states-that-a-server-named-finserver-must-be-on-a-separate-network-segment-you-are-evaluating-which-azure-services-can-be-used-to-meet-the-compliance-policy-requirements-which-azure-solution-should-you-recommend)|
@@ -1456,15 +1453,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An Availability Zone in Azure has physically separate locations across two continents.
-
-- [ ] No change is needed.
-- [x] Within a single Azure region.
-- [ ] Within multiple Azure regions.
-- [ ] Within a single Azure datacenter.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?
 
 - [ ] The Knowledge Center.
@@ -2044,7 +2032,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An Availability Zone in Azure has physically separate locations [across two continents.
+### An Availability Zone in Azure has physically separate locations [across two continents].
 
 - [ ] No change is needed.
 - [x] Within a single Azure region.
@@ -2730,15 +2718,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] 1.
 - [x] 2.
 - [ ] 3.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: An Availability Zone in Azure has physically separate locations
-
-- [ ] Across two continents.
-- [x] Within a single Azure region.
-- [ ] Within multiple Azure regions.
-- [ ] Within a single Azure datacenter.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4281,15 +4260,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Only configurable from Azure CLI.
 - [x] Excluded from the Service Level Agreements.
 - [ ] Only configurable from the Azure portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. An Availability Zone in Azure has physically separate locations
-
-- [ ] Across two continents.
-- [x] Within a single Azure region.
-- [ ] Within multiple Azure regions.
-- [ ] Within a single Azure datacenter.
 
 *[⬆ Back to Top](#table-of-contents)*
 
