@@ -106,7 +106,6 @@
 |115 | [You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys You need to create VM1 in Subscription1 by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select Bash. Run the command in Cloud Shell. Does this meet the goal?](#you-have-an-azure-subscription-named-subscription1-you-sign-in-to-the-azure-portal-and-create-a-resource-group-named-rg1-from-azure-documentation-you-have-the-following-command-that-creates-a-virtual-machine-named-vm1-az-vm-create-resource-group-rg1-name-vm1-image-ubuntults-generate-seh-keys-you-need-to-create-vm1-in-subscription1-by-using-the-command-solution-from-the-azure-portal-launch-azure-cloud-shell-and-select-bash-run-the-command-in-cloud-shell-does-this-meet-the-goal)|
 |116 | [Your company has several business units. Each business unit requires 20 different Azure resources for daily operation. All the business units require the same type of Azure resources. You need to recommend a solution to automate the creation of the Azure resources. What should you include in the recommendations?](#your-company-has-several-business-units-each-business-unit-requires-20-different-azure-resources-for-daily-operation-all-the-business-units-require-the-same-type-of-azure-resources-you-need-to-recommend-a-solution-to-automate-the-creation-of-the-azure-resources-what-should-you-include-in-the-recommendations)|
 |117 | [Which Azure service should you use to collect events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-collect-events-from-multiple-resources-into-a-centralized-repository)|
-|118 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell, Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |119 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |121 | [Azure Databricks is an Apache Spark-based analytics service.](#azure-databricks-is-an-apache-spark-based-analytics-service)|
@@ -297,7 +296,6 @@
 |322 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Users in Azure Active Directory (Azure AD) are organized by using resource groups](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
 |323 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) groups support dynamic membership rules](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-groups-support-dynamic-membership-rules)|
 |324 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines remain available if a single data center fails. What are two possible solutions? Each correct answer presents a complete solution](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-remain-available-if-a-single-data-center-fails-what-are-two-possible-solutions-each-correct-answer-presents-a-complete-solution)|
-|325 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |327 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |328 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Monitor can monitor the performance of on-premises computers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-monitor-can-monitor-the-performance-of-on-premises-computers)|
 |329 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Monitor can send alerts to Azure Active Directory security groups](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-monitor-can-send-alerts-to-azure-active-directory-security-groups)|
@@ -1435,13 +1433,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Analysis Services.
 - [ ] Azure Monitor.
 - [ ] Azure Stream Analytics.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell, Does this meet the goal?
-
-- [x] Yes.
-- [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -2943,13 +2934,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Deploy the virtual machines to two or more resource groups.
 - [ ] Deploy the virtual machines to a scale set.
 - [x] Deploy the virtual machines to two or more regions.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?
-
-- [x] Yes.
-- [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
