@@ -112,7 +112,6 @@
 |127 | [Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?](#your-company-plans-to-automate-the-deployment-of-servers-to-azure-your-manager-is-concerned-that-you-may-expose-administrative-credentials-during-the-deployment-you-need-to-recommend-an-azure-solution-that-encrypts-the-administrative-credentials-during-the-deployment-what-should-you-include-in-the-recommendation)|
 |128 | [You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-control-the-ports-that-devices-on-the-internet-can-use-to-access-the-virtual-machines-what-should-you-use)|
 |129 | [Azure Germany can be used by legal residents of Germany only.](#azure-germany-can-be-used-by-legal-residents-of-germany-only)|
-|130 | [After you create a virtual machine, you need to modify the network security group (NSG) to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |131 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a network security group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-lnternet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |132 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 Is accessible from the Internet over HTTP Solution: You modify a DDOS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |133 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-firewall-does-this-meet-the-goal)|
@@ -179,7 +178,7 @@
 |205 | [An Availability Zone in Azure has physically separate locations [across two continents].](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |206 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-companys-regional-requirements-what-should-you-use)|
 |207 | [Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts].](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
-|208 | [After you create a virtual machine, you need to modify the [network security group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
+|208 | [After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |209 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |210 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |211 | [[Resource groups] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
@@ -1477,15 +1476,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### After you create a virtual machine, you need to modify the network security group (NSG) to allow connections to TCP port 8080 on the virtual machine.
-
-- [x] No change is needed.
-- [ ] Virtual network gateway.
-- [ ] Virtual network.
-- [ ] Route tabie.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a network security group (NSG). Does this meet the goal?
 
 - [x] Yes.
@@ -2038,7 +2028,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### After you create a virtual machine, you need to modify the [network security group (NSG)] to allow connections to TCP port 8080 on the virtual machine.
+### After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.
 
 - [X] No change is needed.
 - [ ] Virtual network gateway.
