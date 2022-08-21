@@ -112,7 +112,7 @@
 |127 | [Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?](#your-company-plans-to-automate-the-deployment-of-servers-to-azure-your-manager-is-concerned-that-you-may-expose-administrative-credentials-during-the-deployment-you-need-to-recommend-an-azure-solution-that-encrypts-the-administrative-credentials-during-the-deployment-what-should-you-include-in-the-recommendation)|
 |128 | [You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-control-the-ports-that-devices-on-the-internet-can-use-to-access-the-virtual-machines-what-should-you-use)|
 |129 | [Azure Germany can be used by legal residents of Germany only.](#azure-germany-can-be-used-by-legal-residents-of-germany-only)|
-|131 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a network security group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-lnternet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
+|131 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-lnternet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |132 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 Is accessible from the Internet over HTTP Solution: You modify a DDOS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |133 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-firewall-does-this-meet-the-goal)|
 |134 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure Traffic Manager profile. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-traffic-manager-profile-does-this-meet-the-goal)|
@@ -179,7 +179,7 @@
 |206 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-companys-regional-requirements-what-should-you-use)|
 |207 | [Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts].](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
 |208 | [After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
-|209 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
+|209 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |210 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |211 | [[Resource groups] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |212 | [Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration.  What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
@@ -315,7 +315,7 @@
 |356 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |357 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-which-three-computers-can-run-the-script-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |358 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Firewall will encrypt all the network traffic sent from Azure the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-firewall-will-encrypt-all-the-network-traffic-sent-from-azure-the-internet)|
-|359 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A network security group (NSG) will encrypt all the network traffic sent from Azure to the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-network-security-group-nsg-will-encrypt-all-the-network-traffic-sent-from-azure-to-the-internet)|
+|359 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-network-security-group-nsg-will-encrypt-all-the-network-traffic-sent-from-azure-to-the-internet)|
 |360 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-virtual-machines-that-run-windows-server-2016-can-encrypt-network-traffic-sent-to-the-internet)|
 |361 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Security Center can monitor Azure resources and on- premises resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-security-center-can-monitor-azure-resources-and-on-premises-resources)|
 |362 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All Azure Security Center features are free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-azure-security-center-features-are-free)|
@@ -326,14 +326,14 @@
 |367 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: ](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area)|
 |368 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-what-are-two-possible-solutions-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |379 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can enable just in time (JIT) VM access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-enable-just-in-time-jit-vm-access-by-using)|
-|370 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network subnet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
-|371 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
-|372 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a network interface](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
+|370 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network subnet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
+|371 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
+|372 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a network interface](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
 |374 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-after-you-create-a-virtual-machine-you-need-to-modify-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |375 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create custom Azure roles to control access to resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-custom-azure-roles-to-control-access-to-resources)|
 |376 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user account can be assigned to multiple Azure roles](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-account-can-be-assigned-to-multiple-azure-roles)|
 |377 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A resource group can have the Owner role assigned to multiple users](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
-|378 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
+|378 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |379 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |380 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
 |382 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: From you can view which user turned off a specific virtual machine during the last 14 days](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
@@ -1460,7 +1460,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 ### You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?
 
-- [x] a network security group (NSG).
+- [x] a Network Security Group (NSG).
 - [ ] an Azure Active Directory (Azure AD) role.
 - [ ] an Azure Active Directory group.
 - [ ] an Azure key vault.
@@ -1476,7 +1476,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a network security group (NSG). Does this meet the goal?
+### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
@@ -1555,7 +1555,7 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] Azure Firewall.
 - [ ] An application security group.
 - [ ] Azure DDOS protection.
-- [ ] A network security group (NSG).
+- [ ] A Network Security Group (NSG).
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -1625,7 +1625,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### You need to configure an Azure solution that meets the following requirements: Secures websites from attacks Generates reports that contain details of attempted attacks What should you include in the solution?
 
 - [ ] Azure Firewall.
-- [ ] A network security group (NSG).
+- [ ] A Network Security Group (NSG).
 - [ ] Azure Information Protection.
 - [x] DDOs protection.
 
@@ -2037,7 +2037,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?
+### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
@@ -3065,7 +3065,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A network security group (NSG) will encrypt all the network traffic sent from Azure to the Internet
+### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet
 
 - [ ] Yes.
 - [x] No.
@@ -3103,7 +3103,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### You need to configure an Azure solution that meets the following requirements: Secures websites from attacks - ✑ Generates reports that contain details of attempted attacks What should you include in the solution?
 
 - [ ] Azure Firewall.
-- [ ] A network security group (NSG).
+- [ ] A Network Security Group (NSG).
 - [ ] Azure Information Protection.
 - [x] DDoS protection.
 
@@ -3130,7 +3130,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.
 
 - [ ] Modify an Azure Traffic Manager profile.
-- [x] Modify a network security group (NSG).
+- [x] Modify a Network Security Group (NSG).
 - [ ] Modify a DDoS protection plan.
 - [ ] Modify an Azure firewall.
 
@@ -3145,21 +3145,21 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network subnet
+### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network subnet
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a virtual network
+### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a network security group (NSG) to a network interface
+### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a network interface
 
 - [x] Yes.
 - [ ] No.
@@ -3168,7 +3168,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 ### To complete the sentence, select the appropriate option in the answer area. Hot Area: After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine
 
-- [x] Network security group (NSG).
+- [x] Network Security Group (NSG).
 - [ ] Virtual network gateway.
 - [ ] Virtual network.
 - [ ] Eoute table.
@@ -3196,7 +3196,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a network security group (NSG). Does this meet the goal?
+### Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
@@ -4465,7 +4465,7 @@ to ensure that the services running on the virtual machines are available if a s
 ### You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?
 
 - [ ] Azure Firewall.
-- [ ] A network security group (NSG).
+- [ ] A Network Security Group (NSG).
 - [ ] Azure Information Protection.
 - [x] DDoS protection.
 
