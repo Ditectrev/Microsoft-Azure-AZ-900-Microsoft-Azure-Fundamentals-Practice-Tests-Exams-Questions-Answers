@@ -108,7 +108,6 @@
 |117 | [Which Azure service should you use to collect events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-collect-events-from-multiple-resources-into-a-centralized-repository)|
 |119 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
-|121 | [Azure Databricks is an Apache Spark-based analytics service.](#azure-databricks-is-an-apache-spark-based-analytics-service)|
 |122 | [Which Azure service provides a set of version control tools to manage code?](#which-azure-service-provides-a-set-of-version-control-tools-to-manage-code)|
 |123 | [Azure Site Recovery provides fault tolerance for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |124 | [An Availability Zone in Azure has physically separate locations across two continents.](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
@@ -1447,15 +1446,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Azure Databricks is an Apache Spark-based analytics service.
-
-- [x] No change is needed.
-- [ ] Azure Data Factory.
-- [ ] Azure DevOps.
-- [ ] Azure HDinsight.
 
 *[⬆ Back to Top](#table-of-contents)*
 
