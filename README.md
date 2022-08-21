@@ -109,7 +109,6 @@
 |119 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-powerapps-portal-does-this-meet-the-goal)|
 |120 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |122 | [Which Azure service provides a set of version control tools to manage code?](#which-azure-service-provides-a-set-of-version-control-tools-to-manage-code)|
-|123 | [Azure Site Recovery provides fault tolerance for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |124 | [An Availability Zone in Azure has physically separate locations across two continents.](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |125 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company's-regional-requirements-what-should-you-use)|
 |126 | [Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
@@ -502,7 +501,6 @@
 |550 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |553 | [To complete the sentence, select the appropriate option in the answer area. You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must)|
 |554 | [To complete the sentence, select the appropriate option in the answer area. From ... you can view which user turned off a specific virtual machine during the last 14 days. Azure Control IAM, Azure Event Hubs, Azure Activity Log, Azure Service Health  ](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days-azure-control-iam-azure-event-hubs-azure-activity-log-azure-service-health)|
-|555 | [This question requires that you evaluate the underlined BOLD text to determine if it is correct. Azure Site Recovery provides fault tolerance for virtual machines.](#this-question-requires-that-you-evaluate-the-underlined-bold-text-to-determine-if-it-is-correct-azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |557 | [To complete the sentence, select the appropriate option in the answer area. You have an Azure virtual network named VNĚT1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-have-an-azure-virtual-network-named-vnƒõt1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1)|
 |558 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)|
 |559 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-create-a-rule-to-be-alerted-if-an-azure-service-fails)|
@@ -1458,15 +1456,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Azure Site Recovery provides fault tolerance for virtual machines.
-
-- [x] No change is needed.
-- [ ] Disaster recovery.
-- [ ] Elasticity.
-- [ ] High availability.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### An Availability Zone in Azure has physically separate locations across two continents.
 
 - [ ] No change is needed.
@@ -2048,8 +2037,8 @@ to ensure that the services running on the virtual machines are available if a s
 
 ### Azure Site Recovery provides [fault tolerance] for virtual machines.
 
-- [ ] No change is needed.
-- [x] Disaster recovery.
+- [x] No change is needed.
+- [ ] Disaster recovery.
 - [ ] Elasticity.
 - [ ] High availability.
 
@@ -4508,15 +4497,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Event Hubs.
 - [x] Azure Activity Log.
 - [ ] Azure Service Health.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined BOLD text to determine if it is correct. Azure Site Recovery provides fault tolerance for virtual machines.
-
-- [x] No change is needed.
-- [ ] Disaster recovery.
-- [ ] Elasticity.
-- [ ] High availability.
 
 *[⬆ Back to Top](#table-of-contents)*
 
