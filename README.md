@@ -113,7 +113,6 @@
 |128 | [You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-control-the-ports-that-devices-on-the-internet-can-use-to-access-the-virtual-machines-what-should-you-use)|
 |129 | [Azure Germany can be used by legal residents of Germany only.](#azure-germany-can-be-used-by-legal-residents-of-germany-only)|
 |131 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-lnternet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
-|132 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 Is accessible from the Internet over HTTP Solution: You modify a DDOS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
 |133 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-firewall-does-this-meet-the-goal)|
 |134 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure Traffic Manager profile. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-traffic-manager-profile-does-this-meet-the-goal)|
 |135 | [Which two types of customers are eligible to use Azure Government to develop a cloud solution?](#which-two-types-of-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution)|
@@ -1478,13 +1477,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 Is accessible from the Internet over HTTP Solution: You modify a DDOS protection plan. Does this meet the goal?
-
-- [ ] Yes.
-- [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
