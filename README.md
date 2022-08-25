@@ -119,7 +119,6 @@
 |136 | [You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?](#you-need-to-ensure-that-when-azure-active-directory-azure-ad-users-connect-to-azure-ad-from-the-internet-by-using-an-anonymous-ip-address-the-users-are-prompted-automatically-to-change-their-password-which-azure-service-should-you-use)|
 |137 | [Your company plans to deploy several web servers and several database servers to Azure. You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers. What should you include in the recommendation?](#your-company-plans-to-deploy-several-web-servers-and-several-database-servers-to-azure-you-need-to-recommend-an-azure-solution-to-limit-the-types-of-connections-from-the-web-servers-to-the-database-servers-what-should-you-include-in-the-recommendation)|
 |138 | [To what should an application connect to retrieve security tokens?](#to-what-should-an-application-connect-to-retrieve-security-tokens)|
-|140 | [Your network contains an Active Directory forest. The forest contains 5.000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the Impact on users after the planned migration. What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
 |141 | [Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?](#which-service-provides-network-traffic-filtering-across-multiple-azure-subscriptions-and-virtual-networks)|
 |142 | [Which Azure service should you use to store certificates?](#which-azure-service-should-you-use-to-store-certificates)|
 |143 | [You have a resource group named RG1. You plan to create virtual networks and app services in RG1. You need to prevent the creation of virtual machines only in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-plan-to-create-virtual-networks-and-app-services-in-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-what-should-you-use)|
@@ -1526,15 +1525,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] Azure Active Directory (Azure AD).
 - [ ] A certificate store.
 - [ ] An Azure key vault.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your network contains an Active Directory forest. The forest contains 5.000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the Impact on users after the planned migration. What should you recommend?
-
-- [ ] Implement Azure Multi-Factor Authentication (MFA).
-- [x] Sync all the Active Directory user accounts to Azure Active Directory (Azure AD).
-- [ ] Instruct all users to change their password.
-- [ ] Create a guest user account in Azure Active Directory (Azure AD) for each user.
 
 *[⬆ Back to Top](#table-of-contents)*
 
