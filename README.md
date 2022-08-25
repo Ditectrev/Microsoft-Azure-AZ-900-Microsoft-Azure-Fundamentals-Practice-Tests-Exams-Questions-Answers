@@ -528,7 +528,6 @@
 |593 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Storing 1 TB of data in Azure Blob storage will always cost the same, regardless the Azure region in which the data is located](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-storing-1-tb-of-data-in-azure-blob-storage-will-always-cost-the-same-regardless-the-azure-region-in-which-the-data-is-located)|
 |594 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-you-use-a-general-purpose-v2-azure-storage-account-you-are-only-charged-for-the-amount-of-data-that-is-stored-all-read-and-write-operations-are-free)|
 |595 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Transferring data between Azure Storage accounts in different Azure regions is free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-transferring-data-between-azure-storage-accounts-in-different-azure-regions-is-free)|
-|597 | [This question requires that you evaluate the underlined text to determine if it is correct. Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |599 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-bash-in-azure-cloud-shell-does-this-meet-the-goal)|
 |600 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
 |601 | [This question requires that you evaluate the underlined text to determine if it is correct. When planning to migrate a public website to Azure, you must plan to pay monthly usage costs.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
@@ -4687,15 +4686,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.
-
-- [ ] No change is needed.
-- [ ] Management groups.
-- [x] Azure policies.
-- [ ] Azure App Service plans.
 
 *[⬆ Back to Top](#table-of-contents)*
 
