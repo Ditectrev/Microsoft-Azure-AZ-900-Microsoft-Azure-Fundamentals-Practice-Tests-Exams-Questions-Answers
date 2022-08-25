@@ -372,7 +372,6 @@
 |420 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To implement an Azure Multi-Factor Authentication (MFA) solution, you must sync on-premises identities to the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-implement-an-azure-multi-factor-authentication-mfa-solution-you-must-sync-on-premises-identities-to-the-cloud)|
 |421 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-two-valid-methods-for-azure-multi-factor-authentication-mfa-are-picture-identification-and-a-passport-number)|
 |422 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Multi-Factor Authentication (MFA) can be required for administrative and non- administrative user accounts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-multi-factor-authentication-mfa-can-be-required-for-administrative-and-non-administrative-user-accounts)|
-|423 | [Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration. What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
 |424 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-configure-the-azure-active-directory-azure-ad-activity-logs-to-appear-in-azure-monitor)|
 |425 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Monitor, you can monitor resources across multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-monitor-you-can-monitor-resources-across-multiple-azure-subscriptions)|
 |426 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Monitor, you can create alerts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-monitor-you-can-create-alerts)|
@@ -3488,15 +3487,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration. What should you recommend?
-
-- [ ] Implement Azure Multi-Factor Authentication (MFA).
-- [x] Sync all the Active Directory user accounts to Azure Active Directory (Azure AD).
-- [ ] Instruct all users to change their password.
-- [ ] Create a guest user account in Azure Active Directory (Azure AD) for each user.
 
 *[⬆ Back to Top](#table-of-contents)*
 
