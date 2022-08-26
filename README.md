@@ -125,7 +125,7 @@
 |144 | [What can Azure Information Protection encrypt?](#what-can-azure-information-protection-encrypt)|
 |146 | [From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |147 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
-|148 | [From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001](#from-azure-cloud-shell-you-can-track-your-company's-regulatory-standards-and-regulations-such-as-iso-27001)|
+|148 | [From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001)|
 |149 | [The Microsoft Online Services Privacy Statement explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the-microsoft-online-services-privacy-statement-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |150 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks Generates reports that contain details of attempted attacks What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |151 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
@@ -182,7 +182,6 @@
 |211 | [[Resource groups] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#resource-groups-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |212 | [Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration.  What should you recommend?](#your-network-contains-an-active-directory-forest-the-forest-contains-5000-user-accounts-your-company-plans-to-migrate-all-network-resources-to-azure-and-to-decommission-the-on-premises-data-center-you-need-to-recommend-a-solution-to-minimize-the-impact-on-users-after-the-planned-migration-what-should-you-recommend)|
 |213 | [What should you use to evaluate whether your company's Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-companys-azure-environment-meets-regulatory-requirements)|
-|215 | [From [Azure Cloud Shell], you can track your company’s regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001)|
 |216 | [The [Microsoft Online Services Privacy Statement] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the-microsoft-online-services-privacy-statement-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |217 | [If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least [12 months] before.](#if-microsoft-plans-to-end-support-for-an-azure-service-that-does-not-have-a-successor-service-microsoft-will-provide-notification-at-least-12-months-before)|
 |218 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-network-interfaces-does-this-meet-the-goal)|
@@ -1581,7 +1580,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001
+### From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001.
 
 - [ ] No change is needed.
 - [ ] The Microsoft Cloud Partner Portal.
@@ -2052,15 +2051,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The Advisor blade from the Azure portal.
 - [x] Compliance Manager from the Service Trust Portal.
 - [ ] The Security Center blade from the Azure portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### From [Azure Cloud Shell], you can track your company’s regulatory standards and regulations, such as ISO 27001.
-
-- [ ] No change is needed.
-- [ ] The Microsoft Cloud Partner Portal.
-- [x] Compliance Manager.
-- [ ] The Trust Center.
 
 *[⬆ Back to Top](#table-of-contents)*
 
