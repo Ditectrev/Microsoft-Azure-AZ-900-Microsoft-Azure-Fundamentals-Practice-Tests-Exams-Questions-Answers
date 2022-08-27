@@ -130,7 +130,6 @@
 |151 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
 |152 | [Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?](#your-company-has-10-offices-you-plan-to-generate-several-billing-reports-from-the-azure-portal-each-report-will-contain-the-azure-resource-utilization-of-each-office-which-azure-resource-manager-feature-should-you-use-before-you-generate-the-reports)|
 |153 | [Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.](#your-company-plans-to-migrate-to-azure-the-company-has-several-departments-all-the-azure-resources-used-by-each-department-will-be-managed-by-a-department-administrator-what-are-two-possible-techniques-to-segment-azure-for-the-departments-each-correct-answer-presents-a-complete-solution)|
-|154 | [If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft provide notification at least 12 months before.](#if-microsoft-plans-to-end-support-for-an-azure-service-that-does-not-have-a-successor-service-microsoft-provide-notification-at-least-12-months-before)|
 |155 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |156 | [Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |157 | [A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a Standard support plan.](#a-support-plan-solution-that-gives-you-best-practice-information-health-status-and-notifications-and-24/7-access-to-billing-information-at-the-lowest-possible-cost-is-a-standard-support-plan)|
@@ -386,7 +385,6 @@
 |440 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Standard support plan is included in an Azure free account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-standard-support-plan-is-included-in-an-azure-free-account)|
 |441 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
 |442 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
-|443 | [This question requires that you evaluate the underlined text to determine if it is correct. If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-if-microsoft-plans-to-end-support-for-an-azure-service-that-does-not-have-a-successor-service-microsoft-will-provide-notification-at-least-12-months-before)|
 |444 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user who is assigned the Owner role can transfer ownership of an Azure subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-who-is-assigned-the-owner-role-can-transfer-ownership-of-an-azure-subscription)|
 |445 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
 |446 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
@@ -497,7 +495,6 @@
 |565 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Crectory Premum P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-crectory-premum-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
 |566 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-creoit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |567 | [To complete the sentence, select the appropriate option in the answer area. Your company implements to ... automatically add a watermark to Microsoft Word documents that contain credit card information.](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-company-implements-to-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
-|568 | [This question requires that you evaluate the Bold text to determine if it is correct. If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-if-microsoft-plans-to-end-support-for-an-azure-service-that-does-not-have-a-successor-service-microsoft-will-provide-notification-at-least-12-months-before)|
 |569 | [This question requires that you evaluate the underlined text to determine if it is correct. An Azure service is available to all Azure customers when it is in public preview](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
 |570 | [This question requires that you evaluate the Bold text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |571 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All the Azure resources deployed to a single resource group must share the same Azure region](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
@@ -1621,15 +1618,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Multiple Azure Active Directory (Azure AD) directories.
 - [ ] Multiple regions.
 - [x] Multiple resource groups.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft provide notification at least 12 months before.
-
-- [x] No change is needed.
-- [ ] 6 months.
-- [ ] 90 days.
-- [ ] 30 days.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -3593,15 +3581,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before.
-
-- [x] No change is needed.
-- [ ] 6 months.
-- [ ] 90 days.
-- [ ] 30 days.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user who is assigned the Owner role can transfer ownership of an Azure subscription
 
 - [ ] Yes.
@@ -4441,15 +4420,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] DDOS protection.
 - [x] Azure Information Protection.
 - [ ] Azure Active Directory (Azure AD) Identity Protection.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the Bold text to determine if it is correct. If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before.
-
-- [x] No change is needed.
-- [ ] 6 months.
-- [ ] 90 days.
-- [ ] 30 days.
 
 *[⬆ Back to Top](#table-of-contents)*
 
