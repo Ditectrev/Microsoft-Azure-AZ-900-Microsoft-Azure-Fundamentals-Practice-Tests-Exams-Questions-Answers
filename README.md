@@ -126,7 +126,6 @@
 |146 | [From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |147 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
 |148 | [From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001)|
-|149 | [The Microsoft Online Services Privacy Statement explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the-microsoft-online-services-privacy-statement-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |150 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks Generates reports that contain details of attempted attacks What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |151 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
 |152 | [Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?](#your-company-has-10-offices-you-plan-to-generate-several-billing-reports-from-the-azure-portal-each-report-will-contain-the-azure-resource-utilization-of-each-office-which-azure-resource-manager-feature-should-you-use-before-you-generate-the-reports)|
@@ -338,7 +337,7 @@
 |387 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create Group Polices in Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-group-polices-in-azure-active-directory-azure-ad)|
 |388 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can join Windows 10 devices to Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
 |389 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: ]You can join Android devices to Azure Active Directory (Azure AD)(#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-join-android-devices-to-azure-active-directory-azure-ad)|
-|390 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: The explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-the-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
+|390 | [The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |391 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Is the process of verifying a user's credentials](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-is-the-process-of-verifying-a-user's-credentials)|
 |392 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-azure-policy-initiative-definition-is-a)|
 |393 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
@@ -1586,15 +1585,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The Microsoft Cloud Partner Portal.
 - [x] Compliance Manager.
 - [ ] The Trust Center.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### The Microsoft Online Services Privacy Statement explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
-
-- [x] No change is needed.
-- [ ] Microsoft Online Services Terms.
-- [ ] Microsoft Online Service Level Agreement.
-- [ ] Online Subscription Agreement for Microsoft Azure.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -3229,7 +3219,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: The explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
+### The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
 
 - [x] The Microsoft Online Services Privacy Statement.
 - [ ] Microsoft Online Services Terms.
