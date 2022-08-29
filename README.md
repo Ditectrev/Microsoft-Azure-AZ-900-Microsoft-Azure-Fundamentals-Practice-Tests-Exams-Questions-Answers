@@ -133,7 +133,6 @@
 |155 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |156 | [Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
-|159 | [You can create an Azure support request from support.microsoft.com](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |160 | [The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone)|
 |161 | [All Azure services that are in public preview are provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
@@ -185,7 +184,7 @@
 |219 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-public-ip-addresses-does-this-meet-the-goal)|
 |220 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-user-accounts-does-this-meet-the-goal)|
 |221 | [A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a [Standard] support plan.](#a-support-plan-solution-that-gives-you-best-practice-information-health-status-and-notifications-and-247-access-to-billing-information-at-the-lowest-possible-cost-is-a-standard-support-plan)|
-|222 | [You can create an Azure support request from [support.microsoft.com.](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
+|222 | [You can create an Azure support request from [support.microsoft.com].](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |223 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-groups-does-this-meet-the-goal)|
 |224 | [The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24√ó7-access-to-support-engineers-by-phone)|
 |225 | [All Azure services that are in public preview are [provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
@@ -1639,15 +1638,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You can create an Azure support request from support.microsoft.com
-
-- [ ] No change is needed.
-- [x] The Azure portal.
-- [ ] The Knowledge Center.
-- [ ] The Security & Compliance admin center.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
 
 - [x] No change is needed.
@@ -2066,7 +2056,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You can create an Azure support request from [support.microsoft.com.
+### You can create an Azure support request from [support.microsoft.com].
 
 - [ ] No change is needed.
 - [x] The Azure portal.
