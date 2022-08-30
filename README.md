@@ -133,7 +133,6 @@
 |155 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |156 | [Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
-|161 | [All Azure services that are in public preview are provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |163 | [An Azure service is available to all Azure customers when it is in public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
 |164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
@@ -186,7 +185,7 @@
 |222 | [You can create an Azure support request from [support.microsoft.com].](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |223 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-groups-does-this-meet-the-goal)|
 |224 | [The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-247-access-to-support-engineers-by-phone)|
-|225 | [All Azure services that are in public preview are [provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
+|225 | [All Azure services that are in public preview are [provided without any documentation[.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |226 | [An Azure service is available to all Azure customers when it is in [public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
 |228 | [Note: The question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the solution satisfies the requirements. Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include elasticity in your plan. Does the solution meet the goal?](#note-the-question-is-included-in-a-number-of-questions-that-depicts-the-identical-set-up-however-every-question-has-a-distinctive-result-establish-if-the-solution-satisfies-the-requirements-your-company-has-an-on-premises-network-with-numerous-servers-which-they-intend-to-migrate-to-azure-you-have-been-tasked-with-devising-a-plan-that-allows-for-the-availability-of-a-few-of-the-servers-in-the-event-that-one-of-the-azure-data-centers-becomes-unavailable-for-a-lengthy-interval-solution-you-should-include-elasticity-in-your-plan-does-the-solution-meet-the-goal)|
 |229 | [Note: The question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the solution satisfies the requirements. Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include scalability in your plan. Does the solution meet the goal?](#note-the-question-is-included-in-a-number-of-questions-that-depicts-the-identical-set-up-however-every-question-has-a-distinctive-result-establish-if-the-solution-satisfies-the-requirements-your-company-has-an-on-premises-network-with-numerous-servers-which-they-intend-to-migrate-to-azure-you-have-been-tasked-with-devising-a-plan-that-allows-for-the-availability-of-a-few-of-the-servers-in-the-event-that-one-of-the-azure-data-centers-becomes-unavailable-for-a-lengthy-interval-solution-you-should-include-scalability-in-your-plan-does-the-solution-meet-the-goal)|
@@ -394,7 +393,6 @@
 |456 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By creating additional resource groups in an Azure subscription, additional costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-creating-additional-resource-groups-in-an-azure-subscription-additional-costs-are-incurred)|
 |457 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
 |458 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
-|463 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: All Azure services that are in public preview are](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-all-azure-services-that-are-in-public-preview-are)|
 |464 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure service is available to all Azure customers when it is in](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-azure-service-is-available-to-all-azure-customers-when-it-is-in)|
 |466 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to purchase an Azure subscription. The companyג€™s support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-purchase-an-azure-subscription-the-company-has-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-standard-support-plan-does-this-meet-the-goal)|
 |467 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Most Azure services are introduced in private preview before being introduced in public preview, and then in general availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-most-azure-services-are-introduced-in-private-preview-before-being-introduced-in-public-preview-and-then-in-general-availability)|
@@ -450,7 +448,6 @@
 |517 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a credit if their monthly uptime percentage s below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-s-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |518 | [This question requires that you evaluate the underlined text to determine if it is correct. When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines-to-the-same-azure-region)|
 |519 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to migrate all its data and resources to Azure. The company’s migration plan states that only platform as a service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server. installed. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-companys-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-supports-the-planned-migration-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
-|521 | [To complete the sentence, select the appropriate option in the answer area. All Azure services that are in public preview are](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-all-azure-services-that-are-in-public-preview-are)|
 |523 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a - offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
 |524 | [To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
 |525 | [Your company plans to move several servers to Azure. The company’s compliance policy states that a server named FinServer must be on a separate network segment You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?](#your-company-plans-to-move-several-servers-to-azure-the-companys-compliance-policy-states-that-a-server-named-finserver-must-be-on-a-separate-network-segment-you-are-evaluating-which-azure-services-can-be-used-to-meet-the-compliance-policy-requirements-which-azure-solution-should-you-recommend)|
@@ -1634,15 +1631,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### All Azure services that are in public preview are provided without any documentation.
-
-- [ ] No change is needed.
-- [ ] Only configurable from Azure CLI.
-- [x] Excluded from the Service Level Agreements.
-- [ ] Only configurable from the Azure portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?
 
 - [x] Uptime.
@@ -2068,7 +2056,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### All Azure services that are in public preview are [provided without any documentation.
+### All Azure services that are in public preview are [provided without any documentation].
 
 - [ ] No change is needed.
 - [ ] Only configurable from Azure CLI.
@@ -3633,15 +3621,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: All Azure services that are in public preview are
-
-- [ ] Provided without any documentation.
-- [ ] Only configurable from Azure CLI.
-- [x] Excluded from the Service Level Agreements.
-- [ ] Only configurable from the Azure portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure service is available to all Azure customers when it is in
 
 - [x] Public preview.
@@ -4050,15 +4029,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. All Azure services that are in public preview are
-
-- [ ] Provided without any documentation.
-- [ ] Only configurable from Azure CLI.
-- [x] Excluded from the Service Level Agreements.
-- [ ] Only configurable from the Azure portal.
 
 *[⬆ Back to Top](#table-of-contents)*
 
