@@ -133,7 +133,6 @@
 |155 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |156 | [Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
-|160 | [The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone)|
 |161 | [All Azure services that are in public preview are provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |163 | [An Azure service is available to all Azure customers when it is in public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
@@ -186,7 +185,7 @@
 |221 | [A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a [Standard] support plan.](#a-support-plan-solution-that-gives-you-best-practice-information-health-status-and-notifications-and-247-access-to-billing-information-at-the-lowest-possible-cost-is-a-standard-support-plan)|
 |222 | [You can create an Azure support request from [support.microsoft.com].](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
 |223 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-groups-does-this-meet-the-goal)|
-|224 | [The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24√ó7-access-to-support-engineers-by-phone)|
+|224 | [The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone)|
 |225 | [All Azure services that are in public preview are [provided without any documentation.](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |226 | [An Azure service is available to all Azure customers when it is in [public preview.](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
 |228 | [Note: The question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the solution satisfies the requirements. Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include elasticity in your plan. Does the solution meet the goal?](#note-the-question-is-included-in-a-number-of-questions-that-depicts-the-identical-set-up-however-every-question-has-a-distinctive-result-establish-if-the-solution-satisfies-the-requirements-your-company-has-an-on-premises-network-with-numerous-servers-which-they-intend-to-migrate-to-azure-you-have-been-tasked-with-devising-a-plan-that-allows-for-the-availability-of-a-few-of-the-servers-in-the-event-that-one-of-the-azure-data-centers-becomes-unavailable-for-a-lengthy-interval-solution-you-should-include-elasticity-in-your-plan-does-the-solution-meet-the-goal)|
@@ -484,7 +483,6 @@
 |560 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. From Azure Service Health, an administrator can prevent a service failure from affecting a specific virtual machine](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-prevent-a-service-failure-from-affecting-a-specific-virtual-machine)|
 |561 | [You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |562 | [This question requires that you evaluate the underlined BOLD text to determine if it is correct. Your company implements Azure policies to automatically add a watermark to Microsoft Word documents that contain credit card information.](#this-question-requires-that-you-evaluate-the-underlined-bold-text-to-determine-if-it-is-correct-your-company-implements-azure-policies-to-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
-|563 | [This question requires that you evaluate the BOLD text to determine if it is correct. The Azure Standard support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-24√ó7-access-to-support-engineers-by-phone)|
 |564 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Active Directory Premium P2 guarantees at least 999 percent availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-premium-p2-guarantees-at-least-999-percent-availability)|
 |565 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Crectory Premum P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-crectory-premum-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
 |566 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-creoit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
@@ -1633,15 +1631,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Premier, Professional Direct, and Standard only.
 - [x] Premier, Professional Direct, Standard, and Developer only.
 - [ ] Premier, Professional Direct, Standard, Developer, and Basic.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
-
-- [x] No change is needed.
-- [ ] Developer.
-- [ ] Basic.
-- [ ] Professional Direct.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4327,15 +4316,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] DDoS protection.
 - [x] Azure Information Protection.
 - [ ] Azure Active Directory (Azure AD) Identity Protection.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the BOLD text to determine if it is correct. The Azure Standard support plan is the lowest cost option to receive 24×7 access to support engineers by phone.
-
-- [ ] No change is needed.
-- [ ] Developer.
-- [ ] Basic.
-- [ ] Professional Direct.
 
 *[⬆ Back to Top](#table-of-contents)*
 
