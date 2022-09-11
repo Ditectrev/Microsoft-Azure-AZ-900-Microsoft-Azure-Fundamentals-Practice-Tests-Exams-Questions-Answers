@@ -245,7 +245,7 @@
 |285 | [Two Azure subscriptions can be merged into a single subscription.](#two-azure-subscriptions-can-be-merged-into-a-single-subscription)|
 |286 | [A company can use resources from multiple subscriptions.](#a-company-can-use-resources-from-multiple-subscriptions)|
 |287 | [Availability zones can be implemented in all Azure regions.](#availability-zones-can-be-implemented-in-all-azure-regions)|
-|288 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Only virtual machines that run Windows Server can be created in availability zones](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-only-virtual-machines-that-run-windows-server-can-be-created-in-availability-zones)|
+|288 | [Only virtual machines that run Windows Server can be created in availability zones.](#only-virtual-machines-that-run-windows-server-can-be-created-in-availability-zones)|
 |289 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Availability zones are used to replicate data and applications to multiple regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-availability-zones-are-used-to-replicate-data-and-applications-to-multiple-regions)|
 |290 | [You plan to create an Azure virtual machine. You need to identify which storage service must be used to store the unmanaged data disks of the virtual machine. What should you identify? To answer, select the appropriate service in the answer area. Hot Area:](#you-plan-to-create-an-azure-virtual-machine-you-need-to-identify-which-storage-service-must-be-used-to-store-the-unmanaged-data-disks-of-the-virtual-machine-what-should-you-identify-to-answer-select-the-appropriate-service-in-the-answer-area-hot-area)|
 |291 | [Your company plans to move several servers to Azure. The companyג€™s compliance policy states that a server named FinServer must be on a separate network segment. You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?](#your-company-plans-to-move-several-servers-to-azure-the-company-has-compliance-policy-states-that-a-server-named-finserver-must-be-on-a-separate-network-segment-you-are-evaluating-which-azure-services-can-be-used-to-meet-the-compliance-policy-requirements-which-azure-solution-should-you-recommend)|
@@ -259,7 +259,6 @@
 |300 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All data that is copied to an Azure Storage account is backed up automatically to another Azure data center](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-data-that-is-copied-to-an-azure-storage-account-is-backed-up-automatically-to-another-azure-data-center)|
 |301 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure Storage account can contain up to 2 TB of data and up to one million files](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-storage-account-can-contain-up-to-2-tb-of-data-and-up-to-one-million-files)|
 |302 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you have Azure resources deployed to every region, you can implement availability zones in all the regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-have-azure-resources-deployed-to-every-region-you-can-implement-availability-zones-in-all-the-regions)|
-|303 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Only virtual machines that run Windows Server can be created in availability zones](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-only-virtual-machines-that-run-windows-server-can-be-created-in-availability-zones)|
 |304 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Availability zones are used to replicate data and applications to multiple regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-availability-zones-are-used-to-replicate-data-and-applications-to-multiple-regions)|
 |305 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: North America is represented by a single Azure region](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-north-america-is-represented-by-a-single-azure-region)|
 |306 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Every Azure region has multiple datacenters](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-every-azure-region-has-multiple-datacenters)|
@@ -2485,7 +2484,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Only virtual machines that run Windows Server can be created in availability zones
+### Only virtual machines that run Windows Server can be created in availability zones.
 
 - [ ] Yes.
 - [x] No.
@@ -2597,13 +2596,6 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you have Azure resources deployed to every region, you can implement availability zones in all the regions
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Only virtual machines that run Windows Server can be created in availability zones
 
 - [ ] Yes.
 - [x] No.
