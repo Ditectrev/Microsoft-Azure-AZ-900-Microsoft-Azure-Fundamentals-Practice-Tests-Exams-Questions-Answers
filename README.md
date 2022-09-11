@@ -2443,7 +2443,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You can change the Azure Active Directory (Azure AD) tenant to which an Azure subscription is associated
+### You can change the Azure Active Directory (Azure AD) tenant to which an Azure subscription is associated.
 
 - [x] Yes.
 - [ ] No.
