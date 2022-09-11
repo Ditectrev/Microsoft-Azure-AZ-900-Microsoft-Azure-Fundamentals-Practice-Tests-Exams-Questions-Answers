@@ -243,7 +243,7 @@
 |282 | [When an Azure subscription expires, the associated Azure Active Directory (Azure AD) tenant is deleted automatically.](#when-an-azure-subscription-expires-the-associated-azure-active-directory-azure-ad-tenant-is-deleted-automatically)|
 |284 | [A single Microsoft account can be used to manage multiple Azure subscriptions.](#a-single-microsoft-account-can-be-used-to-manage-multiple-azure-subscriptions)|
 |285 | [Two Azure subscriptions can be merged into a single subscription.](#two-azure-subscriptions-can-be-merged-into-a-single-subscription)|
-|286 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A company can use resources from multiple subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-use-resources-from-multiple-subscriptions)|
+|286 | [A company can use resources from multiple subscriptions.](#a-company-can-use-resources-from-multiple-subscriptions)|
 |287 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Availability zones can be implemented in all Azure regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-availability-zones-can-be-implemented-in-all-azure-regions)|
 |288 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Only virtual machines that run Windows Server can be created in availability zones](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-only-virtual-machines-that-run-windows-server-can-be-created-in-availability-zones)|
 |289 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Availability zones are used to replicate data and applications to multiple regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-availability-zones-are-used-to-replicate-data-and-applications-to-multiple-regions)|
@@ -2471,7 +2471,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A company can use resources from multiple subscriptions
+### A company can use resources from multiple subscriptions.
 
 - [x] Yes.
 - [ ] No.
