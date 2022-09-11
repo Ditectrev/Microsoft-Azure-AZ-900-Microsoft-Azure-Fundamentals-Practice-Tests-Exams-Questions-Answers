@@ -2490,7 +2490,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Availability zones are used to replicate data and applications to multiple regions
+### Availability zones are used to replicate data and applications to multiple regions.
 
 - [ ] Yes.
 - [x] No.
