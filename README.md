@@ -278,7 +278,7 @@
 |327 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |328 | [Azure Monitor can monitor the performance of on-premises computers.](#azure-monitor-can-monitor-the-performance-of-on-premises-computers)|
 |329 | [Azure Monitor can send alerts to Azure Active Directory security groups.](#azure-monitor-can-send-alerts-to-azure-active-directory-security-groups)|
-|330 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-monitor-can-trigger-alerts-based-on-data-in-an-azure-log-analytics-workspace)|
+|330 | [Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace.](#azure-monitor-can-trigger-alerts-based-on-data-in-an-azure-log-analytics-workspace)|
 |332 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Service Health, an administrator can view the health of all the services in an Azure environment](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-in-an-azure-environment)|
 |333 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-create-a-rule-to-be-alerted-if-an-azure-service-fails)|
 |334 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Service Health, an administrator can prevent a service failure](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-prevent-a-service-failure)|
@@ -2732,7 +2732,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace
+### Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace.
 
 - [x] Yes.
 - [ ] No.
