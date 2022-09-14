@@ -256,7 +256,7 @@
 |299 | [Data that is stored in an Azure Storage account automatically has at least three copies.](#data-that-is-stored-in-an-azure-storage-account-automatically-has-at-least-three-copies)|
 |300 | [All data that is copied to an Azure Storage account is backed up automatically to another Azure data center.](#all-data-that-is-copied-to-an-azure-storage-account-is-backed-up-automatically-to-another-azure-data-center)|
 |301 | [An Azure Storage account can contain up to 2 TB of data and up to one million files.](#an-azure-storage-account-can-contain-up-to-2-tb-of-data-and-up-to-one-million-files)|
-|302 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you have Azure resources deployed to every region, you can implement availability zones in all the regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-have-azure-resources-deployed-to-every-region-you-can-implement-availability-zones-in-all-the-regions)|
+|302 | [If you have Azure resources deployed to every region, you can implement availability zones in all the regions.](#if-you-have-azure-resources-deployed-to-every-region-you-can-implement-availability-zones-in-all-the-regions)|
 |305 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: North America is represented by a single Azure region](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-north-america-is-represented-by-a-single-azure-region)|
 |306 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Every Azure region has multiple datacenters](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-every-azure-region-has-multiple-datacenters)|
 |307 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data transfers between Azure services located in different Azure regions are always free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-transfers-between-azure-services-located-in-different-azure-regions-are-always-free)|
@@ -2570,7 +2570,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you have Azure resources deployed to every region, you can implement availability zones in all the regions
+### If you have Azure resources deployed to every region, you can implement availability zones in all the regions.
 
 - [ ] Yes.
 - [x] No.
