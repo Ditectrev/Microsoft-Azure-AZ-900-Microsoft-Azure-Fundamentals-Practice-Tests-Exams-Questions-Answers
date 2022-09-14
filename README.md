@@ -267,7 +267,7 @@
 |313 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |314 | [You can use Availability Zones in Azure to protect Azure virtual machines from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-datacenter-failure)|
 |315 | [You can use Availability Zones in Azure to protect Azure virtual machines from a region failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-region-failure)|
-|316 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group can contain multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-use-availability-zones-in-azure-to-protect-azure-managed-disks-from-a-datacenter-failure)|
+|316 | [You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-managed-disks-from-a-datacenter-failure)|
 |317 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can have multiple account administrators](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-subscription-can-have-multiple-account-administrators)|
 |318 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can be managed by using a Microsoft account only](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |319 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group can contain multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-group-can-contain-multiple-azure-subscriptions)|
@@ -2651,7 +2651,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure
+### You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure.
 
 - [x] Yes.
 - [ ] No.
