@@ -2795,7 +2795,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days
+### To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days.
 
 - [ ] Yes.
 - [x] No.
