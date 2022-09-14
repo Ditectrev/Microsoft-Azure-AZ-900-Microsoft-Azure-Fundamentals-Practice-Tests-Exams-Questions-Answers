@@ -282,7 +282,9 @@
 |332 | [From Azure Service Health, an administrator can view the health of all the services in an Azure environment.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-in-an-azure-environment)|
 |333 | [From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails.](#from-azure-service-health-an-administrator-can-create-a-rule-to-be-alerted-if-an-azure-service-fails)|
 |334 | [From Azure Service Health, an administrator can prevent a service failure.](#from-azure-service-health-an-administrator-can-prevent-a-service-failure)|
-|336 | [You need to identify which blades in the Azure portal must be used to perform the following tasks: View security recommendations. Monitor the health of Azure services. Browse available virtual machine images. Which blade should you identify for each task? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area:](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-tasks-view-security-recommendations-monitor-the-health-of-azure-services-browse-available-virtual-machine-images-which-blade-should-you-identify-for-each-task-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area)|
+|336 | [You need to identify which blades in the Azure portal must be used to perform the following task: Monitor the health of Azure services.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-monitor-the-health-of-azure-services)|
+|336 | [You need to identify which blades in the Azure portal must be used to perform the following task: Browse available virtual machine images.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-browse-available-virtual-machine-images)|
+|336 | [You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-view-security-recommendations)|
 |337 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Monitor the health of Azure services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-the-health-of-azure-services)|
 |338 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: View security recommendations](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-view-security-recommendations)|
 |339 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: View security recommendations](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-view-security-recommendations)|
@@ -520,7 +522,6 @@
 |623 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point Azure Multi-Factor Authentication (MFA) can be required for administrative and non administrative user accounts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-multi-factor-authentication-mfa-can-be-required-for-administrative-and-non-administrative-user-accounts)|
 |624 | [You need to view a list of planned maintenance events that can affect the availability of an Azure subscription. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area.](#you-need-to-view-a-list-of-planned-maintenance-events-that-can-affect-the-availability-of-an-azure-subscription-which-blade-should-you-use-from-the-azure-portal-to-answer-select-the-appropriate-blade-in-the-answer-area)|
 |625 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
-|628 | [You need to identify which blades in the Azure portal must be used to perform the following tasks:– View security recommendations. – Monitor the health of Azure services. – Browse available virtual machine images. Which blade should you identify for each task? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-tasks‚Äì-view-security-recommendations-‚Äì-monitor-the-health-of-azure-services-‚Äì-browse-available-virtual-machine-images-which-blade-should-you-identify-for-each-task-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point)|
 |629 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions Monitor the health of Azure services:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-the-health-of-azure-services)|
 |630 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Browse available virtual machine images:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-browse-available-virtual-machine-images)|
 |631 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: View security recommendations:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-view-security-recommendations)|
@@ -2757,7 +2758,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to identify which blades in the Azure portal must be used to perform the following tasks: View security recommendations. Monitor the health of Azure services. Browse available virtual machine images. Which blade should you identify for each task? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Monitor the health of Azure services
+### You need to identify which blades in the Azure portal must be used to perform the following task: Monitor the health of Azure services.
 
 - [x] Monitor.
 - [ ] Subscriptions.
@@ -2766,7 +2767,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to identify which blades in the Azure portal must be used to perform the following tasks: View security recommendations. Monitor the health of Azure services. Browse available virtual machine images. Which blade should you identify for each task? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Browse available virtual machine images
+### You need to identify which blades in the Azure portal must be used to perform the following task: Browse available virtual machine images.
 
 - [ ] Monitor.
 - [ ] Subscriptions.
@@ -2775,7 +2776,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to identify which blades in the Azure portal must be used to perform the following tasks: View security recommendations. Monitor the health of Azure services. Browse available virtual machine images. Which blade should you identify for each task? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: View security recommendations
+### You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.
 
 - [ ] Monitor.
 - [ ] Subscriptions.
