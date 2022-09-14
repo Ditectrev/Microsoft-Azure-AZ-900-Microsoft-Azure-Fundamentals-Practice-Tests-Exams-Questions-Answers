@@ -291,7 +291,7 @@
 |343 | [To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days.](#to-maintain-microsoft-support-you-must-implement-the-security-recommendations-provided-by-azure-advisor-within-a-period-of-30-days)|
 |344 | [What can you use to automatically send an alert if an administrator stops an Azure virtual machine?](#what-can-you-use-to-automatically-send-an-alert-if-an-administrator-stops-an-azure-virtual-machine)|
 |345 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-what-are-three-possible-solutions)|
-|346 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-improve-the-security-of-an-azure-active-directory-azure-ad-environment)|
+|346 | [Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment.](#azure-advisor-provides-recommendations-on-how-to-improve-the-security-of-an-azure-active-directory-azure-ad-environment)|
 |347 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to reduce the cost of running Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-reduce-the-cost-of-running-azure-virtual-machines)|
 |348 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-provides-recommendations-on-how-to-configure-the-network-settings-on-azure-virtual-machines)|
 |352 | [Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10](#several-support-engineers-plan-to-manage-azure-by-using-the-computers-shown-in-the-following-table-computer1-windows-10)|
@@ -2821,7 +2821,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment
+### Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment.
 
 - [ ] Yes.
 - [x] No.
