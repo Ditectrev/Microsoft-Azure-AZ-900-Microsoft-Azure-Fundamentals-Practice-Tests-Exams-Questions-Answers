@@ -259,7 +259,7 @@
 |302 | [If you have Azure resources deployed to every region, you can implement availability zones in all the regions.](#if-you-have-azure-resources-deployed-to-every-region-you-can-implement-availability-zones-in-all-the-regions)|
 |305 | [North America is represented by a single Azure region.](#north-america-is-represented-by-a-single-azure-region)|
 |306 | [Every Azure region has multiple datacenters.](#every-azure-region-has-multiple-datacenters)|
-|307 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data transfers between Azure services located in different Azure regions are always free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-transfers-between-azure-services-located-in-different-azure-regions-are-always-free)|
+|307 | [Data transfers between Azure services located in different Azure regions are always free.](#data-transfers-between-azure-services-located-in-different-azure-regions-are-always-free)|
 |309 | [You need to be notified when Microsoft plans to perform maintenance that can affect the resources deployed to an Azure subscription. What should you use?](#you-need-to-be-notified-when-microsoft-plans-to-perform-maintenance-that-can-affect-the-resources-deployed-to-an-azure-subscription-what-should-you-use)|
 |310 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Windows Virtual Desktop session host can run Windows 10 only](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-windows-virtual-desktop-session-host-can-run-windows-10-only)|
 |311 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-windows-virtual-desktop-host-pool-that-includes-20-session-hosts-supports-a-maximum-of-20-simultaneous-user-connections)|
@@ -2591,7 +2591,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data transfers between Azure services located in different Azure regions are always free
+### Data transfers between Azure services located in different Azure regions are always free.
 
 - [ ] Yes.
 - [x] No.
