@@ -286,7 +286,7 @@
 |336 | [You need to identify which blades in the Azure portal must be used to perform the following task: Browse available virtual machine images.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-browse-available-virtual-machine-images)|
 |336 | [You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-view-security-recommendations)|
 |337 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Monitor the health of Azure services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-the-health-of-azure-services)|
-|341 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-advisor-can-generate-a-list-of-azure-virtual-machines-that-are-protected-by-azure-backup)|
+|341 | [Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup.](#azure-advisor-can-generate-a-list-of-azure-virtual-machines-that-are-protected-by-azure-backup)|
 |342 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you implement the security recommendations provided by Azure Advisor, your company's secure score will decrease](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-implement-the-security-recommendations-provided-by-azure-advisor-your-company's-secure-score-will-decrease)|
 |343 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-implement-the-security-recommendations-provided-by-azure-advisor-your-company's-secure-score-will-decrease)|
 |344 | [What can you use to automatically send an alert if an administrator stops an Azure virtual machine?](#what-can-you-use-to-automatically-send-an-alert-if-an-administrator-stops-an-azure-virtual-machine)|
@@ -2781,7 +2781,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup
+### Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup.
 
 - [ ] Yes.
 - [x] No.
