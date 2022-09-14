@@ -272,7 +272,7 @@
 |318 | [An Azure subscription can be managed by using a Microsoft account only.](#an-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |319 | [An Azure resource group can contain multiple Azure subscriptions.](#an-azure-resource-group-can-contain-multiple-azure-subscriptions)|
 |321 | [To use Azure Active Directory (Azure AD) credentials to sign in to a computer that runs Windows 10, the computer must be joined to Azure AD.](#to-use-azure-active-directory-azure-ad-credentials-to-sign-in-to-a-computer-that-runs-windows-10-the-computer-must-be-joined-to-azure-ad)|
-|322 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Users in Azure Active Directory (Azure AD) are organized by using resource groups](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
+|322 | [Users in Azure Active Directory (Azure AD) are organized by using resource groups.](#users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
 |323 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) groups support dynamic membership rules](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-groups-support-dynamic-membership-rules)|
 |324 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines remain available if a single data center fails. What are two possible solutions? Each correct answer presents a complete solution](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-remain-available-if-a-single-data-center-fails-what-are-two-possible-solutions-each-correct-answer-presents-a-complete-solution)|
 |327 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
@@ -2686,7 +2686,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Users in Azure Active Directory (Azure AD) are organized by using resource groups
+### Users in Azure Active Directory (Azure AD) are organized by using resource groups.
 
 - [ ] Yes.
 - [x] No.
