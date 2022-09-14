@@ -287,7 +287,7 @@
 |336 | [You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.](#you-need-to-identify-which-blades-in-the-azure-portal-must-be-used-to-perform-the-following-task-view-security-recommendations)|
 |337 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Monitor the health of Azure services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-the-health-of-azure-services)|
 |341 | [Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup.](#azure-advisor-can-generate-a-list-of-azure-virtual-machines-that-are-protected-by-azure-backup)|
-|342 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you implement the security recommendations provided by Azure Advisor, your company's secure score will decrease](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-implement-the-security-recommendations-provided-by-azure-advisor-your-company's-secure-score-will-decrease)|
+|342 | [If you implement the security recommendations provided by Azure Advisor, your company secure score will decrease.](#if-you-implement-the-security-recommendations-provided-by-azure-advisor-your-company-secure-score-will-decrease)|
 |343 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-implement-the-security-recommendations-provided-by-azure-advisor-your-company's-secure-score-will-decrease)|
 |344 | [What can you use to automatically send an alert if an administrator stops an Azure virtual machine?](#what-can-you-use-to-automatically-send-an-alert-if-an-administrator-stops-an-azure-virtual-machine)|
 |345 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-what-are-three-possible-solutions-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
@@ -2788,7 +2788,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you implement the security recommendations provided by Azure Advisor, your company's secure score will decrease
+### If you implement the security recommendations provided by Azure Advisor, your company secure score will decrease.
 
 - [ ] Yes.
 - [x] No.
