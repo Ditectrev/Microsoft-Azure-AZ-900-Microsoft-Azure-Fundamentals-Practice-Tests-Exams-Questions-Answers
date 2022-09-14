@@ -262,7 +262,7 @@
 |307 | [Data transfers between Azure services located in different Azure regions are always free.](#data-transfers-between-azure-services-located-in-different-azure-regions-are-always-free)|
 |309 | [You need to be notified when Microsoft plans to perform maintenance that can affect the resources deployed to an Azure subscription. What should you use?](#you-need-to-be-notified-when-microsoft-plans-to-perform-maintenance-that-can-affect-the-resources-deployed-to-an-azure-subscription-what-should-you-use)|
 |310 | [A Windows Virtual Desktop session host can run Windows 10 only.](#a-windows-virtual-desktop-session-host-can-run-windows-10-only)|
-|311 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-windows-virtual-desktop-host-pool-that-includes-20-session-hosts-supports-a-maximum-of-20-simultaneous-user-connections)|
+|311 | [A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections.](#a-windows-virtual-desktop-host-pool-that-includes-20-session-hosts-supports-a-maximum-of-20-simultaneous-user-connections)|
 |312 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Windows Virtual Desktop supports desktop and app virtualization](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-windows-virtual-desktop-supports-desktop-and-app-virtualization)|
 |313 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |314 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure subscription can have multiple account administrators](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-datacenter-failure)|
@@ -2614,7 +2614,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections
+### A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections.
 
 - [ ] Yes.
 - [x] No.
