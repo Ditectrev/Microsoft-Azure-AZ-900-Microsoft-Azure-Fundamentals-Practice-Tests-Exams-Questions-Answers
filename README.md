@@ -296,7 +296,7 @@
 |348 | [Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines.](#azure-advisor-provides-recommendations-on-how-to-configure-the-network-settings-on-azure-virtual-machines)|
 |352 | [Several support engineers plan to manage Azure by using the Computer1-Windows 10. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer1-windows-10-you-need-to-identify-which-azure-management-tools-can-be-used)|
 |353 | [Several support engineers plan to manage Azure by using the Computer2-Ubuntu. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer2-ubuntu-you-need-to-identify-which-azure-management-tools-can-be-used)|
-|354 | [Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10](#several-support-engineers-plan-to-manage-azure-by-using-the-computers-shown-in-the-following-table-computer1-windows-10)|
+|354 | [Several support engineers plan to manage Azure by using the Computer3-MacOS Mojave. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer3-macos-mojave-you-need-to-identify-which-azure-management-tools-can-be-used)|
 |355 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can access Compliance Manager from the](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-access-compliance-manager-from-the)|
 |356 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |357 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-which-three-computers-can-run-the-script-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
@@ -2860,7 +2860,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Several support engineers plan to manage Azure by using the computers shown in the following table: Computer1-Windows 10; Computer2-Ubuntu; Computer3 MacOS Mojave. You need to identify which Azure management tools can be used from each computer. What should you identify for each computer? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Computer3
+### Several support engineers plan to manage Azure by using the Computer3-MacOS Mojave. You need to identify which Azure management tools can be used.
 
 - [ ] The Azure CLI and the Azure portal.
 - [ ] The Azure portal and Azure PowerShell.
