@@ -300,7 +300,7 @@
 |355 | [You can access Compliance Manager from the [...].](#you-can-access-compliance-manager-from-the-)|
 |356 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |357 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-which-three-computers-can-run-the-script)|
-|358 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Firewall will encrypt all the network traffic sent from Azure the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-firewall-will-encrypt-all-the-network-traffic-sent-from-azure-the-internet)|
+|358 | [Azure Firewall will encrypt all the network traffic sent from Azure the Internet.](#azure-firewall-will-encrypt-all-the-network-traffic-sent-from-azure-the-internet)|
 |359 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-network-security-group-nsg-will-encrypt-all-the-network-traffic-sent-from-azure-to-the-internet)|
 |360 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-virtual-machines-that-run-windows-server-2016-can-encrypt-network-traffic-sent-to-the-internet)|
 |361 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Security Center can monitor Azure resources and on- premises resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-security-center-can-monitor-azure-resources-and-on-premises-resources)|
@@ -2897,7 +2897,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Firewall will encrypt all the network traffic sent from Azure the Internet
+### Azure Firewall will encrypt all the network traffic sent from Azure the Internet.
 
 - [ ] Yes.
 - [x] No.
