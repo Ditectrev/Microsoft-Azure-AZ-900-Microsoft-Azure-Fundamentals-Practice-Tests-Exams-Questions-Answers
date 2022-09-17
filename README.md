@@ -305,7 +305,7 @@
 |360 | [Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet.](#azure-virtual-machines-that-run-windows-server-2016-can-encrypt-network-traffic-sent-to-the-internet)|
 |361 | [Azure Security Center can monitor Azure resources and on-premises resources.](#azure-security-center-can-monitor-azure-resources-and-on-premises-resources)|
 |362 | [All Azure Security Center features are free.](#all-azure-security-center-features-are-free)|
-|363 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Security Center, you can download a Regulatory Compliance report.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-security-center-you-can-download-a-regulatory-compliance-report)|
+|363 | [From Azure Security Center, you can download a Regulatory Compliance report.](#from-azure-security-center-you-can-download-a-regulatory-compliance-report)|
 |364 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks - ✑ Generates reports that contain details of attempted attacks What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |365 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: ✑ Monitor threats by using sensors ✑ Enforce Azure Multi-Factor Authentication (MFA) based on a condition Which Azure service should you identify for each requirement? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area:](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-monitor-threats-by-using-sensors-enforce-azure-multi-factor-authentication-mfa-based-on-a-condition-which-azure-service-should-you-identify-for-each-requirement-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area)|
 |366 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Monitor threats by using sensors:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-threats-by-using-sensors)|
@@ -2932,7 +2932,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Security Center, you can download a Regulatory Compliance report.
+### From Azure Security Center, you can download a Regulatory Compliance report.
 
 - [x] Yes.
 - [ ] No.
