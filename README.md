@@ -126,7 +126,7 @@
 |146 | [From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |147 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
 |148 | [From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001)|
-|150 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks Generates reports that contain details of attempted attacks What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
+|150 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks. Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |151 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
 |152 | [Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?](#your-company-has-10-offices-you-plan-to-generate-several-billing-reports-from-the-azure-portal-each-report-will-contain-the-azure-resource-utilization-of-each-office-which-azure-resource-manager-feature-should-you-use-before-you-generate-the-reports)|
 |153 | [Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.](#your-company-plans-to-migrate-to-azure-the-company-has-several-departments-all-the-azure-resources-used-by-each-department-will-be-managed-by-a-department-administrator-what-are-two-possible-techniques-to-segment-azure-for-the-departments-each-correct-answer-presents-a-complete-solution)|
@@ -306,7 +306,6 @@
 |361 | [Azure Security Center can monitor Azure resources and on-premises resources.](#azure-security-center-can-monitor-azure-resources-and-on-premises-resources)|
 |362 | [All Azure Security Center features are free.](#all-azure-security-center-features-are-free)|
 |363 | [From Azure Security Center, you can download a Regulatory Compliance report.](#from-azure-security-center-you-can-download-a-regulatory-compliance-report)|
-|364 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks - ✑ Generates reports that contain details of attempted attacks What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |365 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: ✑ Monitor threats by using sensors ✑ Enforce Azure Multi-Factor Authentication (MFA) based on a condition Which Azure service should you identify for each requirement? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area:](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-monitor-threats-by-using-sensors-enforce-azure-multi-factor-authentication-mfa-based-on-a-condition-which-azure-service-should-you-identify-for-each-requirement-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area)|
 |366 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Monitor threats by using sensors:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-threats-by-using-sensors)|
 |367 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: ](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area)|
@@ -1556,7 +1555,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to configure an Azure solution that meets the following requirements: Secures websites from attacks Generates reports that contain details of attempted attacks What should you include in the solution?
+### You need to configure an Azure solution that meets the following requirements: Secures websites from attacks. Generates reports that contain details of attempted attacks. What should you include in the solution?
 
 - [ ] Azure Firewall.
 - [ ] A Network Security Group (NSG).
@@ -2939,15 +2938,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to configure an Azure solution that meets the following requirements: Secures websites from attacks - ✑ Generates reports that contain details of attempted attacks What should you include in the solution?
-
-- [ ] Azure Firewall.
-- [ ] A Network Security Group (NSG).
-- [ ] Azure Information Protection.
-- [x] DDoS protection.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: ✑ Monitor threats by using sensors ✑ Enforce Azure Multi-Factor Authentication (MFA) based on a condition Which Azure service should you identify for each requirement? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Monitor threats by using sensors
 
 - [ ] Azure Monitor.
@@ -4188,15 +4178,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?
-
-- [ ] Azure Firewall.
-- [ ] A Network Security Group (NSG).
-- [ ] Azure Information Protection.
-- [x] DDoS protection.
 
 *[⬆ Back to Top](#table-of-contents)*
 
