@@ -312,7 +312,7 @@
 |369 | [You can enable just in time (JIT) VM access by using [...].](#you-can-enable-just-in-time-jit-vm-access-by-using-)|
 |370 | [You can associate a Network Security Group (NSG) to a virtual network subnet.](#you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
 |371 | [You can associate a Network Security Group (NSG) to a virtual network.](#you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
-|372 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a network interface](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
+|372 | [You can associate a Network Security Group (NSG) to a network interface.](#you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
 |374 | [After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine [...].](#after-you-create-a-virtual-machine-you-need-to-modify-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine-)|
 |375 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create custom Azure roles to control access to resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-custom-azure-roles-to-control-access-to-resources)|
 |376 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user account can be assigned to multiple Azure roles](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-account-can-be-assigned-to-multiple-azure-roles)|
@@ -2987,7 +2987,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a network interface
+### You can associate a Network Security Group (NSG) to a network interface.
 
 - [x] Yes.
 - [ ] No.
