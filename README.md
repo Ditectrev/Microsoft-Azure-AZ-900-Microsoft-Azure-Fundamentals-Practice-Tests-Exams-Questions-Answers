@@ -309,7 +309,7 @@
 |365 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Monitor threats by using sensors.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-monitor-threats-by-using-sensors)|
 |366 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-enforce-azure-multi-factor-authentication-mfa-based-on-a-condition)|
 |368 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-what-are-two-possible-solutions)|
-|379 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can enable just in time (JIT) VM access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-enable-just-in-time-jit-vm-access-by-using)|
+|369 | [You can enable just in time (JIT) VM access by using [...].](#you-can-enable-just-in-time-jit-vm-access-by-using-)|
 |370 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network subnet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
 |371 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a virtual network](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
 |372 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can associate a Network Security Group (NSG) to a network interface](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
@@ -2964,7 +2964,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: You can enable just in time (JIT) VM access by using
+### You can enable just in time (JIT) VM access by using [...].
 
 - [ ] Azure Bastion.
 - [ ] Azure Firewall.
