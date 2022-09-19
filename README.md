@@ -315,7 +315,7 @@
 |372 | [You can associate a Network Security Group (NSG) to a network interface.](#you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
 |374 | [After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine [...].](#after-you-create-a-virtual-machine-you-need-to-modify-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine-)|
 |375 | [You can create custom Azure roles to control access to resources.](#you-can-create-custom-azure-roles-to-control-access-to-resources)|
-|376 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user account can be assigned to multiple Azure roles](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-account-can-be-assigned-to-multiple-azure-roles)|
+|376 | [A user account can be assigned to multiple Azure roles.](#a-user-account-can-be-assigned-to-multiple-azure-roles)|
 |377 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A resource group can have the Owner role assigned to multiple users](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
 |380 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
 |382 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: From you can view which user turned off a specific virtual machine during the last 14 days](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
@@ -3010,7 +3010,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user account can be assigned to multiple Azure roles
+### A user account can be assigned to multiple Azure roles.
 
 - [x] Yes.
 - [ ] No.
