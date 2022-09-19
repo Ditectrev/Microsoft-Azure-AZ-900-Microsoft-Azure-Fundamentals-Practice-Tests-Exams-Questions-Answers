@@ -316,7 +316,7 @@
 |374 | [After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine [...].](#after-you-create-a-virtual-machine-you-need-to-modify-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine-)|
 |375 | [You can create custom Azure roles to control access to resources.](#you-can-create-custom-azure-roles-to-control-access-to-resources)|
 |376 | [A user account can be assigned to multiple Azure roles.](#a-user-account-can-be-assigned-to-multiple-azure-roles)|
-|377 | [A resource group can have the Owner role assigned to multiple users.](a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
+|377 | [A resource group can have the Owner role assigned to multiple users.](#a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
 |380 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
 |382 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: From you can view which user turned off a specific virtual machine during the last 14 days](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |383 | [Which Azure service can you use as a security information and event management (SIEM) solution?](#which-azure-service-can-you-use-as-a-security-information-and-event-management-siem-solution)|
