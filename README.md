@@ -318,7 +318,7 @@
 |376 | [A user account can be assigned to multiple Azure roles.](#a-user-account-can-be-assigned-to-multiple-azure-roles)|
 |377 | [A resource group can have the Owner role assigned to multiple users.](#a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
 |380 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
-|382 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: From you can view which user turned off a specific virtual machine during the last 14 days](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
+|382 | [From [...] you can view which user turned off a specific virtual machine during the last 14 days.](#from--you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |383 | [Which Azure service can you use as a security information and event management (SIEM) solution?](#which-azure-service-can-you-use-as-a-security-information-and-event-management-siem-solution)|
 |384 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Your company implements automatically add a watermark to Microsoft Word documents that contain credit card information](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-your-company-implements-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
 |385 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-have-an-azure-virtual-network-named-vnet1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1)|
@@ -3033,7 +3033,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: From you can view which user turned off a specific virtual machine during the last 14 days
+### From [...] you can view which user turned off a specific virtual machine during the last 14 days.
 
 - [ ] Azure Access Control IAM.
 - [ ] Azure Event Hubs.
