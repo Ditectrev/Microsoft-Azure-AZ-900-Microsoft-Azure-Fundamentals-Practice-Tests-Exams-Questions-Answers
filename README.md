@@ -320,7 +320,7 @@
 |380 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
 |382 | [From [...] you can view which user turned off a specific virtual machine during the last 14 days.](#from--you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |383 | [Which Azure service can you use as a security information and event management (SIEM) solution?](#which-azure-service-can-you-use-as-a-security-information-and-event-management-siem-solution)|
-|384 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Your company implements automatically add a watermark to Microsoft Word documents that contain credit card information](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-your-company-implements-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
+|384 | [Your company implements [Azure policies] to automatically add a watermark to Microsoft Word documents that contain credit card information.](#your-company-implements-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
 |385 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-have-an-azure-virtual-network-named-vnet1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1)|
 |387 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create Group Polices in Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-group-polices-in-azure-active-directory-azure-ad)|
 |388 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can join Windows 10 devices to Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
@@ -469,11 +469,9 @@
 |557 | [To complete the sentence, select the appropriate option in the answer area. You have an Azure virtual network named VNĚT1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-have-an-azure-virtual-network-named-vnƒõt1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1)|
 |558 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)|
 |561 | [You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
-|562 | [This question requires that you evaluate the underlined BOLD text to determine if it is correct. Your company implements Azure policies to automatically add a watermark to Microsoft Word documents that contain credit card information.](#this-question-requires-that-you-evaluate-the-underlined-bold-text-to-determine-if-it-is-correct-your-company-implements-azure-policies-to-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
 |564 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Active Directory Premium P2 guarantees at least 999 percent availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-premium-p2-guarantees-at-least-999-percent-availability)|
 |565 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Crectory Premum P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-crectory-premum-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
 |566 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-creoit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
-|567 | [To complete the sentence, select the appropriate option in the answer area. Your company implements to ... automatically add a watermark to Microsoft Word documents that contain credit card information.](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-company-implements-to-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
 |570 | [This question requires that you evaluate the Bold text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |571 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All the Azure resources deployed to a single resource group must share the same Azure region](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |573 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
@@ -3051,9 +3049,9 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: Your company implements automatically add a watermark to Microsoft Word documents that contain credit card information
+### Your company implements [Azure policies] to automatically add a watermark to Microsoft Word documents that contain credit card information.
 
-- [ ] Azure policies.
+- [ ] No change is needed.
 - [ ] DDoS protection.
 - [x] Azure Information Protection.
 - [ ] Azure Active Directory (Azure AD) Identity Protection.
@@ -4180,15 +4178,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined BOLD text to determine if it is correct. Your company implements Azure policies to automatically add a watermark to Microsoft Word documents that contain credit card information.
-
-- [ ] No change is needed.
-- [ ] DDoS protection.
-- [x] Azure Information Protection.
-- [ ] Azure Active Directory (Azure AD) Identity Protection.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory Premium P2 guarantees at least 999 percent availability
 
 - [x] Yes.
@@ -4207,15 +4196,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. Your company implements to ... automatically add a watermark to Microsoft Word documents that contain credit card information.
-
-- [ ] Azure policies.
-- [ ] DDOS protection.
-- [x] Azure Information Protection.
-- [ ] Azure Active Directory (Azure AD) Identity Protection.
 
 *[⬆ Back to Top](#table-of-contents)*
 
