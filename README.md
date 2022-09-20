@@ -343,7 +343,6 @@
 |407 | [Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users.](#authorization-to-access-azure-resources-can-be-provided-only-to-azure-active-directory-azure-ad-users)|
 |408 | [Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.](#identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |409 | [Azure has built-in authentication and authorization services that provide secure access to Azure resources.](#azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
-|410 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: If a resource group named RG1 has a delete lock, can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
 |411 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-azure-active-directory-azure-ad)|
 |414 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can view your company's regulatory compliance report from](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-view-your-company's-regulatory-compliance-report-from)|
 |416 | [Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-you-need-to-ensure-that-administrators-can-only-create-resources-in-those-regions-what-should-you-use)|
@@ -439,7 +438,6 @@
 |518 | [This question requires that you evaluate the underlined text to determine if it is correct. When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines-to-the-same-azure-region)|
 |519 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to migrate all its data and resources to Azure. The company’s migration plan states that only platform as a service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server. installed. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-companys-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-supports-the-planned-migration-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
 |523 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a - offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
-|524 | [To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
 |526 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. The Microsoft Service Trust Portal can be accessed by using a Microsoft cloud services account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-microsoft-service-trust-portal-can-be-accessed-by-using-a-microsoft-cloud-services-account)|
 |527 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. Compliance Manager can be used to track your company's regulatory compliance activities related to Microsoft cloud services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-compliance-manager-can-be-used-to-track-your-company's-regulatory-compliance-activities-related-to-microsoft-cloud-services)|
 |528 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. The My Library feature can be used to save Microsoft Service Trust Portal documents and resources in a single location](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-my-library-feature-can-be-used-to-save-microsoft-service-trust-portal-documents-and-resources-in-a-single-location)|
@@ -456,7 +454,7 @@
 |543 | [You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create-to-answer-select-the-appropriate-resource-in-the-answer-area)|
 |544 | [This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
 |545 | [[...] is the process of verifying a user's credentials.](#-is-the-process-of-verifying-a-users-credentials)|
-|546 | [To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock, ... can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
+|546 | [If a resource group named RG1 has a delete lock, [...] can delete RG1.](#if-a-resource-group-named-rg1-has-a-delete-lock--can-delete-rg1)|
 |547 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A platform as a service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-provides-full-control-of-the-operating-systems-that-host-applications)|
 |548 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A Platform as a Service (PaaS) solution that hosts web apps in Azure can be provided with additional memory by changing the pricing tier](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-can-be-provided-with-additional-memory-by-changing-the-pricing-tier)|
 |549 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A Platform as a Service (PaaS) solution that hosts web apps in Azure can be configured to automatically scale the number of instances based on demand](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-can-be-configured-to-automatically-scale-the-number-of-instances-based-on-demand)|
@@ -3216,15 +3214,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: If a resource group named RG1 has a delete lock, can delete RG1
-
-- [ ] Only a member of the global administrators group.
-- [x] The delete lock must be removed before an administrator.
-- [ ] An Azure policy must be modified before an administrator.
-- [ ] An Azure tag must be added before an administrator.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD)
 
 - [x] Yes.
@@ -3944,15 +3933,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock can delete RG1
-
-- [ ] Only a member of the global administrators group.
-- [x] The delete lock must be removed before an administrator.
-- [ ] An Azure policy must be modified before an administrator.
-- [ ] An Azure tag must be added before an administrator can delete RG1.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The Microsoft Service Trust Portal can be accessed by using a Microsoft cloud services account
 
 - [x] Yes.
@@ -4078,7 +4058,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock, ... can delete RG1
+### If a resource group named RG1 has a delete lock, [...] can delete RG1.
 
 - [ ] Only a member of the global administrators group.
 - [x] The delete lock must be removed before an administrator.
