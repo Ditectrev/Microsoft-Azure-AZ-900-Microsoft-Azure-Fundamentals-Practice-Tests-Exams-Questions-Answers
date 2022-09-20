@@ -326,7 +326,7 @@
 |388 | [You can join Windows 10 devices to Azure Active Directory (Azure AD).](#you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
 |389 | [You can join Android devices to Azure Active Directory (Azure AD).](#you-can-join-android-devices-to-azure-active-directory-azure-ad)|
 |390 | [The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the--explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
-|392 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-azure-policy-initiative-definition-is-a)|
+|392 | [An Azure Policy initiative definition is a [...].](#an-azure-policy-initiative-definition-is-a-)|
 |393 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |394 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: General Data Protection Regulation (GDPR) defines data protection and privacy rules](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-general-data-protection-regulation-gdpr-defines-data-protection-and-privacy-rules)|
 |395 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-general-data-protection-regulation-gdpr-applies-to-companies-that-offer-goods-or-services-to-individuals-in-the-eu)|
@@ -3095,7 +3095,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a
+### An Azure Policy initiative definition is a [...].
 
 - [x] Collection of policy definitions.
 - [ ] Collection of Azure Policy definition assignments.
