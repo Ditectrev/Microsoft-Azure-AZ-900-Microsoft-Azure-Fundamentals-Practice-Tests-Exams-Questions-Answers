@@ -329,7 +329,7 @@
 |392 | [An Azure Policy initiative definition is a [...].](#an-azure-policy-initiative-definition-is-a-)|
 |393 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |394 | [General Data Protection Regulation (GDPR) defines data protection and privacy rules.](#general-data-protection-regulation-gdpr-defines-data-protection-and-privacy-rules)|
-|395 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-general-data-protection-regulation-gdpr-applies-to-companies-that-offer-goods-or-services-to-individuals-in-the-eu)|
+|395 | [General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.](#general-data-protection-regulation-gdpr-applies-to-companies-that-offer-goods-or-services-to-individuals-in-the-eu)|
 |396 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure can be used to build a General Data Protection Requlation (GDPR)-compliant infrastructure](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-can-be-used-to-build-a-general-data-protection-requlation-gdpr-compliant-infrastructure)|
 |397 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can add an Azure Resource Manager template to an Azure blueprint](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-add-an-azure-resource-manager-template-to-an-azure-blueprint)|
 |398 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can assign an Azure blueprint to a resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-assign-an-azure-blueprint-to-a-resource-group)|
@@ -3120,7 +3120,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU
+### General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.
 
 - [x] Yes.
 - [ ] No.
