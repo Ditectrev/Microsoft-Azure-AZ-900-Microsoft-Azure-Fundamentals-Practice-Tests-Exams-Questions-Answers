@@ -331,7 +331,7 @@
 |394 | [General Data Protection Regulation (GDPR) defines data protection and privacy rules.](#general-data-protection-regulation-gdpr-defines-data-protection-and-privacy-rules)|
 |395 | [General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.](#general-data-protection-regulation-gdpr-applies-to-companies-that-offer-goods-or-services-to-individuals-in-the-eu)|
 |396 | [Azure can be used to build a General Data Protection Requlation (GDPR)-compliant infrastructure.](#azure-can-be-used-to-build-a-general-data-protection-requlation-gdpr-compliant-infrastructure)|
-|397 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can add an Azure Resource Manager template to an Azure blueprint](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-add-an-azure-resource-manager-template-to-an-azure-blueprint)|
+|397 | [You can add an Azure Resource Manager template to an Azure blueprint.](#you-can-add-an-azure-resource-manager-template-to-an-azure-blueprint)|
 |398 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can assign an Azure blueprint to a resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-assign-an-azure-blueprint-to-a-resource-group)|
 |399 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can use Azure Blueprints to grant permissions to a resource](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-use-azure-blueprints-to-grant-permissions-to-a-resource)|
 |400 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure China is operated by Microsoft](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-china-is-operated-by-microsoft)|
@@ -3134,7 +3134,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can add an Azure Resource Manager template to an Azure blueprint
+### You can add an Azure Resource Manager template to an Azure blueprint.
 
 - [x] Yes.
 - [ ] No.
