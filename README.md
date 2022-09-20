@@ -326,7 +326,6 @@
 |388 | [You can join Windows 10 devices to Azure Active Directory (Azure AD).](#you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
 |389 | [You can join Android devices to Azure Active Directory (Azure AD).](#you-can-join-android-devices-to-azure-active-directory-azure-ad)|
 |390 | [The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the--explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
-|391 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Is the process of verifying a user's credentials](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-is-the-process-of-verifying-a-user's-credentials)|
 |392 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-azure-policy-initiative-definition-is-a)|
 |393 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |394 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: General Data Protection Regulation (GDPR) defines data protection and privacy rules](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-general-data-protection-regulation-gdpr-defines-data-protection-and-privacy-rules)|
@@ -458,7 +457,7 @@
 |542 | [This question requires that you evaluate the underlined text to determine if it is correct. You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must be deployed to a separate virtual network.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-be-deployed-to-a-separate-virtual-network)|
 |543 | [You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create-to-answer-select-the-appropriate-resource-in-the-answer-area)|
 |544 | [This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
-|545 | [To complete the sentence, select the appropriate option in the answer area. ... is the process of verifying a user's credentials](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-is-the-process-of-verifying-a-user's-credentials)|
+|545 | [[...] is the process of verifying a user's credentials.](#-is-the-process-of-verifying-a-user's-credentials)|
 |546 | [To complete the sentence, select the appropriate option in the answer area. If a resource group named RG1 has a delete lock, ... can delete RG1](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-if-a-resource-group-named-rg1-has-a-delete-lock-can-delete-rg1)|
 |547 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A platform as a service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-provides-full-control-of-the-operating-systems-that-host-applications)|
 |548 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A Platform as a Service (PaaS) solution that hosts web apps in Azure can be provided with additional memory by changing the pricing tier](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-can-be-provided-with-additional-memory-by-changing-the-pricing-tier)|
@@ -546,7 +545,7 @@ to ensure that the services running on the virtual machines are available if a s
 |668 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Data that is copied to an Azure Storage account is maintained automatically in at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
 |671 | [Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: – Backing up application data – Replacing failed server hardware – Managing physical server security – Updating server operating systems – Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration.Which two responsibilities should you identify? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#your-company-has-an-on-premises-network-that-contains-multiple-servers-the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-‚Äì-backing-up-application-data-‚Äì-replacing-failed-server-hardware-‚Äì-managing-physical-server-security-‚Äì-updating-server-operating-systems-‚Äì-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migrationwhich-two-responsibilities-should-you-identify-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |672 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure Cosmos DB is an example of a platform as a service (PaaS) offering.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-cosmos-db-is-an-example-of-a-platform-as-a-service-paas-offering)|
-|673 | [This question requires that you evaluate the underlined text to determine if it is correct. Authorization is the process of verifying a user’s credentials.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-authorization-is-the-process-of-verifying-a-users-credentials)|
+|673 | [[Authorization] is the process of verifying a user's credentials.](#authorization-is-the-process-of-verifying-a-users-credentials)|
 |674 | [You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?](you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-you-need-to-identify-the-primary-benefit-of-using-a-public-cloud-service-for-the-servers-what-should-you-identify)|
 
 ### If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?
@@ -3096,15 +3095,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: Is the process of verifying a user's credentials
-
-- [ ] Authorization.
-- [x] Authentication.
-- [ ] Federation.
-- [ ] Ticketing.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a
 
 - [x] Collection of policy definitions.
@@ -4095,7 +4085,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. ... is the process of verifying a user's credentials
+### [...] is the process of verifying a user's credentials.
 
 - [ ] Authorization.
 - [x] Authentication.
@@ -4733,7 +4723,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. Authorization is the process of verifying a user’s credentials.
+### [Authorization] is the process of verifying a user's credentials.
 
 - [ ] No change is needed.
 - [x] Authentication.
