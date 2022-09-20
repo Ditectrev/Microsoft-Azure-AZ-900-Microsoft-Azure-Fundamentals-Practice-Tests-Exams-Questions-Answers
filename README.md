@@ -339,7 +339,7 @@
 |402 | [Azure Government is available only to US government agencies and their partners.](#azure-government-is-available-only-to-us-government-agencies-and-their-partners)|
 |403 | [An Azure resource can have multiple Delete locks.](#an-azure-resource-can-have-multiple-delete-locks)|
 |404 | [An Azure resource inherits locks from its resource group.](#an-azure-resource-inherits-locks-from-its-resource-group)|
-|405 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If an Azure resource has a Read-only lock, you can add a Delete lock to the resource](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-an-azure-resource-has-a-read-only-lock-you-can-add-a-delete-lock-to-the-resource)|
+|405 | [If an Azure resource has a Read-only lock, you can add a Delete lock to the resource.](#if-an-azure-resource-has-a-read-only-lock-you-can-add-a-delete-lock-to-the-resource)|
 |407 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-authorization-to-access-azure-resources-can-be-provided-only-to-azure-active-directory-azure-ad-users)|
 |408 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on- premises Active Directory can be used to access Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |409 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure has built-in authentication and authorization services that provide secure access to Azure resources](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
@@ -3190,7 +3190,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If an Azure resource has a Read-only lock, you can add a Delete lock to the resource
+### If an Azure resource has a Read-only lock, you can add a Delete lock to the resource.
 
 - [x] Yes.
 - [ ] No.
