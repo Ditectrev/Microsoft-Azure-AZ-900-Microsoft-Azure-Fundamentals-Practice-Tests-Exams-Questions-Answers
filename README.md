@@ -335,7 +335,7 @@
 |398 | [You can assign an Azure blueprint to a resource group.](#you-can-assign-an-azure-blueprint-to-a-resource-group)|
 |399 | [You can use Azure Blueprints to grant permissions to a resource.](#you-can-use-azure-blueprints-to-grant-permissions-to-a-resource)|
 |400 | [Azure China is operated by Microsoft.](#azure-china-is-operated-by-microsoft)|
-|401 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Government is operated by Microsoft](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-government-is-operated-by-microsoft)|
+|401 | [Azure Government is operated by Microsoft.](#azure-government-is-operated-by-microsoft)|
 |402 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Government is available only to US government agencies and their partners](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-government-is-available-only-to-us-government-agencies-and-their-partners)|
 |403 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource can have multiple Delete locks](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-can-have-multiple-delete-locks)|
 |404 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource inherits locks from its resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-inherits-locks-from-its-resource-group)|
@@ -3162,7 +3162,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Government is operated by Microsoft
+### Azure Government is operated by Microsoft.
 
 - [x] Yes.
 - [ ] No.
