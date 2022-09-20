@@ -343,7 +343,7 @@
 |407 | [Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users.](#authorization-to-access-azure-resources-can-be-provided-only-to-azure-active-directory-azure-ad-users)|
 |408 | [Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.](#identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |409 | [Azure has built-in authentication and authorization services that provide secure access to Azure resources.](#azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
-|411 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-azure-active-directory-azure-ad)|
+|411 | [Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).](#identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-azure-active-directory-azure-ad)|
 |414 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can view your company's regulatory compliance report from](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-view-your-company's-regulatory-compliance-report-from)|
 |416 | [Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-you-need-to-ensure-that-administrators-can-only-create-resources-in-those-regions-what-should-you-use)|
 |417 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-requires-the-implementation-of-domain-controllers-on-azure-virtual-machines)|
@@ -3214,7 +3214,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD)
+### Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).
 
 - [x] Yes.
 - [ ] No.
