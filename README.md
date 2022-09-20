@@ -324,7 +324,7 @@
 |385 | [You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1 [...].](#you-have-an-azure-virtual-network-named-vnet1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1-)|
 |387 | [You can create Group Polices in Azure Active Directory (Azure AD).](#you-can-create-group-polices-in-azure-active-directory-azure-ad)|
 |388 | [You can join Windows 10 devices to Azure Active Directory (Azure AD).](#you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
-|389 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: ]You can join Android devices to Azure Active Directory (Azure AD)(#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-join-android-devices-to-azure-active-directory-azure-ad)|
+|389 | [You can join Android devices to Azure Active Directory (Azure AD).](#you-can-join-android-devices-to-azure-active-directory-azure-ad)|
 |390 | [The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the--explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |391 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Is the process of verifying a user's credentials](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-is-the-process-of-verifying-a-user's-credentials)|
 |392 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: An Azure Policy initiative definition is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-an-azure-policy-initiative-definition-is-a)|
@@ -3080,7 +3080,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can join Android devices to Azure Active Directory (Azure AD)
+### You can join Android devices to Azure Active Directory (Azure AD).
 
 - [ ] Yes.
 - [x] No.
