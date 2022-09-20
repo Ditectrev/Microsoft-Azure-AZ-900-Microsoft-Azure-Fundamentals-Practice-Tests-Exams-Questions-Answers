@@ -344,7 +344,7 @@
 |408 | [Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.](#identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |409 | [Azure has built-in authentication and authorization services that provide secure access to Azure resources.](#azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
 |411 | [Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).](#identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-azure-active-directory-azure-ad)|
-|414 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can view your company's regulatory compliance report from](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-view-your-company's-regulatory-compliance-report-from)|
+|414 | [You can view your company regulatory compliance report from [...].](#you-can-view-your-company-regulatory-compliance-report-from-)|
 |416 | [Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-you-need-to-ensure-that-administrators-can-only-create-resources-in-those-regions-what-should-you-use)|
 |417 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-requires-the-implementation-of-domain-controllers-on-azure-virtual-machines)|
 |418 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory (Azure AD) provides authentication services for resources hosted in Azure and Microsoft 365](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-azure-ad-provides-authentication-services-for-resources-hosted-in-azure-and-microsoft-365)|
@@ -3221,7 +3221,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: You can view your company's regulatory compliance report from
+### You can view your company regulatory compliance report from [...].
 
 - [ ] Azure Advisor.
 - [ ] Azure Analysis Services.
