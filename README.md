@@ -362,7 +362,7 @@
 |433 | [Which task can you perform by using Azure Advisor?](#which-task-can-you-perform-by-using-azure-advisor)|
 |434 | [If your company uses an Azure free account, you will only be able to use a subset of Azure services.](#if-your-company-uses-an-azure-free-account-you-will-only-be-able-to-use-a-subset-of-azure-services)|
 |435 | [All Azure free accounts expire after a specific period.](#all-azure-free-accounts-expire-after-a-specific-period)|
-|436 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create up to 10 Azure free accounts by using the same Microsoft account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-up-to-10-azure-free-accounts-by-using-the-same-microsoft-account)|
+|436 | [You can create up to 10 Azure free accounts by using the same Microsoft account.](#you-can-create-up-to-10-azure-free-accounts-by-using-the-same-microsoft-account)|
 |437 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All Azure services in private preview must be accessed by using a separate Azure portal](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-azure-services-in-private-preview-must-be-accessed-by-using-a-separate-azure-portal)|
 |438 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview can be used in production environments](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-services-in-public-preview-can-be-used-in-production-environments)|
 |439 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview are subject to a Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
@@ -479,7 +479,6 @@
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
 |584 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |585 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point. If your company Uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-your-company-uses-an-azure-free-account-you-can-only-deploy-azure-virtual-machines-and-azure-storage-accounts)|
-|587 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point. You can create up to 10 Azure free accounts by using the same Microsoft account.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-up-to-10-azure-free-accounts-by-using-the-same-microsoft-account)|
 |588 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, white others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the Azure portal. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-white-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |589 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. From Azure Service Health, an administrator can view the health of all the services in an Azure environmient](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-in-an-azure-environmient)|
 |590 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. From Azure Senvice Health, an administrator can create arule to be alerted if an Azure service fails](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-senvice-health-an-administrator-can-create-arule-to-be-alerted-if-an-azure-service-fails)|
@@ -3363,12 +3362,10 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create up to 10 Azure free accounts by using the same Microsoft account
+### You can create up to 10 Azure free accounts by using the same Microsoft account.
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4232,13 +4229,6 @@ to ensure that the services running on the virtual machines are available if a s
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point.
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If your company Uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create up to 10 Azure free accounts by using the same Microsoft account.
 
 - [ ] Yes.
 - [x] No.
