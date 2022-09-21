@@ -370,8 +370,7 @@
 |441 | [A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA).](#a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
 |442 | [Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription.](#support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
 |444 | [A user who is assigned the Owner role can transfer ownership of an Azure subscription.](#a-user-who-is-assigned-the-owner-role-can-transfer-ownership-of-an-azure-subscription)|
-|445 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
-|446 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
+|445 | [You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.](#you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
 |447 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Statements With Azure Reservations, you pay less fer virtual machines than with pay as-you-go pricing](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-statements-with-azure-reservations-you-pay-less-fer-virtual-machines-than-with-pay-as-you-go-pricing)|
 |448 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Two Azure virtual machines that use the B25 size have the same monthly costs](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-two-azure-virtual-machines-that-use-the-b25-size-have-the-same-monthly-costs)|
 |449 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: When an Azure virtual machine is stopped, you continue to pay storage costs for the virtual machine](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-for-the-virtual-machine)|
@@ -3418,14 +3417,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go
+### You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.
 
 - [x] Yes.
 - [ ] No.
