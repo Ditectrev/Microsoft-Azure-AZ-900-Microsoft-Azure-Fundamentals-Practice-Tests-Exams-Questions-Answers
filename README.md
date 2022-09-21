@@ -351,7 +351,7 @@
 |419 | [Each user account in Azure Active Directory (Azure AD) can be assigned only one license.](#each-user-account-in-azure-active-directory-azure-ad-can-be-assigned-only-one-license)|
 |420 | [To implement an Azure Multi-Factor Authentication (MFA) solution, you must sync on-premises identities to the cloud.](#to-implement-an-azure-multi-factor-authentication-mfa-solution-you-must-sync-on-premises-identities-to-the-cloud)|
 |421 | [Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number.](#two-valid-methods-for-azure-multi-factor-authentication-mfa-are-picture-identification-and-a-passport-number)|
-|424 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-configure-the-azure-active-directory-azure-ad-activity-logs-to-appear-in-azure-monitor)|
+|424 | [You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor.](#you-can-configure-the-azure-active-directory-azure-ad-activity-logs-to-appear-in-azure-monitor)|
 |425 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Monitor, you can monitor resources across multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-monitor-you-can-monitor-resources-across-multiple-azure-subscriptions)|
 |426 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Monitor, you can create alerts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-monitor-you-can-create-alerts)|
 |427 | [You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use? To answer, select the appropriate setting in the answer area. Hot Area:](#you-create-a-resource-group-named-rg1-in-azure-resource-manager-you-need-to-prevent-the-accidental-deletion-of-the-resources-in-rg1-which-setting-should-you-use-to-answer-select-the-appropriate-setting-in-the-answer-area-hot-area)|
@@ -3272,7 +3272,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor
+### You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor.
 
 - [x] Yes.
 - [ ] No.
