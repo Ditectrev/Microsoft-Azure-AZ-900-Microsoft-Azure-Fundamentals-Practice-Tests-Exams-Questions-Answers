@@ -365,7 +365,7 @@
 |436 | [You can create up to 10 Azure free accounts by using the same Microsoft account.](#you-can-create-up-to-10-azure-free-accounts-by-using-the-same-microsoft-account)|
 |437 | [All Azure services in private preview must be accessed by using a separate Azure portal.](#all-azure-services-in-private-preview-must-be-accessed-by-using-a-separate-azure-portal)|
 |438 | [Azure services in public preview can be used in production environments.](#azure-services-in-public-preview-can-be-used-in-production-environments)|
-|439 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview are subject to a Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
+|439 | [Azure services in public preview are subject to a Service Level Agreement (SLA).](#azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
 |440 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Standard support plan is included in an Azure free account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-standard-support-plan-is-included-in-an-azure-free-account)|
 |441 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
 |442 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
@@ -3383,7 +3383,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview are subject to a Service Level Agreement (SLA)
+### Azure services in public preview are subject to a Service Level Agreement (SLA).
 
 - [ ] Yes.
 - [x] No.
