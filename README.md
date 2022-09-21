@@ -367,7 +367,7 @@
 |438 | [Azure services in public preview can be used in production environments.](#azure-services-in-public-preview-can-be-used-in-production-environments)|
 |439 | [Azure services in public preview are subject to a Service Level Agreement (SLA).](#azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
 |440 | [A Standard support plan is included in an Azure free account.](#a-standard-support-plan-is-included-in-an-azure-free-account)|
-|441 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
+|441 | [A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA).](#a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
 |442 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
 |444 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A user who is assigned the Owner role can transfer ownership of an Azure subscription](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-user-who-is-assigned-the-owner-role-can-transfer-ownership-of-an-azure-subscription)|
 |445 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
@@ -3397,7 +3397,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA)
+### A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA).
 
 - [x] Yes.
 - [ ] No.
