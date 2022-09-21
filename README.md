@@ -357,7 +357,7 @@
 |427 | [You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use?](#you-create-a-resource-group-named-rg1-in-azure-resource-manager-you-need-to-prevent-the-accidental-deletion-of-the-resources-in-rg1-which-setting-should-you-use)|
 |428 | [You have a resource group named RG1. You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-the-solution-must-ensure-that-other-objects-can-be-created-in-rg1-what-should-you-use)|
 |429 | [You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-integrated applications. What should you implement?](#you-have-an-azure-subscription-and-100-windows-10-devices-you-need-to-ensure-that-only-users-whose-devices-have-the-latest-security-patches-installed-can-access-azure-active-directory-azure-ad-integrated-applications-what-should-you-implement)|
-|431 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: enables users to authenticate to multiple applications by using single sign-on (SSO)](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-enables-users-to-authenticate-to-multiple-applications-by-using-single-sign-on-sso)|
+|431 | [[...] enables users to authenticate to multiple applications by using single sign-on (SSO).](#-enables-users-to-authenticate-to-multiple-applications-by-using-single-sign-on-sso)|
 |432 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will)|
 |433 | [Which task can you perform by using Azure Advisor?](#which-task-can-you-perform-by-using-azure-advisor)|
 |434 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If your company uses an Azure free account, you will only be able to use a subset of Azure services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-your-company-uses-an-azure-free-account-you-will-only-be-able-to-use-a-subset-of-azure-services)|
@@ -3323,7 +3323,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: enables users to authenticate to multiple applications by using single sign-on (SSO)
+### [...] enables users to authenticate to multiple applications by using single sign-on (SSO).
 
 - [ ] Application security groups in Azure Azure.
 - [x] Active Directory (Azure AD).
