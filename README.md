@@ -360,7 +360,7 @@
 |431 | [[...] enables users to authenticate to multiple applications by using single sign-on (SSO).](#-enables-users-to-authenticate-to-multiple-applications-by-using-single-sign-on-sso)|
 |432 | [You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will [...].](#you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will-)|
 |433 | [Which task can you perform by using Azure Advisor?](#which-task-can-you-perform-by-using-azure-advisor)|
-|434 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If your company uses an Azure free account, you will only be able to use a subset of Azure services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-your-company-uses-an-azure-free-account-you-will-only-be-able-to-use-a-subset-of-azure-services)|
+|434 | [If your company uses an Azure free account, you will only be able to use a subset of Azure services.](#if-your-company-uses-an-azure-free-account-you-will-only-be-able-to-use-a-subset-of-azure-services)|
 |435 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All Azure free accounts expire after a specific period](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-azure-free-accounts-expire-after-a-specific-period)|
 |436 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can create up to 10 Azure free accounts by using the same Microsoft account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-create-up-to-10-azure-free-accounts-by-using-the-same-microsoft-account)|
 |437 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All Azure services in private preview must be accessed by using a separate Azure portal](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-azure-services-in-private-preview-must-be-accessed-by-using-a-separate-azure-portal)|
@@ -3350,7 +3350,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If your company uses an Azure free account, you will only be able to use a subset of Azure services
+### If your company uses an Azure free account, you will only be able to use a subset of Azure services.
 
 - [ ] Yes.
 - [x] No.
