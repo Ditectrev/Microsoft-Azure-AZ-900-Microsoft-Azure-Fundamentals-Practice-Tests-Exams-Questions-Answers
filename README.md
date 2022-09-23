@@ -391,7 +391,7 @@
 |474 | [An Azure free account has a limit of 2TB of data that can be uploaded to Azure.](#an-azure-free-account-has-a-limit-of-2tb-of-data-that-can-be-uploaded-to-azure)|
 |475 | [An Azure free account can contain an unlimited number of web apps.](#an-azure-free-account-can-contain-an-unlimited-number-of-web-apps)|
 |476 | [An Azure service in private preview is released to all Azure customers.](#an-azure-service-in-private-preview-is-released-to-all-azure-customers)|
-|477 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in public preview is released to all Azure customers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-service-in-public-preview-is-released-to-all-azure-customers)|
+|477 | [An Azure service in public preview is released to all Azure customers.](#an-azure-service-in-public-preview-is-released-to-all-azure-customers)|
 |478 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in general availability is released to a subset of Azure customers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-service-in-general-availability-is-released-to-a-subset-of-azure-customers)|
 |479 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: With a consumption-based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-with-a-consumption-based-plan-you-pay-a-fixed-rate-for-all-data-sent-to-or-from-virtual-machines-hosted-in-the-cloud)|
 |480 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: With a consumption-based plan, you reduce overall costs by paying only for extra capacity when it is required](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-with-a-consumption-based-plan-you-reduce-overall-costs-by-paying-only-for-extra-capacity-when-it-is-required)|
@@ -3574,7 +3574,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in public preview is released to all Azure customers
+### An Azure service in public preview is released to all Azure customers.
 
 - [x] Yes.
 - [ ] No.
