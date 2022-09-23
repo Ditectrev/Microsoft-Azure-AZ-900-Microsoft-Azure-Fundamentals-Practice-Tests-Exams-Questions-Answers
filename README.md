@@ -378,8 +378,7 @@
 |454 | [How should you calculate the monthly uptime percentage? (Maximum Available Minutes-Downtime in Minutes) ÷ [...] × 100.](#how-should-you-calculate-the-monthly-uptime-percentage-maximum-available-minutes-downtime-in-minutes----100)|
 |455 | [How should you calculate the monthly uptime percentage? (Maximum Available Minutes-Downtime in Minutes) ÷ Maximum Available Minutes × [...].](#how-should-you-calculate-the-monthly-uptime-percentage-maximum-available-minutes-downtime-in-minutes--maximum-available-minutes--)|
 |456 | [By creating additional resource groups in an Azure subscription, additional costs are incurred.](#by-creating-additional-resource-groups-in-an-azure-subscription-additional-costs-are-incurred)|
-|457 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
-|458 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
+|457 | [By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred.](#by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
 |464 | [An Azure service is available to all Azure customers when it is in [...].](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-)|
 |466 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to purchase an Azure subscription. The companyג€™s support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-purchase-an-azure-subscription-the-company-has-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-standard-support-plan-does-this-meet-the-goal)|
 |467 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Most Azure services are introduced in private preview before being introduced in public preview, and then in general availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-most-azure-services-are-introduced-in-private-preview-before-being-introduced-in-public-preview-and-then-in-general-availability)|
@@ -3478,17 +3477,10 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred
+### By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred.
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred
-
-- [x] Yes.
-- [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
