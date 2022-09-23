@@ -395,7 +395,7 @@
 |478 | [An Azure service in general availability is released to a subset of Azure customers.](#an-azure-service-in-general-availability-is-released-to-a-subset-of-azure-customers)|
 |479 | [With a consumption-based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud.](#with-a-consumption-based-plan-you-pay-a-fixed-rate-for-all-data-sent-to-or-from-virtual-machines-hosted-in-the-cloud)|
 |480 | [With a consumption-based plan, you reduce overall costs by paying only for extra capacity when it is required.](#with-a-consumption-based-plan-you-reduce-overall-costs-by-paying-only-for-extra-capacity-when-it-is-required)|
-|481 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Serverless computing is an example of a consumption-based plan](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-serverless-computing-is-an-example-of-a-consumption-based-plan)|
+|481 | [Serverless computing is an example of a consumption-based plan.](#serverless-computing-is-an-example-of-a-consumption-based-plan)|
 |482 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The cost of Azure resources can vary between regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-cost-of-azure-resources-can-vary-between-regions)|
 |483 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure reservation is used to reserve server capacity at a specific data center](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-reservation-is-used-to-reserve-server-capacity-at-a-specific-data-center)|
 |484 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can stop an Azure SQL Database instance to decrease costs](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-stop-an-azure-sql-database-instance-to-decrease-costs)|
@@ -3602,7 +3602,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Serverless computing is an example of a consumption-based plan
+### Serverless computing is an example of a consumption-based plan.
 
 - [x] Yes.
 - [ ] No.
