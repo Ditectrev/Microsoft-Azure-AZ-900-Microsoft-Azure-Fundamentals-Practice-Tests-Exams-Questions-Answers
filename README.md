@@ -374,9 +374,9 @@
 |447 | [With Azure Reservations, you pay less fer virtual machines than with pay as-you-go pricing.](#with-azure-reservations-you-pay-less-fer-virtual-machines-than-with-pay-as-you-go-pricing)|
 |448 | [Two Azure virtual machines that use the B25 size have the same monthly costs.](#two-azure-virtual-machines-that-use-the-b25-size-have-the-same-monthly-costs)|
 |449 | [When an Azure virtual machine is stopped, you continue to pay storage costs for the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-for-the-virtual-machine)|
-|453 | [How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: a)](#how-should-you-calculate-the-monthly-uptime-percentage-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area-a)|
-|454 | [How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: b)](#how-should-you-calculate-the-monthly-uptime-percentage-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area-b)|
-|455 | [How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: c)](#how-should-you-calculate-the-monthly-uptime-percentage-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-hot-area-c)|
+|453 | [How should you calculate the monthly uptime percentage? [...] ÷ Maximum Available Minutes = 100.](#how-should-you-calculate-the-monthly-uptime-percentage--maximum-available-minutes=100)|
+|454 | [How should you calculate the monthly uptime percentage?](#how-should-you-calculate-the-monthly-uptime-percentage)|
+|455 | [How should you calculate the monthly uptime percentage?](#how-should-you-calculate-the-monthly-uptime-percentage)|
 |456 | [By creating additional resource groups in an Azure subscription, additional costs are incurred.](#by-creating-additional-resource-groups-in-an-azure-subscription-additional-costs-are-incurred)|
 |457 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
 |458 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
@@ -3445,7 +3445,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: a)
+### How should you calculate the monthly uptime percentage? [...] ÷ Maximum Available Minutes = 100.
 
 - [ ] Downtime in Minutes.
 - [ ] Maximum Available Minutes.
