@@ -374,7 +374,7 @@
 |447 | [With Azure Reservations, you pay less fer virtual machines than with pay as-you-go pricing.](#with-azure-reservations-you-pay-less-fer-virtual-machines-than-with-pay-as-you-go-pricing)|
 |448 | [Two Azure virtual machines that use the B25 size have the same monthly costs.](#two-azure-virtual-machines-that-use-the-b25-size-have-the-same-monthly-costs)|
 |449 | [When an Azure virtual machine is stopped, you continue to pay storage costs for the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-for-the-virtual-machine)|
-|453 | [How should you calculate the monthly uptime percentage? [...] ÷ Maximum Available Minutes = 100.](#how-should-you-calculate-the-monthly-uptime-percentage--maximum-available-minutes=100)|
+|453 | [How should you calculate the monthly uptime percentage? [...] ÷ Maximum Available Minutes = 100.](#how-should-you-calculate-the-monthly-uptime-percentage---maximum-available-minutes--100)|
 |454 | [How should you calculate the monthly uptime percentage?](#how-should-you-calculate-the-monthly-uptime-percentage)|
 |455 | [How should you calculate the monthly uptime percentage?](#how-should-you-calculate-the-monthly-uptime-percentage)|
 |456 | [By creating additional resource groups in an Azure subscription, additional costs are incurred.](#by-creating-additional-resource-groups-in-an-azure-subscription-additional-costs-are-incurred)|
