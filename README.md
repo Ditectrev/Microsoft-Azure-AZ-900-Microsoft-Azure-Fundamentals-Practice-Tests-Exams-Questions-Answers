@@ -389,7 +389,7 @@
 |472 | [Your company has 10 departments. The company plans to implement an Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-an-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |473 | [An Azure free account has a spending limit.](#an-azure-free-account-has-a-spending-limit)|
 |474 | [An Azure free account has a limit of 2TB of data that can be uploaded to Azure.](#an-azure-free-account-has-a-limit-of-2tb-of-data-that-can-be-uploaded-to-azure)|
-|475 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure free account can contain an unlimited number of web apps](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-free-account-can-contain-an-unlimited-number-of-web-apps)|
+|475 | [An Azure free account can contain an unlimited number of web apps.](#an-azure-free-account-can-contain-an-unlimited-number-of-web-apps)|
 |476 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in private preview is released to all Azure customers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-service-in-private-preview-is-released-to-all-azure-customers)|
 |477 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in public preview is released to all Azure customers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-service-in-public-preview-is-released-to-all-azure-customers)|
 |478 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure service in general availability is released to a subset of Azure customers](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-service-in-general-availability-is-released-to-a-subset-of-azure-customers)|
@@ -3560,7 +3560,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure free account can contain an unlimited number of web apps
+### An Azure free account can contain an unlimited number of web apps.
 
 - [ ] Yes.
 - [x] No.
