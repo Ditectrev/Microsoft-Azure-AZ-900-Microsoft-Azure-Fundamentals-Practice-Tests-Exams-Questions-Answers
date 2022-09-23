@@ -396,7 +396,7 @@
 |479 | [With a consumption-based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud.](#with-a-consumption-based-plan-you-pay-a-fixed-rate-for-all-data-sent-to-or-from-virtual-machines-hosted-in-the-cloud)|
 |480 | [With a consumption-based plan, you reduce overall costs by paying only for extra capacity when it is required.](#with-a-consumption-based-plan-you-reduce-overall-costs-by-paying-only-for-extra-capacity-when-it-is-required)|
 |481 | [Serverless computing is an example of a consumption-based plan.](#serverless-computing-is-an-example-of-a-consumption-based-plan)|
-|482 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The cost of Azure resources can vary between regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-cost-of-azure-resources-can-vary-between-regions)|
+|482 | [The cost of Azure resources can vary between regions.](#the-cost-of-azure-resources-can-vary-between-regions)|
 |483 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure reservation is used to reserve server capacity at a specific data center](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-reservation-is-used-to-reserve-server-capacity-at-a-specific-data-center)|
 |484 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: You can stop an Azure SQL Database instance to decrease costs](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-you-can-stop-an-azure-sql-database-instance-to-decrease-costs)|
 |485 | [You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL database that has an SLA of 99.99 percent. The composite SLA for the application is [...].](#you-have-an-application-that-is-comprised-of-an-azure-web-app-that-has-a-service-level-agreement-sla-of-9995-percent-and-an-azure-sql-database-that-has-an-sla-of-9999-percent-the-composite-sla-for-the-application-is-)|
@@ -3609,7 +3609,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The cost of Azure resources can vary between regions
+### The cost of Azure resources can vary between regions.
 
 - [x] Yes.
 - [ ] No.
