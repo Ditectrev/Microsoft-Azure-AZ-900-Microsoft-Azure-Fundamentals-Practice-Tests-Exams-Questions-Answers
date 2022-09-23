@@ -403,7 +403,7 @@
 |487 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-adding-azure-resources-to-multiple-regions)|
 |488 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by purchasing multiple subscriptions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-purchasing-multiple-subscriptions)|
 |489 | [Which statement accurately describes the Modern Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modern-lifecycle-policy-for-azure-services)|
-|490 | [You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area. Hot Area:](#you-need-to-request-that-microsoft-increase-a-subscription-quota-limit-for-your-company-which-blade-should-you-use-from-the-azure-portal-to-answer-select-the-appropriate-blade-in-the-answer-area-hot-area)|
+|490 | [You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal?](#you-need-to-request-that-microsoft-increase-a-subscription-quota-limit-for-your-company-which-blade-should-you-use-from-the-azure-portal)|
 |491 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: You can use in Azure to send email alerts when the cost of the current billing period for an Azure subscription exceeds a specified limit](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-you-can-use-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-period-for-an-azure-subscription-exceeds-a-specified-limit)|
 |492 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From the Azure portal, you can distinguish between services that are generally available and services that are in public preview](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-the-azure-portal-you-can-distinguish-between-services-that-are-generally-available-and-services-that-are-in-public-preview)|
 |493 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: After an Azure service becomes generally available, the service is no longer updated with new features](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-after-an-azure-service-becomes-generally-available-the-service-is-no-longer-updated-with-new-features)|
@@ -3660,7 +3660,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area. Hot Area:
+### You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal?
 
 - [ ] Create a resource.
 - [ ] All services.
