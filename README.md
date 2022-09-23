@@ -466,7 +466,6 @@
 |570 | [This question requires that you evaluate the Bold text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |571 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All the Azure resources deployed to a single resource group must share the same Azure region](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |573 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
-|574 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. With Azure Reservations, you play less for virtual machines that with pay- as-you-go pricing](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-with-azure-reservations-you-play-less-for-virtual-machines-that-with-pay-as-you-go-pricing)|
 |575 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-create-two-azure-virtual-machines-that-use-the-b2s-size-each-virtual-machine-will-always-generate-the-same-monthly-costs)|
 |576 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
 |577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
@@ -4129,13 +4128,6 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: With Azure Reservations, you play less for virtual machines that with pay- as-you-go pricing
 
 - [x] Yes.
 - [ ] No.
