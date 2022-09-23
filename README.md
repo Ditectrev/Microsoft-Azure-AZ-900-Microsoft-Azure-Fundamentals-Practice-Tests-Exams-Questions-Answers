@@ -401,7 +401,7 @@
 |484 | [You can stop an Azure SQL Database instance to decrease costs.](#you-can-stop-an-azure-sql-database-instance-to-decrease-costs)|
 |485 | [You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL database that has an SLA of 99.99 percent. The composite SLA for the application is [...].](#you-have-an-application-that-is-comprised-of-an-azure-web-app-that-has-a-service-level-agreement-sla-of-9995-percent-and-an-azure-sql-database-that-has-an-sla-of-9999-percent-the-composite-sla-for-the-application-is-)|
 |486 | [The Service Level Agreement (SLA) guaranteed uptime for paid Azure services is at least 99.9 percent.](#the-service-level-agreement-sla-guaranteed-uptime-for-paid-azure-services-is-at-least-999-percent)|
-|487 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-adding-azure-resources-to-multiple-regions)|
+|487 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-adding-azure-resources-to-multiple-regions)|
 |488 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Companies can increase the Service Level Agreement (SLA) guaranteed uptime by purchasing multiple subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-purchasing-multiple-subscriptions)|
 |489 | [Which statement accurately describes the Modern Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modern-lifecycle-policy-for-azure-services)|
 |490 | [You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area. Hot Area:](#you-need-to-request-that-microsoft-increase-a-subscription-quota-limit-for-your-company-which-blade-should-you-use-from-the-azure-portal-to-answer-select-the-appropriate-blade-in-the-answer-area-hot-area)|
@@ -3645,7 +3645,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions
+### Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.
 
 - [x] Yes.
 - [ ] No.
