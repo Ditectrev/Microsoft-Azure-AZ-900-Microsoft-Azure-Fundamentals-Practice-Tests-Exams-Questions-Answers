@@ -414,7 +414,7 @@
 |500 | [Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located.](#storing-1-tb-of-data-in-azure-blob-storage-will-always-cost-the-same-regardless-of-the-azure-region-in-which-the-data-is-located)|
 |501 | [When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free.](#when-you-use-a-general-purpose-v2-azure-storage-account-you-are-only-charged-for-the-amount-of-data-that-is-stored-all-read-and-write-operations-are-free)|
 |502 | [Transferring data between Azure Storage accounts in different Azure regions is free.](#transferring-data-between-azure-storage-accounts-in-different-azure-regions-is-free)|
-|503 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-in-azure-active-directory-premium-p2-at-least-999-percent-availability-is-guaranteed)|
+|503 | [In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed.](#in-azure-active-directory-premium-p2-at-least-999-percent-availability-is-guaranteed)|
 |504 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The Service Level Agreement (SLA) for Azure Active Directory Premium P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-directory-premium-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
 |505 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |506 | [All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
@@ -3748,7 +3748,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed
+### In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed.
 
 - [x] Yes.
 - [ ] No.
