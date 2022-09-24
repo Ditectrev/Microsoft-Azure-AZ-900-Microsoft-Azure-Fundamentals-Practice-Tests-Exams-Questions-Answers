@@ -419,7 +419,7 @@
 |505 | [All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).](#all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |507 | [Adding resource groups in an Azure subscription generates additional costs.](#adding-resource-groups-in-an-azure-subscription-generates-additional-costs)|
 |508 | [Copying 10 GB of data to Azure from an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-to-azure-from-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
-|509 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Copying 10 GB of data from Azure to an on- premises network over a VPN generates additional Azure data transfer costs](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-copying-10-gb-of-data-from-azure-to-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
+|509 | [Copying 10 GB of data from Azure to an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-from-azure-to-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
 |510 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Each Azure subscription can contain multiple account administrators](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-each-azure-subscription-can-contain-multiple-account-administrators)|
 |511 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Each Azure subscription can be managed by using a Microsoft account only](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-each-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |512 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-group-contains-multiple-azure-subscriptions)|
@@ -3782,7 +3782,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Copying 10 GB of data from Azure to an on- premises network over a VPN generates additional Azure data transfer costs
+### Copying 10 GB of data from Azure to an on-premises network over a VPN generates additional Azure data transfer costs.
 
 - [x] Yes.
 - [ ] No.
