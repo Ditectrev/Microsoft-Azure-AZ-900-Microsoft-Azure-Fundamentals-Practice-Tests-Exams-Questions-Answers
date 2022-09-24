@@ -409,7 +409,7 @@
 |493 | [After an Azure service becomes generally available, the service is no longer updated with new features.](#after-an-azure-service-becomes-generally-available-the-service-is-no-longer-updated-with-new-features)|
 |494 | [When you create Azure resources for a service in public preview, you must recreate the resources once the service becomes generally available.](#when-you-create-azure-resources-for-a-service-in-public-preview-you-must-recreate-the-resources-once-the-service-becomes-generally-available)|
 |495 | [When using an Azure ExpressRoute connection, inbound data traffic from an on-premises network to Azure is always free.](#when-using-an-azure-expressroute-connection-inbound-data-traffic-from-an-on-premises-network-to-azure-is-always-free)|
-|496 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Outbound data traffic from Azure to an on-premises network is always free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-outbound-data-traffic-from-azure-to-an-on-premises-network-is-always-free)|
+|496 | [Outbound data traffic from Azure to an on-premises network is always free.](#outbound-data-traffic-from-azure-to-an-on-premises-network-is-always-free)|
 |497 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data traffic between Azure services within the same Azure region is always free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-traffic-between-azure-services-within-the-same-azure-region-is-always-free)|
 |498 | [Your company has an Azure subscription that contains the following unused resources: ✑ 20 user accounts in Azure Active Directory (Azure AD) ✑ Five groups in Azure AD ✑ 10 public IP addresses ✑ 10 network interfaces You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
 |499 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: If an Azure virtual machine has a status of Stopped (deallocated), you will continue to pay for](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-if-an-azure-virtual-machine-has-a-status-of-stopped-deallocated-you-will-continue-to-pay-for9)|
@@ -3715,7 +3715,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Outbound data traffic from Azure to an on-premises network is always free
+### Outbound data traffic from Azure to an on-premises network is always free.
 
 - [ ] Yes.
 - [x] No.
