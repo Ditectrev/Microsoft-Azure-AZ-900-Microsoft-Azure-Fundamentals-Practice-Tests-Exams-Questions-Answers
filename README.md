@@ -420,7 +420,7 @@
 |507 | [Adding resource groups in an Azure subscription generates additional costs.](#adding-resource-groups-in-an-azure-subscription-generates-additional-costs)|
 |508 | [Copying 10 GB of data to Azure from an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-to-azure-from-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
 |509 | [Copying 10 GB of data from Azure to an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-from-azure-to-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
-|510 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Each Azure subscription can contain multiple account administrators](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-each-azure-subscription-can-contain-multiple-account-administrators)|
+|510 | [Each Azure subscription can contain multiple account administrators.](#each-azure-subscription-can-contain-multiple-account-administrators)|
 |511 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Each Azure subscription can be managed by using a Microsoft account only](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-each-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |512 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-group-contains-multiple-azure-subscriptions)|
 |513 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Data that is stored in the Archive access tier of an Azure Storage account](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-data-that-is-stored-in-the-archive-access-tier-of-an-azure-storage-account)|
@@ -3789,7 +3789,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Each Azure subscription can contain multiple account administrators
+### Each Azure subscription can contain multiple account administrators.
 
 - [ ] Yes.
 - [x] No.
