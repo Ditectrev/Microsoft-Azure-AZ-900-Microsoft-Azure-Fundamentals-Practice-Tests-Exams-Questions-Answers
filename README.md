@@ -422,7 +422,7 @@
 |509 | [Copying 10 GB of data from Azure to an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-from-azure-to-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
 |510 | [Each Azure subscription can contain multiple account administrators.](#each-azure-subscription-can-contain-multiple-account-administrators)|
 |511 | [Each Azure subscription can be managed by using a Microsoft account only.](#each-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
-|512 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-an-azure-resource-group-contains-multiple-azure-subscriptions)|
+|512 | [An Azure resource group contains multiple Azure subscriptions.](#an-azure-resource-group-contains-multiple-azure-subscriptions)|
 |513 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Data that is stored in the Archive access tier of an Azure Storage account](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-data-that-is-stored-in-the-archive-access-tier-of-an-azure-storage-account)|
 |514 | [You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will automatically [refund your bank account].](#you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will-automatically-refund-your-bank-account)|
 |515 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Active Directory Premium P2 guarantees at least 99.9 percent availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-premium-p2-guarantees-at-least-999-percent-availability)|
@@ -495,7 +495,6 @@
 |623 | [Azure Multi-Factor Authentication (MFA) can be required for administrative and non administrative user accounts.](#azure-multi-factor-authentication-mfa-can-be-required-for-administrative-and-non-administrative-user-accounts)|
 |624 | [You need to view a list of planned maintenance events that can affect the availability of an Azure subscription. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area.](#you-need-to-view-a-list-of-planned-maintenance-events-that-can-affect-the-availability-of-an-azure-subscription-which-blade-should-you-use-from-the-azure-portal-to-answer-select-the-appropriate-blade-in-the-answer-area)|
 |625 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
-|629 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions Monitor the health of Azure services:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-monitor-the-health-of-azure-services)|
 |632 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. To achieve a hybrid cloud model, a company must always migrate from a private cloud model](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-achieve-a-hybrid-cloud-model-a-company-must-always-migrate-from-a-private-cloud-model)|
 |633 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A company can extend the capacity of its internal network by using the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-extend-the-capacity-of-its-internal-network-by-using-the-public-cloud)|
 |634 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. In a public cloud model, only guest users at your company can access the resources in the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
@@ -3803,7 +3802,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: An Azure resource group contains multiple Azure subscriptions
+### An Azure resource group contains multiple Azure subscriptions.
 
 - [ ] Yes.
 - [x] No.
@@ -3910,8 +3909,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Must be restored before the data can be accessed.
 
 *[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: To implement a hybnid cloud model, a company must always migrate from a private cloud model
 
