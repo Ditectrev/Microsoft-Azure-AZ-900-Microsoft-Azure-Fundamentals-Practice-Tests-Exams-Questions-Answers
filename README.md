@@ -130,8 +130,6 @@
 |151 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
 |152 | [Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?](#your-company-has-10-offices-you-plan-to-generate-several-billing-reports-from-the-azure-portal-each-report-will-contain-the-azure-resource-utilization-of-each-office-which-azure-resource-manager-feature-should-you-use-before-you-generate-the-reports)|
 |153 | [Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.](#your-company-plans-to-migrate-to-azure-the-company-has-several-departments-all-the-azure-resources-used-by-each-department-will-be-managed-by-a-department-administrator-what-are-two-possible-techniques-to-segment-azure-for-the-departments-each-correct-answer-presents-a-complete-solution)|
-|155 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
-|156 | [Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-does-this-meet-the-goal)|
 |158 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
 |162 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
@@ -411,7 +409,7 @@
 |495 | [When using an Azure ExpressRoute connection, inbound data traffic from an on-premises network to Azure is always free.](#when-using-an-azure-expressroute-connection-inbound-data-traffic-from-an-on-premises-network-to-azure-is-always-free)|
 |496 | [Outbound data traffic from Azure to an on-premises network is always free.](#outbound-data-traffic-from-azure-to-an-on-premises-network-is-always-free)|
 |497 | [Data traffic between Azure services within the same Azure region is always free.](#data-traffic-between-azure-services-within-the-same-azure-region-is-always-free)|
-|498 | [Your company has an Azure subscription that contains the following unused resources: ✑ 20 user accounts in Azure Active Directory (Azure AD) ✑ Five groups in Azure AD ✑ 10 public IP addresses ✑ 10 network interfaces You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
+|498 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD). Five groups in Azure AD. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
 |499 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: If an Azure virtual machine has a status of Stopped (deallocated), you will continue to pay for](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-if-an-azure-virtual-machine-has-a-status-of-stopped-deallocated-you-will-continue-to-pay-for9)|
 |500 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-storing-1-tb-of-data-in-azure-blob-storage-will-always-cost-the-same-regardless-of-the-azure-region-in-which-the-data-is-located)|
 |501 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-you-use-a-general-purpose-v2-azure-storage-account-you-are-only-charged-for-the-amount-of-data-that-is-stored-all-read-and-write-operations-are-free)|
@@ -469,7 +467,6 @@
 |576 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
 |577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
 |578 | [To complete the sentence, select the appropriate option in the answer area. An Azure Policy initiative is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-azure-policy-initiative-is-a)|
-|579 | [Your company has an Azure subscription that contains the following unused resources:* 20 user accounts in Azure Active Directory (Azure AD) * Five groups in Azure AD * 10 public IP addresses * 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources_-20-user-accounts-in-azure-active-directory-azure-ad-_-five-groups-in-azure-ad-_-10-public-ip-addresses-_-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
 |581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
 |582 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a ... offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
@@ -1571,20 +1568,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Multiple Azure Active Directory (Azure AD) directories.
 - [ ] Multiple regions.
 - [x] Multiple resource groups.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company has an Azure subscription that contains the following unused 20 user accounts in Azure Active Directory (Azure AD) Five groups In Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Does this meet the goal?
-
-- [ ] Yes.
-- [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -3729,7 +3712,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company has an Azure subscription that contains the following unused resources: ✑ 20 user accounts in Azure Active Directory (Azure AD) ✑ Five groups in Azure AD ✑ 10 public IP addresses ✑ 10 network interfaces You need to reduce the Azure costs for the company. Which unused resources should you remove?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD). Five groups in Azure AD. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?
 
 - [ ] The network interfaces.
 - [x] The public IP addresses.
@@ -4155,15 +4138,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Collection of Azure Policy definition assignments.
 - [ ] Group of Azure Blueprints definitions.
 - [ ] Group of role-based access control (RBAC) role assignments.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### Your company has an Azure subscription that contains the following unused resources:* 20 user accounts in Azure Active Directory (Azure AD) * Five groups in Azure AD * 10 public IP addresses * 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?
-
-- [ ] The user accounts.
-- [ ] The network interfaces.
-- [x] The public IP addresses.
-- [ ] The groups.
 
 *[⬆ Back to Top](#table-of-contents)*
 
