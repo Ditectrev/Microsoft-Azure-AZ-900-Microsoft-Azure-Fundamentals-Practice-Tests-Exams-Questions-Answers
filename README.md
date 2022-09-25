@@ -436,7 +436,7 @@
 |533 | [A company can extend the computing resources of its internal network by using the public cloud.](#a-company-can-extend-the-computing-resources-of-its-internal-network-by-using-the-public-cloud)|
 |535 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-match-is-worth-one-point)|
 |536 | [Azure DevOps Services allows developers to deploy or update applications to Azure using Continuous Integration/Continuous Delivery (CI/CD) pipelines.](#azure-devops-services-allows-developers-to-deploy-or-update-applications-to-azure-using-continuous-integrationcontinuous-delivery-cicd-pipelines)|
-|537 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services includes a Git repository for developers to store code](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-includes-a-git-repository-for-developers-to-store-code)|
+|537 | [Azure DevOps Services includes a Git repository for developers to store code.](#azure-devops-services-includes-a-git-repository-for-developers-to-store-code)|
 |538 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services can be used to build and host web apps](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-can-be-used-to-build-and-host-web-apps)|
 |542 | [This question requires that you evaluate the underlined text to determine if it is correct. You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must be deployed to a separate virtual network.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-be-deployed-to-a-separate-virtual-network)|
 |543 | [You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create-to-answer-select-the-appropriate-resource-in-the-answer-area)|
@@ -3890,7 +3890,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure DevOps Services includes a Git repository for developers to store code
+### Azure DevOps Services includes a Git repository for developers to store code.
 
 - [x] Yes.
 - [ ] No.
