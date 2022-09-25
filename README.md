@@ -425,8 +425,6 @@
 |512 | [An Azure resource group contains multiple Azure subscriptions.](#an-azure-resource-group-contains-multiple-azure-subscriptions)|
 |513 | [Data that is stored in the Archive access tier of an Azure Storage account [...].](#data-that-is-stored-in-the-archive-access-tier-of-an-azure-storage-account-)|
 |514 | [You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will automatically [refund your bank account].](#you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will-automatically-refund-your-bank-account)|
-|515 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Active Directory Premium P2 guarantees at least 99.9 percent availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-premium-p2-guarantees-at-least-999-percent-availability)|
-|516 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Directory Premium P2 s the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-directory-premium-p2-s-the-same-as-the-sla-for-azure-active-directory-free)|
 |517 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a credit if their monthly uptime percentage s below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-s-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |518 | [This question requires that you evaluate the underlined text to determine if it is correct. When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines-to-the-same-azure-region)|
 |519 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company plans to migrate all its data and resources to Azure. The company’s migration plan states that only platform as a service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server. installed. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-companys-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-supports-the-planned-migration-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
@@ -456,7 +454,6 @@
 |554 | [To complete the sentence, select the appropriate option in the answer area. From ... you can view which user turned off a specific virtual machine during the last 14 days. Azure Control IAM, Azure Event Hubs, Azure Activity Log, Azure Service Health  ](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days-azure-control-iam-azure-event-hubs-azure-activity-log-azure-service-health)|
 |558 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)|
 |561 | [You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
-|564 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Active Directory Premium P2 guarantees at least 999 percent availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-active-directory-premium-p2-guarantees-at-least-999-percent-availability)|
 |565 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Crectory Premum P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-crectory-premum-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
 |566 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-all-paying-azure-customers-receive-a-creoit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |570 | [This question requires that you evaluate the Bold text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-bold-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
@@ -3825,22 +3822,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [x] Automatically credit your account.
 - [ ] Send you a coupon code that you can redeem for Azure credits.
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory Premium P2 guarantees at least 99.9 percent availability
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The Service Level Agreement (SLA) for Azure Active Directory Premium P2 s the same as the SLA for Azure Active Directory Free
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: All paying Azure customers receive a credit if their monthly uptime percentage s below the guaranteed amount in the Service Level Agreement (SLA)
 
 - [ ] Yes.
@@ -4052,13 +4033,6 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure Active Directory Premium P2 guarantees at least 999 percent availability
 
 - [x] Yes.
 - [ ] No.
