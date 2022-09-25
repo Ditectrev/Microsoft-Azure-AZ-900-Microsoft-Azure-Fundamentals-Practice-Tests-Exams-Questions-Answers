@@ -426,7 +426,7 @@
 |513 | [Data that is stored in the Archive access tier of an Azure Storage account [...].](#data-that-is-stored-in-the-archive-access-tier-of-an-azure-storage-account-)|
 |514 | [You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will automatically [refund your bank account].](#you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will-automatically-refund-your-bank-account)|
 |518 | [When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines [to the same Azure region].](#when-you-need-to-delegate-permissions-to-several-azure-virtual-machines-simultaneously-you-must-deploy-the-azure-virtual-machines-to-the-same-azure-region)|
-|523 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a - offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
+|523 | [Azure Cosmos DB is an example of a [...] offering.](#azure-cosmos-db-is-an-example-of-a--offering)|
 |526 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. The Microsoft Service Trust Portal can be accessed by using a Microsoft cloud services account](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-microsoft-service-trust-portal-can-be-accessed-by-using-a-microsoft-cloud-services-account)|
 |527 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. Compliance Manager can be used to track your company's regulatory compliance activities related to Microsoft cloud services](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-compliance-manager-can-be-used-to-track-your-company's-regulatory-compliance-activities-related-to-microsoft-cloud-services)|
 |528 | [For each of the following statements, select Yes if the statement is true, Otherwise, select No. NOTE: Each correct match is worth one point. The My Library feature can be used to save Microsoft Service Trust Portal documents and resources in a single location](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-my-library-feature-can-be-used-to-save-microsoft-service-trust-portal-documents-and-resources-in-a-single-location)|
@@ -462,7 +462,6 @@
 |577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
 |578 | [To complete the sentence, select the appropriate option in the answer area. An Azure Policy initiative is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-azure-policy-initiative-is-a)|
 |581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
-|582 | [To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a ... offering](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-azure-cosmos-db-is-an-example-of-a-offering)|
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
 |584 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |585 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point. If your company Uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-your-company-uses-an-azure-free-account-you-can-only-deploy-azure-virtual-machines-and-azure-storage-accounts)|
@@ -518,7 +517,7 @@ to ensure that the services running on the virtual machines are available if a s
 |664 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A resource group can contain resources from multiple Azure regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-resource-group-can-contain-resources-from-multiple-azure-regions)|
 |668 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Data that is copied to an Azure Storage account is maintained automatically in at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
 |671 | [Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: – Backing up application data – Replacing failed server hardware – Managing physical server security – Updating server operating systems – Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration.Which two responsibilities should you identify? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#your-company-has-an-on-premises-network-that-contains-multiple-servers-the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-‚Äì-backing-up-application-data-‚Äì-replacing-failed-server-hardware-‚Äì-managing-physical-server-security-‚Äì-updating-server-operating-systems-‚Äì-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migrationwhich-two-responsibilities-should-you-identify-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
-|672 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure Cosmos DB is an example of a platform as a service (PaaS) offering.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-cosmos-db-is-an-example-of-a-platform-as-a-service-paas-offering)|
+|672 | [Azure Cosmos DB is an example of a [Platform as a Service (PaaS)] offering.](#azure-cosmos-db-is-an-example-of-a-platform-as-a-service-paas-offering)|
 |673 | [[Authorization] is the process of verifying a user's credentials.](#authorization-is-the-process-of-verifying-a-users-credentials)|
 |674 | [You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?](you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-you-need-to-identify-the-primary-benefit-of-using-a-public-cloud-service-for-the-servers-what-should-you-identify)|
 
@@ -3828,9 +3827,9 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a - offering
+### Azure Cosmos DB is an example of a [...] offering.
 
-- [x] Platform as a service (PaaS).
+- [x] Platform as a Service (PaaS).
 - [ ] Infrastructure as a service (IaaS).
 - [ ] Serverless.
 - [ ] Software as a service (SaaS).
@@ -4097,15 +4096,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Azure Firewall.
 - [ ] Azure Front Door.
 - [x] Azure Security Center.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. Azure Cosmos DB is an example of a ... offering
-
-- [x] Platform as a service (PaaS).
-- [ ] Infrastructure as a service (IaaS).
-- [ ] Serverless.
-- [ ] Software as a service (SaaS).
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4506,7 +4496,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. Azure Cosmos DB is an example of a platform as a service (PaaS) offering.
+### Azure Cosmos DB is an example of a [Platform as a Service (PaaS)] offering.
 
 - [x] No change is needed.
 - [ ] Infrastructure as a service (IaaS).
