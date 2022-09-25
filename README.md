@@ -434,7 +434,6 @@
 |531 | [Data that is stored in the Archive access tier of an Azure Storage account [can be access at any time by using azcopy.exe].](#data-that-is-stored-in-the-archive-access-tier-of-an-azure-storage-account-can-be-access-at-any-time-by-using-azcopyexe)|
 |532 | [To implement a hybrid cloud model, a company must always migrate from a private cloud model.](#to-implement-a-hybrid-cloud-model-a-company-must-always-migrate-from-a-private-cloud-model)|
 |533 | [A company can extend the computing resources of its internal network by using the public cloud.](#a-company-can-extend-the-computing-resources-of-its-internal-network-by-using-the-public-cloud)|
-|534 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. In a public cloud model, only guest users at your company can access the resources in the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
 |535 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-match-is-worth-one-point)|
 |536 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services allows developers to deploy or update applications to Azure using Continuous Integration/Continuous Delivery (CI/CD) pipelines](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-allows-developers-to-deploy-or-update-applications-to-azure-using-continuous-integration/continuous-delivery-ci/cd-pipelines)|
 |537 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct match is worth one point. Azure DevOps Services includes a Git repository for developers to store code](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-devops-services-includes-a-git-repository-for-developers-to-store-code)|
@@ -490,7 +489,6 @@
 |624 | [You need to view a list of planned maintenance events that can affect the availability of an Azure subscription. Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area.](#you-need-to-view-a-list-of-planned-maintenance-events-that-can-affect-the-availability-of-an-azure-subscription-which-blade-should-you-use-from-the-azure-portal-to-answer-select-the-appropriate-blade-in-the-answer-area)|
 |625 | [This question requires that you evaluate the underlined text to determine if it is correct. Azure policies provide a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |633 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A company can extend the capacity of its internal network by using the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-extend-the-capacity-of-its-internal-network-by-using-the-public-cloud)|
-|634 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. In a public cloud model, only guest users at your company can access the resources in the cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
 |635 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more resource groups. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-resource-groups-does-this-meet-the-goal)|
 |636 | [To complete the sentence, select the appropriate option in the answer area. ... a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |640 | [Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.](#which-cloud-deployment-solution-is-used-for-azure-virtual-machines-and-azure-sql-databases-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point)|
@@ -3885,13 +3883,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: In a public cloud model, only guest users at your company can access the resources in the cloud
-
-- [ ] Yes.
-- [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure DevOps Services allows developers to deploy or update applications to Azure using Continuous Integration/Continuous Delivery (CI/CD) pipelines
 
 - [x] Yes.
@@ -4306,13 +4297,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: In a public cloud model, only guest users at your company can access the resources in the cloud
-
-- [ ] Yes.
-- [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
