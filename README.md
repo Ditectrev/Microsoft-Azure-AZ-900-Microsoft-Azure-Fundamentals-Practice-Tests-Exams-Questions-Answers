@@ -135,7 +135,7 @@
 |164 | [Your company plans to purchase an Azure subscription. The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
 |165 | [Your company plans to request an architectural review of an Azure environment from Microsoft. The company currently has a Basic support plan. You need to recommend a new support plan for the company. The solution must minimize costs. Which support plan should you recommend?](#your-company-plans-to-request-an-architectural-review-of-an-azure-environment-from-microsoft-the-company-currently-has-a-basic-support-plan-you-need-to-recommend-a-new-support-plan-for-the-company-the-solution-must-minimize-costs-which-support-plan-should-you-recommend)|
 |166 | [What is required to use Azure Cost Management?](#what-is-required-to-use-azure-cost-management)|
-|167 | [Your Azure trial account expired last week. You are now unable to create additional Azure Active Directory (Azure AD) user accounts.](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-azure-active-directory-azure-ad-user-accounts)|
+|167 | [Your Azure trial account expired last week. You are now unable to [create additional Azure Active Directory (Azure AD) user accounts].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-azure-active-directory-azure-ad-user-accounts)|
 |168 | [Your company plans to purchase an Azure subscription, The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company's-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-premier-support-plan-does-this-meet-the-goal)|
 |169 | [Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |170 | [Which statement accurately describes the Modem Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modem-lifecycle-policy-for-azure-services)|
@@ -381,7 +381,7 @@
 |467 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Most Azure services are introduced in private preview before being introduced in public preview, and then in general availability](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-most-azure-services-are-introduced-in-private-preview-before-being-introduced-in-public-preview-and-then-in-general-availability)|
 |468 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview can be managed only by using the Azure CLI](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-services-in-public-preview-can-be-managed-only-by-using-the-azure-cli)|
 |469 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The cost of an Azure service in private preview decreases when the service becomes generally available](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-cost-of-an-azure-service-in-private-preview-decreases-when-the-service-becomes-generally-available)|
-|470 | [To complete the sentence, select the appropriate option in the answer area. Hot Area: Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
+|470 | [Your Azure trial account expired last week. You are now unable to [...].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-)|
 |471 | [Your company plans to purchase an Azure subscription. The company has support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Professional Direct support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company-has-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-professional-direct-support-plan-does-this-meet-the-goal)|
 |472 | [Your company has 10 departments. The company plans to implement an Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-an-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |473 | [An Azure free account has a spending limit.](#an-azure-free-account-has-a-spending-limit)|
@@ -455,7 +455,6 @@
 |573 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
 |575 | [If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs.](#if-you-create-two-azure-virtual-machines-that-use-the-b2s-size-each-virtual-machine-will-always-generate-the-same-monthly-costs)|
 |576 | [When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
-|577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
 |578 | [To complete the sentence, select the appropriate option in the answer area. An Azure Policy initiative is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-azure-policy-initiative-is-a)|
 |581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
@@ -1592,7 +1591,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your Azure trial account expired last week. You are now unable to create additional Azure Active Directory (Azure AD) user accounts.
+### Your Azure trial account expired last week. You are now unable to [create additional Azure Active Directory (Azure AD) user accounts].
 
 - [ ] No change is needed.
 - [x] Start an existing Azure virtual machine.
@@ -3473,7 +3472,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area: Your Azure trial account expired last week. You are now unable to
+### Your Azure trial account expired last week. You are now unable to [...].
 
 - [ ] Create additional Azure Active Directory (Azure AD) user accounts.
 - [x] Start an existing Azure virtual machine.
@@ -4036,15 +4035,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [x] Yes.
 - [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to
-
-- [ ] Create additional Azure Active Directory (Azure AD) user accounts.
-- [x] Start an existing Azure virtual machine.
-- [ ] Access your data stored in Azure.
-- [ ] Access the Azure portal.
 
 *[⬆ Back to Top](#table-of-contents)*
 
