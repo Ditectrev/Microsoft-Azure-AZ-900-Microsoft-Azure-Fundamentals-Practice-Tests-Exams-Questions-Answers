@@ -123,7 +123,7 @@
 |142 | [Which Azure service should you use to store certificates?](#which-azure-service-should-you-use-to-store-certificates)|
 |143 | [You have a resource group named RG1. You plan to create virtual networks and app services in RG1. You need to prevent the creation of virtual machines only in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-plan-to-create-virtual-networks-and-app-services-in-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-what-should-you-use)|
 |144 | [What can Azure Information Protection encrypt?](#what-can-azure-information-protection-encrypt)|
-|146 | [From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
+|146 | [From [Azure Monitor], you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |147 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
 |148 | [From [Azure Cloud Shell], you can track your company's regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-companys-regulatory-standards-and-regulations-such-as-iso-27001)|
 |150 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks. Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
@@ -448,7 +448,6 @@
 |549 | [A Platform as a Service (PaaS) solution that hosts web apps in Azure can be configured to automatically scale the number of instances based on demand.](#a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-can-be-configured-to-automatically-scale-the-number-of-instances-based-on-demand)|
 |550 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |553 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-)|
-|554 | [To complete the sentence, select the appropriate option in the answer area. From ... you can view which user turned off a specific virtual machine during the last 14 days. Azure Control IAM, Azure Event Hubs, Azure Activity Log, Azure Service Health  ](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-from-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days-azure-control-iam-azure-event-hubs-azure-activity-log-azure-service-health)|
 |558 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)|
 |561 | [You need to configure an Azure solution that meets the following requirements: ✑ Secures websites from attacks ✑ Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |565 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. The Service Level Agreement (SLA) for Azure Active Crectory Premum P2 is the same as the SLA for Azure Active Directory Free](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-service-level-agreement-sla-for-azure-active-crectory-premum-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
@@ -1492,7 +1491,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### From Azure Monitor, you can view which user turned off a specific virtual machine during the last 14 days.
+### From [Azure Monitor], you can view which user turned off a specific virtual machine during the last 14 days.
 
 - [ ] No change is needed.
 - [ ] Azure Event Hubs.
@@ -3991,15 +3990,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Run a different operating system than the other virtual machines.
 - [ ] Be deployed to a separate resource group.
 - [ ] Have two network interfaces.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. From ... you can view which user turned off a specific virtual machine during the last 14 days. Azure Control IAM, Azure Event Hubs, Azure Activity Log, Azure Service Health
-
-- [ ] Azure Control IAM.
-- [ ] Azure Event Hubs.
-- [x] Azure Activity Log.
-- [ ] Azure Service Health.
 
 *[⬆ Back to Top](#table-of-contents)*
 
