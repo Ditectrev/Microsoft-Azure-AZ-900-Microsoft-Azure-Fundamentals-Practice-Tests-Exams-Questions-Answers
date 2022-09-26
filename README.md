@@ -440,7 +440,7 @@
 |538 | [Azure DevOps Services can be used to build and host web apps.](#azure-devops-services-can-be-used-to-build-and-host-web-apps)|
 |542 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [be deployed to a separate virtual network].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-be-deployed-to-a-separate-virtual-network)|
 |543 | [You plan to extend your company network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create?](#you-plan-to-extend-your-company-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create)|
-|544 | [This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
+|544 | [You have several virtual machines in an Azure subscription. You create a new subscription. [The virtual machines cannot be moved to the new subscription].](#you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
 |545 | [[...] is the process of verifying a user's credentials.](#-is-the-process-of-verifying-a-users-credentials)|
 |546 | [If a resource group named RG1 has a delete lock, [...] can delete RG1.](#if-a-resource-group-named-rg1-has-a-delete-lock--can-delete-rg1)|
 |547 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A platform as a service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-provides-full-control-of-the-operating-systems-that-host-applications)|
@@ -3930,7 +3930,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.
+### You have several virtual machines in an Azure subscription. You create a new subscription. [The virtual machines cannot be moved to the new subscription].
 
 - [ ] No change is needed.
 - [x] The virtual machines can be moved to the new subscription.
