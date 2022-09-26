@@ -439,7 +439,7 @@
 |537 | [Azure DevOps Services includes a Git repository for developers to store code.](#azure-devops-services-includes-a-git-repository-for-developers-to-store-code)|
 |538 | [Azure DevOps Services can be used to build and host web apps.](#azure-devops-services-can-be-used-to-build-and-host-web-apps)|
 |542 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [be deployed to a separate virtual network].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-be-deployed-to-a-separate-virtual-network)|
-|543 | [You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create-to-answer-select-the-appropriate-resource-in-the-answer-area)|
+|543 | [You plan to extend your company network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create?](#you-plan-to-extend-your-companys-network-to-azure-the-network-contains-a-vpn-appliance-that-uses-an-ip-address-of-1311072001-you-need-to-create-an-azure-resource-that-identifies-the-vpn-appliance-which-azure-resource-should-you-create)|
 |544 | [This question requires that you evaluate the underlined text to determine if it is correct. You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-you-have-several-virtual-machines-in-an-azure-subscription-you-create-a-new-subscription-the-virtual-machines-cannot-be-moved-to-the-new-subscription)|
 |545 | [[...] is the process of verifying a user's credentials.](#-is-the-process-of-verifying-a-users-credentials)|
 |546 | [If a resource group named RG1 has a delete lock, [...] can delete RG1.](#if-a-resource-group-named-rg1-has-a-delete-lock--can-delete-rg1)|
@@ -3913,7 +3913,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You plan to extend your company’s network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create? To answer, select the appropriate resource in the answer area.
+### You plan to extend your company network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create?
 
 - [ ] Virtual networks.
 - [ ] Load balancers.
