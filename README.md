@@ -454,7 +454,7 @@
 |571 | [All the Azure resources deployed to a single resource group must share the same Azure region.](#all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |573 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
 |575 | [If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs.](#if-you-create-two-azure-virtual-machines-that-use-the-b2s-size-each-virtual-machine-will-always-generate-the-same-monthly-costs)|
-|576 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
+|576 | [When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
 |577 | [To complete the sentence, select the appropriate option in the answer area. Your Azure trial account expired last week. You are now unable to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-your-azure-trial-account-expired-last-week-you-are-now-unable-to)|
 |578 | [To complete the sentence, select the appropriate option in the answer area. An Azure Policy initiative is a](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-an-azure-policy-initiative-is-a)|
 |581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
@@ -472,7 +472,6 @@
 |606 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-decommission-its-data-center)|
 |607 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |608 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point. Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
-|610 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point. When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
 |611 | [Your company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?](#your-company-plans-to-deploy-an-artificial-intelligence-ai-solution-in-azure-what-should-the-company-use-to-build-test-and-deploy-predictive-analytics-solutions)|
 |613 | [Your company plans to purchase Azure. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?](#your-company-plans-to-purchase-azure-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-standard-support-plan-does-this-meet-the-goal)|
 |614 | [You have an Azure environment that contains 10 web apps.To which URL should you connect to manage all the Azure resources? To answer, select the appropriate options in the answer area . NOTE: Each correct selection is worth one point. https://___.___.com Hot area: 1](#you-have-an-azure-environment-that-contains-10-web-apps-to-which-url-should-you-connect-to-manage-all-the-azure-resources-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-https//12com-hot-area-1)|
@@ -4033,7 +4032,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine
+### When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.
 
 - [x] Yes.
 - [ ] No.
@@ -4160,13 +4159,6 @@ to ensure that the services running on the virtual machines are available if a s
 *[⬆ Back to Top](#table-of-contents)*
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)
-
-- [x] Yes.
-- [ ] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.
 
 - [x] Yes.
 - [ ] No.
