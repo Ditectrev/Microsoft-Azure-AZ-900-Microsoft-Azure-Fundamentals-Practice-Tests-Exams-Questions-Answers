@@ -307,7 +307,7 @@
 |365 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Monitor threats by using sensors.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-monitor-threats-by-using-sensors)|
 |366 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-enforce-azure-multi-factor-authentication-mfa-based-on-a-condition)|
 |368 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-what-are-two-possible-solutions)|
-|369 | [You can enable just in time (JIT) VM access by using [...].](#you-can-enable-just-in-time-jit-vm-access-by-using-)|
+|369 | [You can enable Just In Time (JIT) VM access by using [...].](#you-can-enable-just-in-time-jit-vm-access-by-using-)|
 |370 | [You can associate a Network Security Group (NSG) to a virtual network subnet.](#you-can-associate-a-network-security-group-nsg-to-a-virtual-network-subnet)|
 |371 | [You can associate a Network Security Group (NSG) to a virtual network.](#you-can-associate-a-network-security-group-nsg-to-a-virtual-network)|
 |372 | [You can associate a Network Security Group (NSG) to a network interface.](#you-can-associate-a-network-security-group-nsg-to-a-network-interface)|
@@ -456,7 +456,6 @@
 |575 | [If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs.](#if-you-create-two-azure-virtual-machines-that-use-the-b2s-size-each-virtual-machine-will-always-generate-the-same-monthly-costs)|
 |576 | [When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
 |578 | [An Azure Policy initiative is a [...].](#an-azure-policy-initiative-is-a-)|
-|581 | [To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-you-can-enable-just-in-time-it-m-access-by-using)|
 |583 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
 |584 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |585 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE Each correct selection is worth one point. If your company Uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-your-company-uses-an-azure-free-account-you-can-only-deploy-azure-virtual-machines-and-azure-storage-accounts)|
@@ -2908,7 +2907,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You can enable just in time (JIT) VM access by using [...].
+### You can enable Just In Time (JIT) VM access by using [...].
 
 - [ ] Azure Bastion.
 - [ ] Azure Firewall.
@@ -4044,15 +4043,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Collection of Azure Policy definition assignments.
 - [ ] Group of Azure Blueprints definitions.
 - [ ] Group of role-based access control (RBAC) role assignments.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. You can enable just in time (IT) M access by using
-
-- [ ] Azure Bastion.
-- [ ] Azure Firewall.
-- [ ] Azure Front Door.
-- [x] Azure Security Center.
 
 *[⬆ Back to Top](#table-of-contents)*
 
