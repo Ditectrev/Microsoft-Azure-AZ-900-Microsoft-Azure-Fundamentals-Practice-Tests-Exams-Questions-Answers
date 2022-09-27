@@ -463,7 +463,7 @@
 |599 | [You need to create a new Azure virtual machine from an Android laptop. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?](#you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-bash-in-azure-cloud-shell-does-this-meet-the-goal)|
 |600 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
 |601 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
-|604 | [This question requires that you evaluate the underlined text to determine if it is correct. When you are implementing a software as a service (SaaS) solution, you are responsible for configuring high availability.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
+|604 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
 |606 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-decommission-its-data-center)|
 |607 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |608 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point. Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
@@ -495,7 +495,7 @@
 to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to a scale set. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need)|
 |655 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
 to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more availability zones. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need)|
-|659 | [To complete the sentence, select the appropriate option in the answer area. When you are implementing a Software as a Service (SaaS) solution, you are responsible for](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for)|
+|659 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [...].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-)|
 |661 | [After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more regions. Does this meet the goal?](#after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-regions-does-this-meet-the-goal)|
 |662 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure resources can only access other resources in the same resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-resources-can-only-access-other-resources-in-the-same-resource-group)|
 |663 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you delete a resource group, all the resources in the resource group will be deleted](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-delete-a-resource-group-all-the-resources-in-the-resource-group-will-be-deleted)|
@@ -4091,12 +4091,12 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. When you are implementing a software as a service (SaaS) solution, you are responsible for configuring high availability.
+### When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].
 
 - [ ] No change is needed.
 - [ ] Defining scalability rules.
 - [ ] Installing the SaaS solution.
-- [x] Nonfiguring the SaaS solution.
+- [x] Configuring the SaaS solution.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4314,7 +4314,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. When you are implementing a Software as a Service (SaaS) solution, you are responsible for
+### When you are implementing a Software as a Service (SaaS) solution, you are responsible for [...].
 
 - [ ] Configuring high availability.
 - [ ] Defining scalability rules.
