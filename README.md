@@ -145,7 +145,7 @@
 |174 | [In a public cloud model, only guest users at your company can access the resources in the cloud.](#in-a-public-cloud-model-only-guest-users-at-your-company-can-access-the-resources-in-the-cloud)|
 |175 | [You have an on-premises network that contains several servers. You plan to migrate all the servers to Azure. You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended period. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-several-servers-you-plan-to-migrate-all-the-servers-to-azure-you-need-to-recommend-a-solution-to-ensure-that-some-of-the-servers-are-available-if-a-single-azure-data-center-goes-offline-for-an-extended-period-what-should-you-include-in-the-recommendation)|
 |176 | [An organization that hosts its infrastructure [in a private cloud] can close its data center.](#an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-close-its-data-center)|
-|177 | [What are two characteristics of the public cloud? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#what-are-two-characteristics-of-the-public-cloud-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
+|177 | [What are two characteristics of the public cloud?](#what-are-two-characteristics-of-the-public-cloud)|
 |179 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server installed. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-virtual-machines-that-have-microsoft-sql-server-installed-does-this-meet-the-goal)|
 |181 | [Your company hosts an accounting application named App1 that is used by all the customers of the company. App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?](#your-company-hosts-an-accounting-application-named-app1-that-is-used-by-all-the-customers-of-the-company-app1-has-low-usage-during-the-first-three-weeks-of-each-month-and-very-high-usage-during-the-last-week-of-each-month-which-benefit-of-azure-cloud-services-supports-cost-management-for-this-type-of-usage-pattern)|
 |182 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more scale sets. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-scale-sets-does-this-meet-the-goal)|
@@ -463,7 +463,6 @@
 |599 | [You need to create a new Azure virtual machine from an Android laptop. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?](#you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-bash-in-azure-cloud-shell-does-this-meet-the-goal)|
 |600 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
 |601 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
-|603 | [What are two characteristics of the public cloud? Each correct answer presents a complete solution . NOTE: Each correct selection is worth one point.](#what-are-two-characteristics-of-the-public-cloud-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |604 | [This question requires that you evaluate the underlined text to determine if it is correct. When you are implementing a software as a service (SaaS) solution, you are responsible for configuring high availability.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
 |606 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-decommission-its-data-center)|
 |607 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
@@ -1670,7 +1669,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### What are two characteristics of the public cloud? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.
+### What are two characteristics of the public cloud?
 
 - [ ] Dedicated hardware.
 - [ ] Unsecured connections.
@@ -4089,16 +4088,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] Deploy a VPN.
 - [ ] Pay to transfer all the website data to Azure.
 - [ ] Reduce the number of connections to the website.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### What are two characteristics of the public cloud? Each correct answer presents a complete solution . NOTE: Each correct selection is worth one point.
-
-- [ ] Dedicated hardware.
-- [ ] Unsecured connections.
-- [ ] Limited storage.
-- [x] Metered pricing.
-- [x] Self-service management.
 
 *[⬆ Back to Top](#table-of-contents)*
 
