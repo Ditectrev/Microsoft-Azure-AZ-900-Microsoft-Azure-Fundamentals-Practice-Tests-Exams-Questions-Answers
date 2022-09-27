@@ -462,7 +462,7 @@
 |588 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
 |599 | [You need to create a new Azure virtual machine from an Android laptop. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?](#you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-bash-in-azure-cloud-shell-does-this-meet-the-goal)|
 |600 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
-|601 | [This question requires that you evaluate the underlined text to determine if it is correct. When planning to migrate a public website to Azure, you must plan to pay monthly usage costs.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
+|601 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
 |603 | [What are two characteristics of the public cloud? Each correct answer presents a complete solution . NOTE: Each correct selection is worth one point.](#what-are-two-characteristics-of-the-public-cloud-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |604 | [This question requires that you evaluate the underlined text to determine if it is correct. When you are implementing a software as a service (SaaS) solution, you are responsible for configuring high availability.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
 |606 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-decommission-its-data-center)|
@@ -484,7 +484,7 @@
 |640 | [Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.](#which-cloud-deployment-solution-is-used-for-azure-virtual-machines-and-azure-sql-databases-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point)|
 |641 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure virtual machines:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-virtual-machines)|
 |642 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure SQL databases](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-sql-databases)|
-|645 | [To complete the sentence, select the appropriate option in the answer area. When planning to migrate a public website to Azure, you must plan to](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to)|
+|645 | [When planning to migrate a public website to Azure, you must plan to [...].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-)|
 |646 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Pay-As-You-Go pricing is an example of CapEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-pay-as-you-go-pricing-is-an-example-of-capex)|
 |647 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure Reserved VM Instances are an example of OpEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-reserved-vm-instances-are-an-example-of-opex)|
 |648 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Deploying your own datacenter is an example of CapEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-deploying-your-own-datacenter-is-an-example-of-capex)|
@@ -4083,7 +4083,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. When planning to migrate a public website to Azure, you must plan to pay monthly usage costs.
+### When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].
 
 - [x] No change is needed.
 - [ ] Deploy a VPN.
@@ -4249,7 +4249,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. When planning to migrate a public website to Azure, you must plan to
+### When planning to migrate a public website to Azure, you must plan to [...].
 
 - [ ] Deploy a VPN.
 - [x] Pay monthly usage costs.
