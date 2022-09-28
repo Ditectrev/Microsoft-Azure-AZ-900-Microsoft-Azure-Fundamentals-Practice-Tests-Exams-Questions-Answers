@@ -464,7 +464,7 @@
 |601 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
 |604 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
 |607 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
-|608 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point. Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
+|608 | [Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx).](#azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
 |611 | [Your company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?](#your-company-plans-to-deploy-an-artificial-intelligence-ai-solution-in-azure-what-should-the-company-use-to-build-test-and-deploy-predictive-analytics-solutions)|
 |613 | [Your company plans to purchase Azure. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?](#your-company-plans-to-purchase-azure-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-standard-support-plan-does-this-meet-the-goal)|
 |614 | [You have an Azure environment that contains 10 web apps.To which URL should you connect to manage all the Azure resources? To answer, select the appropriate options in the answer area . NOTE: Each correct selection is worth one point. https://___.___.com Hot area: 1](#you-have-an-azure-environment-that-contains-10-web-apps-to-which-url-should-you-connect-to-manage-all-the-azure-resources-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point-https//12com-hot-area-1)|
@@ -4088,7 +4088,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)
+### Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx).
 
 - [x] Yes.
 - [ ] No.
