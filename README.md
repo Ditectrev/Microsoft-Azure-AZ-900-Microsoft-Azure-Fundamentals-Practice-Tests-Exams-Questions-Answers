@@ -71,7 +71,6 @@
 |65 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store a) The data store should be capable of storing 10TB of data b) The data would be accessed infrequently c) The data would need to be visualised using PowerBl Which of the following services could you use for this requirement? Choose 2 answers from the options given below](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-a-the-data-store-should-be-capable-of-storing-10tb-of-data-b-the-data-would-be-accessed-infrequently-c-the-data-would-need-to-be-visualised-using-powerbl-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
 |66 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
 |67 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
-|68 | [An organization that hosts its infrastructure in a private cloud can close its data center](#an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-close-its-data-center)|
 |69 | [What are two characteristics the public cloud? Each correct answer presents a complete solutio](#what-are-two-characteristics-the-public-cloud-each-correct-answer-presents-a-complete-solution)|
 |70 | [Your company plans to migrate all its data and resources to Azure. The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company's-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |74 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
@@ -464,7 +463,6 @@
 |600 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
 |601 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
 |604 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
-|606 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-decommission-its-data-center)|
 |607 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point.](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point)|
 |608 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No . NOTE: Each correct selection is worth one point. Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
 |611 | [Your company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?](#your-company-plans-to-deploy-an-artificial-intelligence-ai-solution-in-azure-what-should-the-company-use-to-build-test-and-deploy-predictive-analytics-solutions)|
@@ -490,7 +488,6 @@
 |649 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A company can extend a private cloud by adding its physical servers to the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-extend-a-private-cloud-by-adding-its-physical-servers-to-the-public-cloud)|
 |650 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. To build a hybrid cloud, you must deploy resources to the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-build-a-hybrid-cloud-you-must-deploy-resources-to-the-public-cloud)|
 |651 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A private cloud must be disconnected from the internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-private-cloud-must-be-disconnected-from-the-internet)|
-|653 | [This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can close its data center.](#this-question-requires-that-you-evaluate-the-underlined-text-to-determine-if-it-is-correct-an-organization-that-hosts-its-infrastructure-in-a-private-cloud-can-close-its-data-center)|
 |654 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
 to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to a scale set. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need)|
 |655 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
@@ -1033,15 +1030,6 @@ to ensure that the services running on the virtual machines are available if a s
 - [ ] The Azure platform is a private cloud platform wherein all the resources can be accessed only by a private handful of people.
 - [x] The Azure platform is a shared platform wherein multiple companies can use a portion of the resources on the platform.
 - [ ] The Azure platform is an ecommerce platform wherein users can buy and sell resources as required.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### An organization that hosts its infrastructure in a private cloud can close its data center.
-
-- [ ] No change is needed.
-- [ ] In a hybrid cloud.
-- [x] In the public cloud.
-- [ ] On a Hyper-V host.
 
 *[⬆ Back to Top](#table-of-contents)*
 
@@ -4100,15 +4088,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can decommission its data center.
-
-- [ ] No change is needed.
-- [ ] In a hybrid cloud.
-- [x] In the public cloud.
-- [ ] On a Hyper-V host.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx)
 
 - [x] Yes.
@@ -4288,15 +4267,6 @@ to ensure that the services running on the virtual machines are available if a s
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### This question requires that you evaluate the underlined text to determine if it is correct. An organization that hosts its infrastructure in a private cloud can close its data center.
-
-- [ ] No change is needed.
-- [ ] In a hybrid cloud.
-- [x] In the public cloud.
-- [ ] On a Hyper-V host.
 
 *[⬆ Back to Top](#table-of-contents)*
 
