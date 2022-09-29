@@ -490,7 +490,7 @@
 |655 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more availability zones. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-availability-zones-does-this-meet-the-goal)|
 |659 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [...].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-)|
 |661 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more regions. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-regions-does-this-meet-the-goal)|
-|662 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure resources can only access other resources in the same resource group](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-resources-can-only-access-other-resources-in-the-same-resource-group)|
+|662 | [Azure resources can only access other resources in the same resource group.](#azure-resources-can-only-access-other-resources-in-the-same-resource-group)|
 |663 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. If you delete a resource group, all the resources in the resource group will be deleted](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-if-you-delete-a-resource-group-all-the-resources-in-the-resource-group-will-be-deleted)|
 |664 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A resource group can contain resources from multiple Azure regions](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-resource-group-can-contain-resources-from-multiple-azure-regions)|
 |668 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Data that is copied to an Azure Storage account is maintained automatically in at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
@@ -4286,9 +4286,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure resources can only access other resources in the same resource group
+### Azure resources can only access other resources in the same resource group.
 
 - [ ] Yes.
 - [x] No.
