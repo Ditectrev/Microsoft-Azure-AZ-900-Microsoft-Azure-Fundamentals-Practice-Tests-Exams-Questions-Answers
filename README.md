@@ -478,7 +478,7 @@
 |633 | [A company can extend the capacity of its internal network by using the public cloud.](#a-company-can-extend-the-capacity-of-its-internal-network-by-using-the-public-cloud)|
 |635 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more resource groups. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-resource-groups-does-this-meet-the-goal)|
 |636 | [[...] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
-|640 | [Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.](#which-cloud-deployment-solution-is-used-for-azure-virtual-machines-and-azure-sql-databases-to-answer-select-the-appropriate-options-in-the-answer-area-note-each-correct-selection-is-worth-one-point)|
+|640 | [Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases?](#which-cloud-deployment-solution-is-used-for-azure-virtual-machines-and-azure-sql-databases)|
 |641 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure virtual machines:](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-virtual-machines)|
 |642 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Azure SQL databases](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-sql-databases)|
 |645 | [When planning to migrate a public website to Azure, you must plan to [...].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-)|
@@ -4201,7 +4201,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point.
+### Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases?
 
 - [x] Infrastructure as a service (laaS).
 - [ ] Platform as a service (PaaS).
