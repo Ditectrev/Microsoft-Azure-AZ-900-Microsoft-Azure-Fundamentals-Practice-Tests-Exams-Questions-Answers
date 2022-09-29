@@ -482,7 +482,7 @@
 |645 | [When planning to migrate a public website to Azure, you must plan to [...].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-)|
 |646 | [Azure Pay-As-You-Go pricing is an example of CapEx.](#azure-pay-as-you-go-pricing-is-an-example-of-capex)|
 |647 | [Azure Reserved VM Instances are an example of OpEx.](#azure-reserved-vm-instances-are-an-example-of-opex)|
-|648 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Deploying your own datacenter is an example of CapEx](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-deploying-your-own-datacenter-is-an-example-of-capex)|
+|648 | [Deploying your own datacenter is an example of CapEx.](#deploying-your-own-datacenter-is-an-example-of-capex)|
 |649 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A company can extend a private cloud by adding its physical servers to the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-company-can-extend-a-private-cloud-by-adding-its-physical-servers-to-the-public-cloud)|
 |650 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. To build a hybrid cloud, you must deploy resources to the public cloud](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-to-build-a-hybrid-cloud-you-must-deploy-resources-to-the-public-cloud)|
 |651 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A private cloud must be disconnected from the internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-private-cloud-must-be-disconnected-from-the-internet)|
@@ -4230,14 +4230,12 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Deploying your own datacenter is an example of CapEx
+### Deploying your own datacenter is an example of CapEx.
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
-
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A company can extend a private cloud by adding its physical servers to the public cloud
 
