@@ -485,7 +485,7 @@
 |648 | [Deploying your own datacenter is an example of CapEx.](#deploying-your-own-datacenter-is-an-example-of-capex)|
 |649 | [A company can extend a private cloud by adding its physical servers to the public cloud.](#a-company-can-extend-a-private-cloud-by-adding-its-physical-servers-to-the-public-cloud)|
 |650 | [To build a hybrid cloud, you must deploy resources to the public cloud.](#to-build-a-hybrid-cloud-you-must-deploy-resources-to-the-public-cloud)|
-|651 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. A private cloud must be disconnected from the internet](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-a-private-cloud-must-be-disconnected-from-the-internet)|
+|651 | [A private cloud must be disconnected from the internet.](#a-private-cloud-must-be-disconnected-from-the-internet)|
 |654 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
 to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to a scale set. Does this meet the goal?](#note-this-question-is-part-of-a-series-of-questions-that-present-the-same-scenario-each-question-in-the-series-contains-a-unique-solution-that-might-meet-the-stated-goals-some-question-sets-might-have-more-than-one-correct-solution-while-others-might-not-have-a-correct-solution-after-you-answer-a-question-in-this-section-you-will-not-be-able-to-return-to-it-as-a-result-these-questions-will-not-appear-in-the-review-screen-you-plan-to-deploy-several-azure-virtual-machines-you-need)|
 |655 | [Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. You plan to deploy several Azure virtual machines. You need
@@ -4251,7 +4251,7 @@ to ensure that the services running on the virtual machines are available if a s
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: A private cloud must be disconnected from the internet
+### A private cloud must be disconnected from the internet.
 
 - [ ] Yes.
 - [x] No.
