@@ -261,7 +261,7 @@
 |310 | [A Windows Virtual Desktop session host can run Windows 10 only.](#a-windows-virtual-desktop-session-host-can-run-windows-10-only)|
 |311 | [A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections.](#a-windows-virtual-desktop-host-pool-that-includes-20-session-hosts-supports-a-maximum-of-20-simultaneous-user-connections)|
 |312 | [Windows Virtual Desktop supports desktop and app virtualization.](#windows-virtual-desktop-supports-desktop-and-app-virtualization)|
-|313 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
+|313 | [[...] can calculate cost savings due to reduced electricity consumption as a result of migrating on-premises Microsoft SQL servers to Azure.](#can-calculate-cost-savings-due-to-reduced-electricity-consumption-as-a-result-of-migrating-on-premises-microsoft-sql-servers-to-azure)|
 |314 | [You can use Availability Zones in Azure to protect Azure virtual machines from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-datacenter-failure)|
 |315 | [You can use Availability Zones in Azure to protect Azure virtual machines from a region failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-region-failure)|
 |316 | [You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-managed-disks-from-a-datacenter-failure)|
@@ -2543,7 +2543,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area:
+### [...] can calculate cost savings due to reduced electricity consumption as a result of migrating on-premises Microsoft SQL servers to Azure.
 
 - [ ] The Azure Migrate: Server Assessment tool.
 - [x] The Azure Total Cost of Ownership (TCO) calculator.
