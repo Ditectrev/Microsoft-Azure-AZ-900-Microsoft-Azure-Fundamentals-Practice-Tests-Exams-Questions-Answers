@@ -493,7 +493,7 @@
 |662 | [Azure resources can only access other resources in the same resource group.](#azure-resources-can-only-access-other-resources-in-the-same-resource-group)|
 |663 | [If you delete a resource group, all the resources in the resource group will be deleted.](#if-you-delete-a-resource-group-all-the-resources-in-the-resource-group-will-be-deleted)|
 |664 | [A resource group can contain resources from multiple Azure regions.](#a-resource-group-can-contain-resources-from-multiple-azure-regions)|
-|668 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Data that is copied to an Azure Storage account is maintained automatically in at least three copies](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
+|668 | [Data that is copied to an Azure Storage account is maintained automatically in at least three copies.](#data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
 |671 | [Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: – Backing up application data – Replacing failed server hardware – Managing physical server security – Updating server operating systems – Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration.Which two responsibilities should you identify? Each correct answer presents a complete solution. NOTE: Each correct selection is worth one point.](#your-company-has-an-on-premises-network-that-contains-multiple-servers-the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-‚Äì-backing-up-application-data-‚Äì-replacing-failed-server-hardware-‚Äì-managing-physical-server-security-‚Äì-updating-server-operating-systems-‚Äì-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migrationwhich-two-responsibilities-should-you-identify-each-correct-answer-presents-a-complete-solution-note-each-correct-selection-is-worth-one-point)|
 |672 | [Azure Cosmos DB is an example of a [Platform as a Service (PaaS)] offering.](#azure-cosmos-db-is-an-example-of-a-platform-as-a-service-paas-offering)|
 |673 | [[Authorization] is the process of verifying a user's credentials.](#authorization-is-the-process-of-verifying-a-users-credentials)|
@@ -4307,7 +4307,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Data that is copied to an Azure Storage account is maintained automatically in at least three copies
+### Data that is copied to an Azure Storage account is maintained automatically in at least three copies.
 
 - [x] Yes.
 - [ ] No.
