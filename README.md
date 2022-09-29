@@ -377,7 +377,7 @@
 |457 | [By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred.](#by-copying-several-gigabits-of-data-to-azure-from-an-on-premises-network-over-a-vpn-additional-data-transfer-costs-are-incurred)|
 |464 | [An Azure service is available to all Azure customers when it is in [...].](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-)|
 |467 | [Most Azure services are introduced in private preview before being introduced in public preview, and then in general availability.](#most-azure-services-are-introduced-in-private-preview-before-being-introduced-in-public-preview-and-then-in-general-availability)|
-|468 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview can be managed only by using the Azure CLI](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-azure-services-in-public-preview-can-be-managed-only-by-using-the-azure-cli)|
+|468 | [Azure services in public preview can be managed only by using the Azure CLI.](#azure-services-in-public-preview-can-be-managed-only-by-using-the-azure-cli)|
 |469 | [For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: The cost of an Azure service in private preview decreases when the service becomes generally available](#for-each-of-the-following-statements-select-yes-if-the-statement-is-true-otherwise-select-no-note-each-correct-selection-is-worth-one-point-hot-area-the-cost-of-an-azure-service-in-private-preview-decreases-when-the-service-becomes-generally-available)|
 |470 | [Your Azure trial account expired last week. You are now unable to [...].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-)|
 |471 | [Your company plans to purchase an Azure subscription. The company has support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Professional Direct support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company-has-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-professional-direct-support-plan-does-this-meet-the-goal)|
@@ -3437,7 +3437,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Azure services in public preview can be managed only by using the Azure CLI
+### Azure services in public preview can be managed only by using the Azure CLI.
 
 - [ ] Yes.
 - [x] No.
