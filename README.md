@@ -5,7 +5,7 @@
 | No. | Questions |
 |---- | ---------
 |1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically?)|
-|2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size "D2s v3". Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-"D2s-v3"-would-these-machines-always-generate-the-same-monthly-cost)|
+|2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-D2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
 |4 | [Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-use-past-trainings-to-provide-predictions-of-very-high-probability-which-of-the-following-service-can-be-used-for-this-purpose)|
 |5 | [Your team needs to have a tool that can provide serverless computing capabilities. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-provide-serverless-computing-capabilities-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -20,7 +20,7 @@
 |14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
 |15 | [Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost](#which-of-the-following-support-plan-gives-you-access-to-best-practice-information-health-status-and-notifications-and-24/7-access-to-billing-information-at-the-lowest-possible-cost)|
 |16 | [If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then you will have complete control over the underlying operating system.](#if-you-plan-to-host-a-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-you-will-have-complete-control-over-the-underlying-operating-system)|
-|17 | [You decide to create a virtual machine which is of the size "D2s_v3". If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-D2s_v3-If-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
+|17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-D2s_v3-If-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
 |18 | [Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure](#your-company-is-planning-on-using-azure-for-hosting-infrastructure-level-resources-such-as-azure-virtual-machines-when-planning-for-the-costing-aspect-for-these-resources-is-there-a-flexibility-offered-when-it-comes-to-capital-and-operational-expenditure)|
 |19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for](#you-are-looking-at-using-a-software-as-a-solution-service-in-Azure-Which-of-the-following-would-you-be-responsible-for)|
 |20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
@@ -36,7 +36,7 @@
 |30 | [Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose](#your-team-needs-to-have-a-tool-that-can-be-used-to-monitor-web-applications-deployed-to-azure-which-of-the-following-service-an-be-used-for-this-purpose)|
 |31 | [A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement](#a-team-currently-has-several-computers-in-their-on-premise-environment-that-runs-on-windows-10-they-need-to-share-files-by-enabling-mapped-drives-from-the-computers-which-of-the-following-would-be-an-ideal-storage-solution-for-this-requirement)|
 |32 | [A company wants to have a data store hosted in Azure. Below are the key requirements for the data store: The data store must be able to store JSON documents. The data store must be able to handle data writes from multiple regions. Which of the following would be the ideal data store for this requirement?](#a-company-wants-to-have-a-data-store-hosted-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-must-be-able-to-store-json-documents-the-data-store-must-be-able-to-handle-data-writes-from-multiple-regions-which-of-the-following-would-be-the-ideal-data-store-for-this-requirement)|
-|33 | [A team is planning on deploying Azure Virtual Machines to a resource group named "demogroup". The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only](#a-team-is-planning-on-deploying-azure-virtual-machines-to-a-resource-group-named-demogroup-the-group-has-been-created-in-the-us-central-region-do-the-virtual-machines-deployed-to-the-resource-group-also-need-to-be-deployed-to-the-us-central-region-only)|
+|33 | [A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only](#a-team-is-planning-on-deploying-azure-virtual-machines-to-a-resource-group-named-demogroup-the-group-has-been-created-in-the-us-central-region-do-the-virtual-machines-deployed-to-the-resource-group-also-need-to-be-deployed-to-the-us-central-region-only)|
 |34 | [A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group](#a-team-is-planning-on-assigning-tags-to-a-resource-group-would-the-tag-be-inherited-by-resources-in-the-resource-group)|
 |35 | [A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group](#a-set-of-iam-permissions-have-been-assigned-to-a-resource-group-would-the-resources-in-the-resource-group-automatically-inherit-the-iam-permissions-assigned-to-the-resource-group)|
 |36 | [Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure](#which-of-the-following-service-can-be-used-to-build-test-and-deploy-a-predictive-analytics-solution-that-could-subsequently-be-used-to-deploy-an-artificial-intelligence-solution-to-azure)|
@@ -499,7 +499,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You decide to create 2 Virtual machines. Each virtual machine is of the size "D2s v3". Would these machines always generate the same monthly cost?
+### You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?
 
 - [ ] Yes.
 - [x] No.
@@ -622,7 +622,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You decide to create a virtual machine which is of the size "D2s_v3". If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine
+### You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine
 
 - [x] Yes.
 - [ ] No.
@@ -755,7 +755,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team is planning on deploying Azure Virtual Machines to a resource group named "demogroup". The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only
+### A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only
 
 - [ ] Yes.
 - [x] No.
