@@ -272,7 +272,6 @@
 |322 | [Users in Azure Active Directory (Azure AD) are organized by using resource groups.](#users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
 |323 | [Azure Active Directory (Azure AD) groups support dynamic membership rules.](#azure-active-directory-azure-ad-groups-support-dynamic-membership-rules)|
 |324 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines remain available if a single data center fails. What are two possible solutions?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-remain-available-if-a-single-data-center-fails-what-are-two-possible-solutions)|
-|327 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |328 | [Azure Monitor can monitor the performance of on-premises computers.](#azure-monitor-can-monitor-the-performance-of-on-premises-computers)|
 |329 | [Azure Monitor can send alerts to Azure Active Directory security groups.](#azure-monitor-can-send-alerts-to-azure-active-directory-security-groups)|
 |330 | [Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace.](#azure-monitor-can-trigger-alerts-based-on-data-in-an-azure-log-analytics-workspace)|
@@ -294,7 +293,6 @@
 |353 | [Several support engineers plan to manage Azure by using the Computer2-Ubuntu. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer2-ubuntu-you-need-to-identify-which-azure-management-tools-can-be-used)|
 |354 | [Several support engineers plan to manage Azure by using the Computer3-MacOS Mojave. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer3-macos-mojave-you-need-to-identify-which-azure-management-tools-can-be-used)|
 |355 | [You can access Compliance Manager from the [...].](#you-can-access-compliance-manager-from-the-)|
-|356 | [To complete the sentence, select the appropriate option in the answer area. Hot Area:](#to-complete-the-sentence-select-the-appropriate-option-in-the-answer-area-hot-area)|
 |357 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-which-three-computers-can-run-the-script)|
 |358 | [Azure Firewall will encrypt all the network traffic sent from Azure the Internet.](#azure-firewall-will-encrypt-all-the-network-traffic-sent-from-azure-the-internet)|
 |359 | [A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet.](#a-network-security-group-nsg-will-encrypt-all-the-network-traffic-sent-from-azure-to-the-internet)|
@@ -2620,15 +2618,6 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### To complete the sentence, select the appropriate option in the answer area. Hot Area:
-
-- [x] Azure Databricks.
-- [ ] Azure Data Factory.
-- [ ] Azure DevOps.
-- [ ] Azure HDInsight.
-
-*[⬆ Back to Top](#table-of-contents)*
-
 ### Azure Monitor can monitor the performance of on-premises computers.
 
 - [x] Yes.
@@ -2792,15 +2781,6 @@
 - [x] Azure portal.
 - [ ] Microsoft 365 admin center.
 - [ ] Microsoft Service Trust Portal.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### To complete the sentence, select the appropriate option in the answer area. Hot Area:
-
-- [ ] Azure policies provide.
-- [ ] Resource groups provide.
-- [x] Azure Resource Manager templates provide.
-- [ ] Management groups provide.
 
 *[⬆ Back to Top](#table-of-contents)*
 
