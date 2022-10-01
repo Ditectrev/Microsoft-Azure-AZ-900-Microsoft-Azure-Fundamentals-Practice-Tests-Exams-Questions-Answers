@@ -65,7 +65,6 @@
 |59 | [A company has defined the following resources in Azure a) 10 Public IP addresses b) 20 users in Azure AD c)5 user groups in Azure AD They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-a-10-public-ip-addresses-b-20-users-in-azure-ad-c-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-public-ip-addresses-from-the-account-help-reduce-the-cost)|
 |60 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-azure-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
 |61 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-powerapps-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
-|62 | [You need to work with Azure Cloud Shell. Which of the following icon should you choose to use this tool](#you-need-to-work-with-azure-cloud-shell-which-of-the-following-icon-should-you-choose-to-use-this-tool)|
 |63 | [Which of the following URL is used to manage the creation of Azure resources](#which-of-the-following-url-is-used-to-manage-the-creation-of-azure-resources)|
 |64 | [You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine](#you-need-to-create-a-virtual-machine-in-azure-which-of-the-following-storage-account-service-is-used-to-store-the-data-disks-for-the-virtual-machine)|
 |65 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store a) The data store should be capable of storing 10TB of data b) The data would be accessed infrequently c) The data would need to be visualised using PowerBl Which of the following services could you use for this requirement? Choose 2 answers from the options given below](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-a-the-data-store-should-be-capable-of-storing-10tb-of-data-b-the-data-would-be-accessed-infrequently-c-the-data-would-need-to-be-visualised-using-powerbl-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
@@ -964,15 +963,6 @@
 
 - [ ] Yes.
 - [x] No.
-
-*[⬆ Back to Top](#table-of-contents)*
-
-### You need to work with Azure Cloud Shell. Which of the following icon should you choose to use this tool
-
-- [x] Icon 1.
-- [ ] Icon 2.
-- [ ] Icon 3.
-- [ ] Icon 4.
 
 *[⬆ Back to Top](#table-of-contents)*
 
