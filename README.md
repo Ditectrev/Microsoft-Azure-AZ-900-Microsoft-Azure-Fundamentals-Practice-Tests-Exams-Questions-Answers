@@ -4,7 +4,7 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically?)|
+|1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
 |2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-D2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
 |4 | [Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-use-past-trainings-to-provide-predictions-of-very-high-probability-which-of-the-following-service-can-be-used-for-this-purpose)|
