@@ -17,60 +17,60 @@
 |11 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement an Azure Traffic Manager profile. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-HTTPS-you-decide-to-implement-an-azure-traffic-manager-profile-would-this-satisfy-the-requirement)|
 |12 | [Which of the following customers are eligible to use Azure Government to develop a cloud solution? Choose 2 answers from the options given below.](#which-of-the-following-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution-choose-2-answers-from-the-options-given-below)|
 |13 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-is-it-required-to-deploy-a-federated-solution-to-implement-multi-factor-authentication)|
-|14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
-|15 | [Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost](#which-of-the-following-support-plan-gives-you-access-to-best-practice-information-health-status-and-notifications-and-24/7-access-to-billing-information-at-the-lowest-possible-cost)|
+|14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
+|15 | [Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost.](#which-of-the-following-support-plan-gives-you-access-to-best-practice-information-health-status-and-notifications-and-24/7-access-to-billing-information-at-the-lowest-possible-cost)|
 |16 | [If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then you will have complete control over the underlying operating system.](#if-you-plan-to-host-a-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-you-will-have-complete-control-over-the-underlying-operating-system)|
-|17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-D2s_v3-If-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
-|18 | [Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure](#your-company-is-planning-on-using-azure-for-hosting-infrastructure-level-resources-such-as-azure-virtual-machines-when-planning-for-the-costing-aspect-for-these-resources-is-there-a-flexibility-offered-when-it-comes-to-capital-and-operational-expenditure)|
-|19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for](#you-are-looking-at-using-a-software-as-a-solution-service-in-Azure-Which-of-the-following-would-you-be-responsible-for)|
-|20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
-|21 | [Under which of the following circumstances could a company look at decommissioning its data center](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
-|22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
-|23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools-installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macOS-and-powershell-core-installed)|
-|26 | [An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement](#an-administrator-needs-to-view-the-list-of-planned-maintenance-events-that-could-potentially-affect-the-availability-of-the-resources-hosted-in-an-azure-subscription-which-of-the-following-blade-in-the-azure-portal-should-the-administrator-consider-for-this-requirement)|
-|27 | [Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose](#your-team-needs-to-have-an-integrated-solution-in-place-that-can-be-used-for-the-deployment-of-code-which-of-the-following-service-can-be-used-for-this-purpose)|
-|28 | [Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose](#your-team-needs-a-tool-that-can-provide-guidance-and-recommendations-that-can-be-used-to-improve-an-azure-environment-which-of-the-following-service-can-be-used-for-this-purpose)|
-|29 | [Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose](#your-team-needs-to-use-a-tool-that-can-be-used-to-build-intelligent-artificial-intelligence-based-applications-which-of-the-following-service-can-be-used-for-this-purpose)|
-|30 | [Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose](#your-team-needs-to-have-a-tool-that-can-be-used-to-monitor-web-applications-deployed-to-azure-which-of-the-following-service-an-be-used-for-this-purpose)|
-|31 | [A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement](#a-team-currently-has-several-computers-in-their-on-premise-environment-that-runs-on-windows-10-they-need-to-share-files-by-enabling-mapped-drives-from-the-computers-which-of-the-following-would-be-an-ideal-storage-solution-for-this-requirement)|
+|17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-D2s_v3-If-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
+|18 | [Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure.](#your-company-is-planning-on-using-azure-for-hosting-infrastructure-level-resources-such-as-azure-virtual-machines-when-planning-for-the-costing-aspect-for-these-resources-is-there-a-flexibility-offered-when-it-comes-to-capital-and-operational-expenditure)|
+|19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?](#you-are-looking-at-using-a-software-as-a-solution-service-in-Azure-Which-of-the-following-would-you-be-responsible-for)|
+|20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
+|21 | [Under which of the following circumstances could a company look at decommissioning its data center?](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
+|22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
+|23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
+|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
+|25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macOS-and-powershell-core-installed)|
+|26 | [An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?](#an-administrator-needs-to-view-the-list-of-planned-maintenance-events-that-could-potentially-affect-the-availability-of-the-resources-hosted-in-an-azure-subscription-which-of-the-following-blade-in-the-azure-portal-should-the-administrator-consider-for-this-requirement)|
+|27 | [Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?](#your-team-needs-to-have-an-integrated-solution-in-place-that-can-be-used-for-the-deployment-of-code-which-of-the-following-service-can-be-used-for-this-purpose)|
+|28 | [Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose?](#your-team-needs-a-tool-that-can-provide-guidance-and-recommendations-that-can-be-used-to-improve-an-azure-environment-which-of-the-following-service-can-be-used-for-this-purpose)|
+|29 | [Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose?](#your-team-needs-to-use-a-tool-that-can-be-used-to-build-intelligent-artificial-intelligence-based-applications-which-of-the-following-service-can-be-used-for-this-purpose)|
+|30 | [Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-be-used-to-monitor-web-applications-deployed-to-azure-which-of-the-following-service-an-be-used-for-this-purpose)|
+|31 | [A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?](#a-team-currently-has-several-computers-in-their-on-premise-environment-that-runs-on-windows-10-they-need-to-share-files-by-enabling-mapped-drives-from-the-computers-which-of-the-following-would-be-an-ideal-storage-solution-for-this-requirement)|
 |32 | [A company wants to have a data store hosted in Azure. Below are the key requirements for the data store: The data store must be able to store JSON documents. The data store must be able to handle data writes from multiple regions. Which of the following would be the ideal data store for this requirement?](#a-company-wants-to-have-a-data-store-hosted-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-must-be-able-to-store-json-documents-the-data-store-must-be-able-to-handle-data-writes-from-multiple-regions-which-of-the-following-would-be-the-ideal-data-store-for-this-requirement)|
-|33 | [A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only](#a-team-is-planning-on-deploying-azure-virtual-machines-to-a-resource-group-named-demogroup-the-group-has-been-created-in-the-us-central-region-do-the-virtual-machines-deployed-to-the-resource-group-also-need-to-be-deployed-to-the-us-central-region-only)|
-|34 | [A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group](#a-team-is-planning-on-assigning-tags-to-a-resource-group-would-the-tag-be-inherited-by-resources-in-the-resource-group)|
-|35 | [A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group](#a-set-of-iam-permissions-have-been-assigned-to-a-resource-group-would-the-resources-in-the-resource-group-automatically-inherit-the-iam-permissions-assigned-to-the-resource-group)|
-|36 | [Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure](#which-of-the-following-service-can-be-used-to-build-test-and-deploy-a-predictive-analytics-solution-that-could-subsequently-be-used-to-deploy-an-artificial-intelligence-solution-to-azure)|
-|37 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-configure-network-settings-for-azure-virtual-machines)|
-|38 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-save-costs-when-it-comes-to-hosting-virtual-machines-in-azure)|
-|39 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-improve-the-security-for-azure-active-directory)|
-|40 | [A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer](#a-support-engineer-currently-has-a-computer-that-runs-ubuntu-which-of-the-following-azure-management-tools-could-be-run-from-this-computer)|
-|41 | [Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement](#your-company-has-just-setup-an-azure-account-and-azure-active-directory-they-need-to-ensure-that-when-users-connect-to-azure-ad-from-the-internet-from-an-anonymous-ip-address-they-are-prompted-to-change-their-password-automatically-which-of-the-following-azure-service-can-help-them-achieve-this-requirement)|
-|42 | [A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement](#a-company-is-planning-on-creating-several-virtual-machines-that-will-be-used-to-host-web-and-database-servers-you-need-to-limit-the-type-of-connections-from-the-web-and-database-servers-which-of-the-following-can-be-used-to-fulfil-this-requirement)|
-|43 | [Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions](#which-of-the-following-can-be-used-to-allow-an-organization-to-manage-the-compliance-of-resources-across-multiple-subscriptions)|
-|44 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-24\*7-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-basic-support-plan-does-this-support-the-requirement)|
-|45 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-24\*7-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-standard-support-plan-does-this-support-the-requirement)|
-|46 | [Does Microsoft release most of the Azure services in private preview before being introduced in public preview](#does-microsoft-release-most-of-the-azure-services-in-private-preview-before-being-introduced-in-public-preview)|
-|47 | [Is it true that Azure services released in public preview can only be managed via the Azure command line interface](#is-it-true-that-azure-services-released-in-public-preview-can-only-be-managed-via-the-azure-command-line-interface)|
-|48 | [Is it true that an Azure service that is released in private preview is made available to all Azure customers](#is-it-true-that-an-azure-service-that-is-released-in-private-preview-is-made-available-to-all-azure-customers)|
-|49 | [Is it true that an Azure service that is released in public preview is made available to all Azure customers](#is-it-true-that-an-azure-service-that-is-released-in-public-preview-is-made-available-to-all-azure-customers)|
-|50 | [Is it true that an Azure service that is released as generally available is made available to all Azure customers](#is-it-true-that-an-azure-service-that-is-released-as-generally-available-is-made-available-to-all-azure-customers)|
-|51 | [Can a single Microsoft Account be used to manage multiple Azure subscriptions](#can-a-single-microsoft-account-be-used-to-manage-multiple-azure-subscriptions)|
-|52 | [Is it possible to merge subscriptions into a single subscription](#is-it-possible-to-merge-subscriptions-into-a-single-subscription)|
-|53 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Would they be guaranteed a service level agreement of at least 99.9% for paid Azure services](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-would-they-be-guaranteed-a-service-level-agreement-of-at-least-999%-for-paid-azure-services)|
-|54 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-deploying-resources-across-multiple-regions)|
-|55 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-purchasing-multiple-subscriptions)|
-|56 | [A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription](#a-set-of-virtual-machines-have-been-created-in-a-subscription-you-have-now-paid-for-a-new-subscription-is-it-possible-to-move-the-virtual-machines-to-the-new-subscription)|
+|33 | [A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only?](#a-team-is-planning-on-deploying-azure-virtual-machines-to-a-resource-group-named-demogroup-the-group-has-been-created-in-the-us-central-region-do-the-virtual-machines-deployed-to-the-resource-group-also-need-to-be-deployed-to-the-us-central-region-only)|
+|34 | [A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group?](#a-team-is-planning-on-assigning-tags-to-a-resource-group-would-the-tag-be-inherited-by-resources-in-the-resource-group)|
+|35 | [A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group?](#a-set-of-iam-permissions-have-been-assigned-to-a-resource-group-would-the-resources-in-the-resource-group-automatically-inherit-the-iam-permissions-assigned-to-the-resource-group)|
+|36 | [Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure?](#which-of-the-following-service-can-be-used-to-build-test-and-deploy-a-predictive-analytics-solution-that-could-subsequently-be-used-to-deploy-an-artificial-intelligence-solution-to-azure)|
+|37 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-configure-network-settings-for-azure-virtual-machines)|
+|38 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-save-costs-when-it-comes-to-hosting-virtual-machines-in-azure)|
+|39 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-improve-the-security-for-azure-active-directory)|
+|40 | [A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer?](#a-support-engineer-currently-has-a-computer-that-runs-ubuntu-which-of-the-following-azure-management-tools-could-be-run-from-this-computer)|
+|41 | [Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?](#your-company-has-just-setup-an-azure-account-and-azure-active-directory-they-need-to-ensure-that-when-users-connect-to-azure-ad-from-the-internet-from-an-anonymous-ip-address-they-are-prompted-to-change-their-password-automatically-which-of-the-following-azure-service-can-help-them-achieve-this-requirement)|
+|42 | [A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement?](#a-company-is-planning-on-creating-several-virtual-machines-that-will-be-used-to-host-web-and-database-servers-you-need-to-limit-the-type-of-connections-from-the-web-and-database-servers-which-of-the-following-can-be-used-to-fulfil-this-requirement)|
+|43 | [Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions?](#which-of-the-following-can-be-used-to-allow-an-organization-to-manage-the-compliance-of-resources-across-multiple-subscriptions)|
+|44 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-24\*7-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-basic-support-plan-does-this-support-the-requirement)|
+|45 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-24\*7-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-standard-support-plan-does-this-support-the-requirement)|
+|46 | [Does Microsoft release most of the Azure services in private preview before being introduced in public preview?](#does-microsoft-release-most-of-the-azure-services-in-private-preview-before-being-introduced-in-public-preview)|
+|47 | [Is it true that Azure services released in public preview can only be managed via the Azure command line interface?](#is-it-true-that-azure-services-released-in-public-preview-can-only-be-managed-via-the-azure-command-line-interface)|
+|48 | [Is it true that an Azure service that is released in private preview is made available to all Azure customers?](#is-it-true-that-an-azure-service-that-is-released-in-private-preview-is-made-available-to-all-azure-customers)|
+|49 | [Is it true that an Azure service that is released in public preview is made available to all Azure customers?](#is-it-true-that-an-azure-service-that-is-released-in-public-preview-is-made-available-to-all-azure-customers)|
+|50 | [Is it true that an Azure service that is released as generally available is made available to all Azure customers?](#is-it-true-that-an-azure-service-that-is-released-as-generally-available-is-made-available-to-all-azure-customers)|
+|51 | [Can a single Microsoft Account be used to manage multiple Azure subscriptions?](#can-a-single-microsoft-account-be-used-to-manage-multiple-azure-subscriptions)|
+|52 | [Is it possible to merge subscriptions into a single subscription?](#is-it-possible-to-merge-subscriptions-into-a-single-subscription)|
+|53 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Would they be guaranteed a service level agreement of at least 99.9% for paid Azure services?](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-would-they-be-guaranteed-a-service-level-agreement-of-at-least-999%-for-paid-azure-services)|
+|54 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions?](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-deploying-resources-across-multiple-regions)|
+|55 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions?](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-purchasing-multiple-subscriptions)|
+|56 | [A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription?](#a-set-of-virtual-machines-have-been-created-in-a-subscription-you-have-now-paid-for-a-new-subscription-is-it-possible-to-move-the-virtual-machines-to-the-new-subscription)|
 |57 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-users-from-the-account-help-reduce-the-cost)|
 |58 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-user-groups-from-the-account-help-reduce-the-cost)|
 |59 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-public-ip-addresses-from-the-account-help-reduce-the-cost)|
-|60 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-azure-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
-|61 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-powerapps-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
-|63 | [Which of the following URL is used to manage the creation of Azure resources](#which-of-the-following-url-is-used-to-manage-the-creation-of-azure-resources)|
-|64 | [You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine](#you-need-to-create-a-virtual-machine-in-azure-which-of-the-following-storage-account-service-is-used-to-store-the-data-disks-for-the-virtual-machine)|
+|60 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose?](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-azure-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
+|61 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose?](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-powerapps-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
+|63 | [Which of the following URL is used to manage the creation of Azure resources?](#which-of-the-following-url-is-used-to-manage-the-creation-of-azure-resources)|
+|64 | [You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine?](#you-need-to-create-a-virtual-machine-in-azure-which-of-the-following-storage-account-service-is-used-to-store-the-data-disks-for-the-virtual-machine)|
 |65 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-should-be-capable-of-storing-10tb-of-data-the-data-would-be-accessed-infrequently-the-data-would-need-to-be-visualised-using-powerbi-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
-|66 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
-|67 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
-|69 | [What are two characteristics the public cloud? Each correct answer presents a complete solutio](#what-are-two-characteristics-the-public-cloud-each-correct-answer-presents-a-complete-solution)|
+|66 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
+|67 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
+|69 | [What are two characteristics the public cloud? Each correct answer presents a complete solution.](#what-are-two-characteristics-the-public-cloud-each-correct-answer-presents-a-complete-solution)|
 |70 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |74 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
 |75 | [You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-100-servers-you-need-to-recommend-a-solution-that-provides-additional-resources-to-your-users-the-solution-must-minimize-capital-and-operational-expenditure-costs-what-should-you-include-in-the-recommendation)|
@@ -598,14 +598,14 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number
+### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost
+### Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost.
 
 - [x] Basic.
 - [ ] Standard.
@@ -621,21 +621,21 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine
+### You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure
+### Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure.
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for
+### You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?
 
 - [ ] High availability of the solution.
 - [x] Configuration of the solution.
@@ -644,7 +644,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement
+### A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.
 
 - [ ] Scalability.
 - [x] Fault Tolerance.
@@ -653,7 +653,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Under which of the following circumstances could a company look at decommissioning its data center
+### Under which of the following circumstances could a company look at decommissioning its data center?
 
 - [ ] If they have their infrastructure hosted in a private cloud.
 - [x] If they have their infrastructure hosted in the public cloud.
@@ -661,7 +661,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure
+### A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?
 
 - [ ] They would need to deploy a VPN.
 - [ ] They would need to pay for the cost to transfer the web site to Azure.
@@ -670,28 +670,28 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed
+### An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement
+### An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?
 
 - [ ] Resource Groups.
 - [ ] Azure Active Directory.
@@ -700,7 +700,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose
+### Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?
 
 - [ ] Azure Advisor.
 - [ ] Azure Cognitive Services.
@@ -709,7 +709,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose
+### Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose?
 
 - [x] Azure Advisor.
 - [ ] Azure Cognitive Services.
@@ -718,7 +718,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose
+### Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose?
 
 - [ ] Azure Advisor.
 - [x] Azure Cognitive Services.
@@ -727,7 +727,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose
+### Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose?
 
 - [ ] Azure Advisor.
 - [ ] Azure Cognitive Services.
@@ -736,7 +736,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement
+### A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?
 
 - [ ] Using the Azure storage - BLOB service.
 - [x] Using the Azure storage - File service.
@@ -754,28 +754,28 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only
+### A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group
+### A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group
+### A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure
+### Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure?
 
 - [ ] Azure Functions.
 - [ ] Azure Logic Apps.
@@ -784,28 +784,28 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines
+### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure
+### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory
+### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer
+### A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer?
 
 - [x] Azure CLI.
 - [x] Azure PowerShell.
@@ -813,7 +813,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement
+### Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?
 
 - [ ] Azure AD Connect.
 - [x] Azure AD Identity Protection.
@@ -822,7 +822,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement
+### A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement?
 
 - [x] Network Security Groups.
 - [ ] Azure AD Identity Protection.
@@ -831,7 +831,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions
+### Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions?
 
 - [ ] Resource Groups.
 - [ ] Management Groups.
@@ -840,91 +840,91 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement
+### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement
+### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Does Microsoft release most of the Azure services in private preview before being introduced in public preview
+### Does Microsoft release most of the Azure services in private preview before being introduced in public preview?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Is it true that Azure services released in public preview can only be managed via the Azure command line interface
+### Is it true that Azure services released in public preview can only be managed via the Azure command line interface?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Is it true that an Azure service that is released in private preview is made available to all Azure customers
+### Is it true that an Azure service that is released in private preview is made available to all Azure customers?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Is it true that an Azure service that is released in public preview is made available to all Azure customers
+### Is it true that an Azure service that is released in public preview is made available to all Azure customers?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Is it true that an Azure service that is released as generally available is made available to all Azure customers
+### Is it true that an Azure service that is released as generally available is made available to all Azure customers?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Can a single Microsoft Account be used to manage multiple Azure subscriptions
+### Can a single Microsoft Account be used to manage multiple Azure subscriptions?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Is it possible to merge subscriptions into a single subscription
+### Is it possible to merge subscriptions into a single subscription?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Would they be guaranteed a service level agreement of at least 99.9% for paid Azure services
+### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Would they be guaranteed a service level agreement of at least 99.9% for paid Azure services?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions
+### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions
+### A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription
+### A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription?
 
 - [x] Yes.
 - [ ] No.
@@ -952,21 +952,21 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose
+### A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose?
 
 - [x] Yes.
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose
+### A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose?
 
 - [ ] Yes.
 - [x] No.
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which of the following URL is used to manage the creation of Azure resources
+### Which of the following URL is used to manage the creation of Azure resources?
 
 - [ ] https://admin.azure.com
 - [ ] https://admin.azurewebsites.com
@@ -976,7 +976,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine
+### You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine?
 
 - [x] Blobs.
 - [ ] Files.
@@ -994,7 +994,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement
+### You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?
 
 - [ ] Deploy all the virtual machines to the same region.
 - [x] Deploy all the virtual machines to the same resource group.
@@ -1003,7 +1003,7 @@
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which of the following is a benefit of moving on-premise servers to the Azure cloud environment
+### Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?
 
 - [ ] The Azure platform is a public cloud platform wherein all the resources can be accessed by the public.
 - [ ] The Azure platform is a private cloud platform wherein all the resources can be accessed only by a private handful of people.
