@@ -1805,7 +1805,7 @@
 
 ### After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.
 
-- [X] No change is needed.
+- [x] No change is needed.
 - [ ] Virtual network gateway.
 - [ ] Virtual network.
 - [ ] Route table.
