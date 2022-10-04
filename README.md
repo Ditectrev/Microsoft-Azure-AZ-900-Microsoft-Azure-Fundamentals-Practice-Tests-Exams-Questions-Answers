@@ -1,5 +1,109 @@
-# Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Exam Questions & Answers
+# ⬆️ Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Exam Questions & Answers
 
+![Promotional image](images/promotional.png)
+
+## Udemy
+
+❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests-exams/?referralCode=C4B47B7C9ABC33DAF4C3). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+
+## ✨ This course is unlike any Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) course you will find online.
+
+✋ Join a live online community and a course taught by industry experts and pass the Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+## ⌛️ Short and to the point; why should you take the course:
+
+1. Always happy to answer your questions on Udemy's Q&A's and outside :)
+2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
+3. Learn about topics, such as:
+   - Access Control;
+   - Authentication & Authorization;
+   - Availability Zones;
+   - Azure Active Directory (Azure AD);
+   - Azure AD ldentity Protection;
+   - Azure Advanced Threat Protection (ATP);
+   - Azure Advisor;
+   - Azure Analysis Services;
+   - Azure Command Line Interface (Azure CLI);
+   - Azure Cosmos DB;
+   - Azure Event Hubs;
+   - Azure Functions;
+   - Azure Log Analytics;
+   - Azure Marketplace;
+   - Azure Monitor;
+   - Azure Multi-Factor Authentication (MFA);
+   - Azure Pay-as-You-Go Subscription;
+   - Azure Policies;
+   - Azure Portal;
+   - Azure Regions;
+   - Azure Resources;
+   - Azure Security Center;
+   - Azure Service Health;
+   - Azure Services;
+   - Azure SQL Databases;
+   - Azure Storage;
+   - Azure Web Apps;
+   - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
+   - Cloud Concepts;
+   - Compliancy, Governance, Identity & Privacy;
+   - General Data Protection Requlation (GDPR) & Azure;
+   - Inbound Data Traffic & Outbound Data Traffic;
+   - Infrastructure as a Service (laaS);
+   - Microsoft Trust Center;
+   - Network Security Group (NSG);Platform as a Service (PaaS);
+   - Public & Private Cloud;
+   - Public & Private Preview;
+   - Resource Groups;
+   - Serverless;
+   - Service Level Agreement (SLA);
+   - Software as a Service (SaaS);
+   - Virtual Machines;
+   - Windows Virtual Desktop;
+   - **Much More!**
+4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
+5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+6. This course is **not** a Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+7. 485 **unique** questions.
+
+## ☝️ Course Updates
+
+**[v1.0.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.0.0): October 4, 2022.**
+
+- Launch of the course.
+
+## 🙋‍♀️ & 🙋‍♂️ Contribution
+
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/pulls).
+
+## Who this course is for:
+
+- 👨‍🎓 Students preparing for the Microsoft Azure Fundamentals (AZ-900) Exam;
+- 👨‍🎓 AWS Engineers;
+- 👨‍🎓 Azure Engineers;
+- 👨‍🎓 Cloud Architects;
+- 👨‍🎓 Cloud Engineers;
+- 👨‍🎓 DevOps Engineers;
+- 👨‍🎓 Enterprise Architects;
+- 👨‍🎓 GCP Engineers;
+- 👨‍🎓 Infrastructure Engineers;
+- 👨‍🎓 IT Professionals;
+- 👨‍🎓 Lead Engineers;
+- 👨‍🎓 Product Architects;
+- 👨‍🎓 Product Managers;
+- 👨‍🎓 Product Owners;
+- 👨‍🎓 Project Manager;
+- 👨‍🎓 Scrum Masters;
+- 👨‍🎓 Security Engineers;
+- 👨‍🎓 Site Reliability Engineers;
+- 👨‍🎓 Software Developers/Engineers;
+- 👨‍🎓 Software Testers;
+- 👨‍🎓 Solution Architects;
+- 👨‍🎓 Team Leaders.
+
+## Requirements
+
+- 🤩 Excitement to learn!
+- 0️⃣ Prior knowledge is required;
+- ✅ You can pass the Microsoft Azure Fundamentals (AZ-900) Exam solely based on our Practice Tests Exams.
 ## Table of Contents
 
 | No. | Questions |
