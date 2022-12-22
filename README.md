@@ -1874,8 +1874,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Azure Site Recovery provides [fault tolerance] for virtual machines.
 
-- [x] No change is needed.
-- [ ] Disaster recovery.
+- [ ] No change is needed.
+- [x] Disaster recovery.
 - [ ] Elasticity.
 - [ ] High availability.
 
