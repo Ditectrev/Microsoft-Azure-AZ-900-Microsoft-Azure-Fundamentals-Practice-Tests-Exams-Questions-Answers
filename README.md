@@ -1118,10 +1118,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What are two characteristics the public cloud? Each correct answer presents a complete solution.
 
-- [x] Unsecured connections.
+- [ ] Unsecured connections.
 - [ ] Limited storage.
-- [ ] Metered pricing.
-- [ ] Self-service management.
+- [x] Metered pricing.
+- [x] Self-service management.
 
 *[⬆ Back to Top](#table-of-contents)*
 
