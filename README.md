@@ -68,6 +68,8 @@
 
 **[v1.0.1](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.0.1): January 8, 2023.**
 
+- Fix answers for 2 questions.
+
 **[v1.0.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.0.0): October 4, 2022.**
 
 - Launch of the course.
