@@ -1120,7 +1120,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### What are two characteristics the public cloud? Each correct answer presents a complete solution.
+### What are two characteristics of the public cloud? Each correct answer presents a complete solution.
 
 - [ ] Unsecured connections.
 - [ ] Limited storage.
