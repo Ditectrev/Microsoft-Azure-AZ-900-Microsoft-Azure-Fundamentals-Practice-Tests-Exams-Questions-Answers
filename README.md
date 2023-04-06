@@ -799,7 +799,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an AZure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?
+### An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an Azure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?
 
 - [ ] Resource Groups.
 - [ ] Azure Active Directory.
