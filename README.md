@@ -774,7 +774,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] They would need to deploy a VPN.
 - [ ] They would need to pay for the cost to transfer the web site to Azure.
 - [x] They would need to pay for the monthly costs incurred for hosting the web site.
-- [ ] hey would need to pay for the number of connections to the web site.
+- [ ] They would need to pay for the number of connections to the web site.
 
 *[⬆ Back to Top](#table-of-contents)*
 
