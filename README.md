@@ -196,7 +196,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |81 | [You have a virtual machine named VM1 that runs Windows Server 2016. VM1 is in the East US Azure region. Which Azure service should you use from the Azure portal to view service failure notifications that can affect the availability of VM1?](#you-have-a-virtual-machine-named-vm1-that-runs-windows-server-2016-vm1-is-in-the-east-us-azure-region-which-azure-service-should-you-use-from-the-azure-portal-to-view-service-failure-notifications-that-can-affect-the-availability-of-vm1)|
 |82 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Linux and has the Azure CLI tools installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed-does-this-meet-the-goal)|
 |83 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Chrome OS and uses Azure Cloud Shell Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-chrome-os-and-uses-azure-cloud-shell-does-this-meet-the-goal)|
-|84 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to al the Anure virtual networke. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-al-the-anure-virtual-networke-what-should-you-create)|
+|84 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to all the Azure virtual network. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-all-the-azure-virtual-network-what-should-you-create)|
 |85 | [You have an Azure environment that contains multiple Azure virtual machines. You plan to implement a solution that enables the client computers on your on-premises network to communicate to the Azure virtual machines. You need to recommend which Azure resources must be created for the planned solution. Which two Azure resources should you include in the recommendation?](#you-have-an-azure-environment-that-contains-multiple-azure-virtual-machines-you-plan-to-implement-a-solution-that-enables-the-client-computers-on-your-on-premises-network-to-communicate-to-the-azure-virtual-machines-you-need-to-recommend-which-azure-resources-must-be-created-for-the-planned-solution-which-two-azure-resources-should-you-include-in-the-recommendation)|
 |86 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-solution-you-use-bash-in-azure-cloud-shell-does-this-meet-the-goal)|
 |87 | [Your company plans to move several servers to Azure. The company compliance policy states that a server named FinServer must be on a separate network segment. You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?](#your-company-plans-to-move-several-servers-to-azure-the-company-compliance-policy-states-that-a-server-named-finserver-must-be-on-a-separate-network-segment-you-are-evaluating-which-azure-services-can-be-used-to-meet-the-compliance-policy-requirements-which-azure-solution-should-you-recommend)|
@@ -245,7 +245,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |130 | [Your Azure trial account expired last week. You are now unable to [create additional Azure Active Directory (Azure AD) user accounts].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-azure-active-directory-azure-ad-user-accounts)|
 |131 | [Your company plans to purchase an Azure subscription, The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-premier-support-plan-does-this-meet-the-goal)|
 |132 | [Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
-|133 | [Which statement accurately describes the Modem Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modem-lifecycle-policy-for-azure-services)|
+|133 | [Which statement accurately describes the Modern Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modern-lifecycle-policy-for-azure-services)|
 |134 | [You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing Azure subscription exceeds a specified limit.](#you-can-use-advisor-recommendations-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-azure-subscription-exceeds-a-specified-limit)|
 |135 | [To implement a hybrid cloud model, a company must first have a private cloud.](#to-implement-a-hybrid-cloud-model-a-company-must-first-have-a-private-cloud)|
 |136 | [A company can extend the computing resources of its internal network by using a hybrid cloud.](#a-company-can-extend-the-computing-resources-of-its-internal-network-by-using-a-hybrid-cloud)|
@@ -1266,7 +1266,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to al the Anure virtual networke. What should you create?
+### You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to all the Azure virtual network. What should you create?
 
 - [ ] One application necurity group (ASG).
 - [ ] 10 virtual network gateways.
@@ -1456,7 +1456,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Azure Germany can be used by legal residents of Germany only.
 
 - [ ] No change is needed.
-- [ ] Only cnterprises that arc rogistorod in Germeny.
+- [ ] Only enterprises that are registered in Germany.
 - [ ] Only enterprises that purchase their azure licenses from a partner based in Germany.
 - [x] Any user or enterprise that requires its data to reside in Germany.
 
@@ -1687,7 +1687,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 *[⬆ Back to Top](#table-of-contents)*
 
-### Which statement accurately describes the Modem Lifecycle Policy for Azure services?
+### Which statement accurately describes the Modern Lifecycle Policy for Azure services?
 
 - [ ]  Microsoft provides mainstream support for a service for five years.
 - [x]  Microsoft provides a minimum of 12 months notice before ending support for a service.
