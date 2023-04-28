@@ -6,6 +6,8 @@
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests-exams/?referralCode=C4B47B7C9ABC33DAF4C3). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1343709791/microsoft-azure-az-900-microsoft-azure).
+
 ## ✨ This course is unlike any Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) course you will find online.
 
 ✋ Join a live online community and a course taught by industry experts and pass the Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
