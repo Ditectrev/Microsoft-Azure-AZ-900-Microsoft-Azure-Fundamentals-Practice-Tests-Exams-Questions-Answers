@@ -96,7 +96,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - 👨‍🎓 Product Architects;
 - 👨‍🎓 Product Managers;
 - 👨‍🎓 Product Owners;
-- 👨‍🎓 Project Manager;
+- 👨‍🎓 Project Managers;
 - 👨‍🎓 Scrum Masters;
 - 👨‍🎓 Security Engineers;
 - 👨‍🎓 Site Reliability Engineers;
