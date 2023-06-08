@@ -4105,8 +4105,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?
 
 - [ ] Use Azure Reservations.
-- [ ] Use Azure Hybrid Benefit.
-- [x] Deallocate the virtual machines during off hours.
+- [x] Use Azure Hybrid Benefit.
+- [ ] Deallocate the virtual machines during off hours.
 - [ ] Configure Azure Cost Management budgets.
 
 **[⬆ Back to Top](#table-of-contents)**
