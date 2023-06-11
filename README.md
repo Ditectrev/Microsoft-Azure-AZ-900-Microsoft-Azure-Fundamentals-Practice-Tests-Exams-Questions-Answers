@@ -1659,8 +1659,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] A Dev/Test subscription.
 - [ ] Software Assurance.
-- [x] An Enterprise Agreement (EA).
-- [ ] A pay-as-you-go subscription.
+- [ ] An Enterprise Agreement (EA).
+- [x] A pay-as-you-go subscription.
 
 **[⬆ Back to Top](#table-of-contents)**
 
