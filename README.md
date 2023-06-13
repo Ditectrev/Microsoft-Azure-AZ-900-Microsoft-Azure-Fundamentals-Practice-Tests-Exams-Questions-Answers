@@ -64,7 +64,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 485 **unique** questions.
+7. 484 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -78,7 +78,7 @@
 
 **[v1.1.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.0): June 13, 2023.**
 
-- Fix answers for 2 questions and minor typos.
+- Fix answers for 2 questions, delete 1 repeated question and minor typos improvements.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
