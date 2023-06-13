@@ -51,7 +51,8 @@
    - Inbound Data Traffic & Outbound Data Traffic;
    - Infrastructure as a Service (laaS);
    - Microsoft Trust Center;
-   - Network Security Group (NSG);Platform as a Service (PaaS);
+   - Network Security Group (NSG);
+   - Platform as a Service (PaaS);
    - Public & Private Cloud;
    - Public & Private Preview;
    - Resource Groups;
