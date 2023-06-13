@@ -265,7 +265,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |144 | [You plan to provision Infrastructure as a Service (IaaS) resources in Azure. Which resource is an example of IaaS?](#you-plan-to-provision-infrastructure-as-a-service-iaas-resources-in-azure-which-resource-is-an-example-of-iaas)|
 |145 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-remove-the-virtual-machines-what-should-you-recommend)|
 |146 | [One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
-|147 | [You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?](#you-need-to-identify-the-type-of-failure-for-which-an-azure-availability-zone-can-be-used-to-protect-access-to-azure-services-what-should-you-identify)|
+|147 | [PLACEHOLDER](#placeholder)|
 |148 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-macos-and-has-powershell-core-60-installed-does-this-meet-the-goal)|
 |149 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the amount of inbound traffic to all the Azure virtual networks. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-all-the-azure-virtual-networks-what-should-you-create)|
 |150 | [You have an on-premises application that sends email notifications automatically based on a rule. You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the application. What should you include in the recommendation?](#you-have-an-on-premises-application-that-sends-email-notifications-automatically-based-on-a-rule-you-plan-to-migrate-the-application-to-azure-you-need-to-recommend-a-serverless-computing-solution-for-the-application-what-should-you-include-in-the-recommendation)|
@@ -1806,15 +1806,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Automatic scaling.
 - [ ] Data compression.
 - [ ] Versioning.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-### You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?
-
-- [ ] A physical server failure.
-- [ ] An Azure region failure.
-- [ ] A storage failure.
-- [x] An Azure data center failure.
 
 **[⬆ Back to Top](#table-of-contents)**
 
