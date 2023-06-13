@@ -78,7 +78,7 @@
 
 **[v1.1.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.0): June 13, 2023.**
 
-- Fix answers for 2 questions, delete 1 repeated question and minor typos improvements.
+- Fix answers for 2 questions, delete 1 repeated question, and minor typos improvements.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
