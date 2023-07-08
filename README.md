@@ -94,7 +94,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - 👨‍🎓 Cloud Engineers;
 - 👨‍🎓 DevOps Engineers;
 - 👨‍🎓 Enterprise Architects;
-- 👨‍🎓 GCP Engineers;
+- 👨‍🎓 Google Cloud Platform (GCP) Engineers;
 - 👨‍🎓 Infrastructure Engineers;
 - 👨‍🎓 IT Professionals;
 - 👨‍🎓 Lead Engineers;
