@@ -1013,8 +1013,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Is it possible to merge subscriptions into a single subscription?
 
-- [x] Yes.
-- [ ] No.
+- [ ] Yes.
+- [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
