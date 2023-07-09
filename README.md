@@ -1164,7 +1164,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### You plan to migrate several servers from an on-premises network to Azure. What is an advantage of using a public cloud service for the servers over an on-premises network?
 
 - [ ] The public cloud is owned by the public, NOT a private corporation.
-- [ ] The public cloud is owned by the public, NOT a private corporation.
+- [ ] The public cloud is a crowd-sourcing solution that provides corporations with the ability to enhance the cloud.
 - [ ] All public cloud resources can be freely accessed by every member of the public.
 - [x] The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud.
 
