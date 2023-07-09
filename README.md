@@ -53,6 +53,7 @@
    - Microsoft Trust Center;
    - Network Security Group (NSG);
    - Platform as a Service (PaaS);
+   - PowerShell;
    - Public & Private Cloud;
    - Public & Private Preview;
    - Resource Groups;
