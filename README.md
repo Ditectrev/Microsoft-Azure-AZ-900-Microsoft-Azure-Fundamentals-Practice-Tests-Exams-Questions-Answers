@@ -121,7 +121,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 |---- | ---------
-|1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
+|1 | [If you plan to host a web application using Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-host-a-web-application-using-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
 |2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-D2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
 |4 | [Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-use-past-trainings-to-provide-predictions-of-very-high-probability-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -607,7 +607,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |484 | [[Authorization] is the process of verifying a user credentials.](#authorization-is-the-process-of-verifying-a-user-credentials)|
 |485 | [You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?](#you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-you-need-to-identify-the-primary-benefit-of-using-a-public-cloud-service-for-the-servers-what-should-you-identify)|
 
-### If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?
+### If you plan to host a web application using Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?
 
 - [x] Yes.
 - [ ] No.
