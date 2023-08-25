@@ -49,7 +49,7 @@
    - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
    - Cloud Concepts;
    - Compliancy, Governance, Identity & Privacy;
-   - General Data Protection Requlation (GDPR) & Azure;
+   - General Data Protection Regulation (GDPR) & Azure;
    - Inbound Data Traffic & Outbound Data Traffic;
    - Infrastructure as a Service (laaS);
    - Microsoft Trust Center;
@@ -445,7 +445,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |316 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
 |317 | [General Data Protection Regulation (GDPR) defines data protection and privacy rules.](#general-data-protection-regulation-gdpr-defines-data-protection-and-privacy-rules)|
 |318 | [General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.](#general-data-protection-regulation-gdpr-applies-to-companies-that-offer-goods-or-services-to-individuals-in-the-eu)|
-|319 | [Azure can be used to build a General Data Protection Requlation (GDPR)-compliant infrastructure.](#azure-can-be-used-to-build-a-general-data-protection-requlation-gdpr-compliant-infrastructure)|
+|319 | [Azure can be used to build a General Data Protection Regulation (GDPR)-compliant infrastructure.](#azure-can-be-used-to-build-a-general-data-protection-regulation-gdpr-compliant-infrastructure)|
 |320 | [You can add an Azure Resource Manager template to an Azure blueprint.](#you-can-add-an-azure-resource-manager-template-to-an-azure-blueprint)|
 |321 | [You can assign an Azure blueprint to a resource group.](#you-can-assign-an-azure-blueprint-to-a-resource-group)|
 |322 | [You can use Azure Blueprints to grant permissions to a resource.](#you-can-use-azure-blueprints-to-grant-permissions-to-a-resource)|
@@ -3133,7 +3133,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure can be used to build a General Data Protection Requlation (GDPR)-compliant infrastructure.
+### Azure can be used to build a General Data Protection Regulation (GDPR)-compliant infrastructure.
 
 - [x] Yes.
 - [ ] No.
