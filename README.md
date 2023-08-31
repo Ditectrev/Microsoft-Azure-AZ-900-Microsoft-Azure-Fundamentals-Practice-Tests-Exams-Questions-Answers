@@ -1282,7 +1282,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to all the Azure virtual network. What should you create?
 
-- [ ] One application necurity group (ASG).
+- [ ] One application security group (ASG).
 - [ ] 10 virtual network gateways.
 - [ ] 10 Azure ExpressRoute circults.
 - [x] One Azure firewal.
