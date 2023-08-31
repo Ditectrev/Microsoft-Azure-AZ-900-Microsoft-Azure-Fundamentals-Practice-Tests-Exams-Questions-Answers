@@ -126,7 +126,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ## Table of Contents
 
 | No. | Questions |
-|---- | ---------
+| --- | --------- |
 |1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
 |2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-D2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
