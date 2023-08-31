@@ -1182,7 +1182,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Operational.
 - [ ] Elastic.
 - [ ] Capital.
-- [ ] Acalable.
+- [ ] Scalable.
 
 **[⬆ Back to Top](#table-of-contents)**
 
