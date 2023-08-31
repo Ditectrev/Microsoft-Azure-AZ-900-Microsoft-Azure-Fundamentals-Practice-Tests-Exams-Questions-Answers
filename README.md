@@ -1419,7 +1419,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which Azure service should you use to collect events from multiple resources into a centralized repository?
 
-- [x] A Azure Event Hubs.
+- [x] Azure Event Hubs.
 - [ ] Azure Analysis Services.
 - [ ] Azure Monitor.
 - [ ] Azure Stream Analytics.
