@@ -1310,7 +1310,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] A resource group for FinServer and another resource group for all the other servers.
 - [x] A virtual network for FinServer and another virtual network for all the other servers.
-- [ ] A VPN for FinServer and a virtual natwork gateway for aach nther server.
+- [ ] A VPN for FinServer and a virtual network gateway for another server.
 - [ ] One resource group for all the servers and a resource lock for FinServer.
 
 **[⬆ Back to Top](#table-of-contents)**
