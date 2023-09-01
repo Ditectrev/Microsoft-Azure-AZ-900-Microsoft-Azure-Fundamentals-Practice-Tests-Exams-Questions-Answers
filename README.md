@@ -216,7 +216,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |87 | [Your company plans to move several servers to Azure. The company compliance policy states that a server named FinServer must be on a separate network segment. You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?](#your-company-plans-to-move-several-servers-to-azure-the-company-compliance-policy-states-that-a-server-named-finserver-must-be-on-a-separate-network-segment-you-are-evaluating-which-azure-services-can-be-used-to-meet-the-compliance-policy-requirements-which-azure-solution-should-you-recommend)|
 |88 | [You plan to map a network drive from several computers that run Windows 10 to Azure Storage. You need to create a storage solution in Azure for the planned mapped drive. What should you create?](#you-plan-to-map-a-network-drive-from-several-computers-that-run-windows-10-to-azure-storage-you-need-to-create-a-storage-solution-in-azure-for-the-planned-mapped-drive-what-should-you-create)|
 |89 | [Your company plans to migrate all its network resources to Azure. You need to start the planning process by exploring Azure. What should you create first?](#your-company-plans-to-migrate-all-its-network-resources-to-azure-you-need-to-start-the-planning-process-by-exploring-azure-what-should-you-create-first)|
-|90 | [You have an on-premises application that sends email notifications automatically based on a rute, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the applicalion. What should you include in the recommendation?](#you-have-an-on-premises-application-that-sends-email-notifications-automatically-based-on-a-rute-you-plan-to-migrate-the-application-to-azure-you-need-to-recommend-a-serverless-computing-solution-for-the-applicalion-what-should-you-include-in-the-recommendation)|
+|90 | [You have an on-premises application that sends email notifications automatically based on a rule, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the applicalion. What should you include in the recommendation?](#you-have-an-on-premises-application-that-sends-email-notifications-automatically-based-on-a-rule-you-plan-to-migrate-the-application-to-azure-you-need-to-recommend-a-serverless-computing-solution-for-the-applicalion-what-should-you-include-in-the-recommendation)|
 |91 | [You plan to deploy a website to Azure. The website will be accessed by users worldwide and will host large video files. You need to recommend which Azure feature must be used to provide the best video playback experience. What should you recommend?](#you-plan-to-deploy-a-website-to-azure-the-website-will-be-accessed-by-users-worldwide-and-will-host-large-video-files-you-need-to-recommend-which-azure-feature-must-be-used-to-provide-the-best-video-playback-experience-what-should-you-recommend)|
 |92 | [Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify? Each correct answer presents part of the solution.](#your-company-plans-to-deploy-several-million-sensors-that-will-upload-data-to-azure-you-need-to-identify-which-azure-resources-must-be-created-to-support-the-planned-solution-which-two-azure-resources-should-you-identify-each-correct-answer-presents-part-of-the-solution)|
 |93 | [You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use? Each correct answer presents a complete solution.](#you-have-an-azure-web-app-you-need-to-manage-the-settings-of-the-web-app-from-an-iphone-what-are-two-azure-management-tools-that-you-can-use-each-correct-answer-presents-a-complete-solution)|
@@ -1182,7 +1182,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Operational.
 - [ ] Elastic.
 - [ ] Capital.
-- [ ] Acalable.
+- [ ] Scalable.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1282,7 +1282,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to all the Azure virtual network. What should you create?
 
-- [ ] One application necurity group (ASG).
+- [ ] One application security group (ASG).
 - [ ] 10 virtual network gateways.
 - [ ] 10 Azure ExpressRoute circults.
 - [x] One Azure firewal.
@@ -1310,7 +1310,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] A resource group for FinServer and another resource group for all the other servers.
 - [x] A virtual network for FinServer and another virtual network for all the other servers.
-- [ ] A VPN for FinServer and a virtual natwork gateway for aach nther server.
+- [ ] A VPN for FinServer and a virtual network gateway for another server.
 - [ ] One resource group for all the servers and a resource lock for FinServer.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1333,7 +1333,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have an on-premises application that sends email notifications automatically based on a rute, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the applicalion. What should you include in the recommendation?
+### You have an on-premises application that sends email notifications automatically based on a rule, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the applicalion. What should you include in the recommendation?
 
 - [ ] A web app.
 - [ ] A server image in Azure Marketplace.
@@ -1419,7 +1419,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which Azure service should you use to collect events from multiple resources into a centralized repository?
 
-- [x] A Azure Event Hubs.
+- [x] Azure Event Hubs.
 - [ ] Azure Analysis Services.
 - [ ] Azure Monitor.
 - [ ] Azure Stream Analytics.
