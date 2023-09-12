@@ -23,7 +23,7 @@
    - Authentication & Authorization;
    - Availability Zones;
    - Azure Active Directory (Azure AD);
-   - Azure AD ldentity Protection;
+   - Azure AD Identity Protection;
    - Azure Advanced Threat Protection (ATP);
    - Azure Advisor;
    - Azure Analysis Services;
@@ -233,7 +233,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |104 | [Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?](#your-company-plans-to-automate-the-deployment-of-servers-to-azure-your-manager-is-concerned-that-you-may-expose-administrative-credentials-during-the-deployment-you-need-to-recommend-an-azure-solution-that-encrypts-the-administrative-credentials-during-the-deployment-what-should-you-include-in-the-recommendation)|
 |105 | [You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-control-the-ports-that-devices-on-the-internet-can-use-to-access-the-virtual-machines-what-should-you-use)|
 |106 | [Azure Germany can be used by legal residents of Germany only.](#azure-germany-can-be-used-by-legal-residents-of-germany-only)|
-|107 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-lnternet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
+|107 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |108 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-firewall-does-this-meet-the-goal)|
 |109 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure Traffic Manager profile. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-traffic-manager-profile-does-this-meet-the-goal)|
 |110 | [Which two types of customers are eligible to use Azure Government to develop a cloud solution?](#which-two-types-of-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution)|
@@ -565,7 +565,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |436 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |437 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-)|
 |438 | [From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)
-|439 | [All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).](#all-paying-azure-customers-receive-a-creoit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
+|439 | [All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).](#all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |440 | [[Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |441 | [All the Azure resources deployed to a single resource group must share the same Azure region.](#all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |442 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
@@ -579,7 +579,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |450 | [Which Azure service should you use to correlate events from multiple resources into a centralized repository?](#which-azure-service-should-you-use-to-correlate-events-from-multiple-resources-into-a-centralized-repository)|
 |451 | [When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].](#when-planning-to-migrate-a-public-website-to-azure-you-must-plan-to-pay-monthly-usage-costs)|
 |452 | [When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].](#when-you-are-implementing-a-software-as-a-service-saas-solution-you-are-responsible-for-configuring-high-availability)|
-|453 | [Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx).](#azure-provides-flexibility-between-capital-expenditure-capex-and-operational-exponditure-opex)|
+|453 | [Azure provides flexibility between capital expenditure (CapEx) and operational expenditure (OpEx).](#azure-provides-flexibility-between-capital-expenditure-capex-and-operational-expenditure-opex)|
 |454 | [Your company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?](#your-company-plans-to-deploy-an-artificial-intelligence-ai-solution-in-azure-what-should-the-company-use-to-build-test-and-deploy-predictive-analytics-solutions)|
 |455 | [Your company plans to purchase Azure. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?](#your-company-plans-to-purchase-azure-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-standard-support-plan-does-this-meet-the-goal)|
 |456 | [You have an Azure environment that contains 10 web apps. To which URL should you connect [1] to manage all the Azure resources? https://[1].[2].com.](#you-have-an-azure-environment-that-contains-10-web-apps-to-which-url-should-you-connect-1-to-manage-all-the-azure-resources-https12com)|
@@ -1214,7 +1214,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the company. Each application will have several prerequisite applications and services installed. You need to recommend a cloud deployment solution for all the applications. What should you recommend?
 
 - [ ] Software as a Service (SaaS).
-- [ ] Piatform as a Service (PaaS).
+- [ ] Platform as a Service (PaaS).
 - [x] Infrastructure as a Service (laas).
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1284,8 +1284,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] One application security group (ASG).
 - [ ] 10 virtual network gateways.
-- [ ] 10 Azure ExpressRoute circults.
-- [x] One Azure firewal.
+- [ ] 10 Azure ExpressRoute circuits.
+- [x] One Azure firewall.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1476,7 +1476,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the lnternet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?
+### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
@@ -1503,7 +1503,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A European government contractor.
 - [x] A United States government entity.
 - [x] A United States government contractor.
-- [ ] A European govemment entity.
+- [ ] A European government entity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1512,7 +1512,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure AD Connect Health.
 - [ ] Azure AD Privileged Identity Management.
 - [ ] Azure Advanced Threat Protection (ATP).
-- [x] Azure AD ldentity Protection.
+- [x] Azure AD Identity Protection.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1645,7 +1645,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?
 
 - [x] Uptime.
-- [ ] Feature avalability.
+- [ ] Feature availability.
 - [ ] Bandwidth.
 - [ ] Performance.
 
@@ -3976,7 +3976,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Application gateways.
 - [x] Local network gateways.
 - [ ] CDN profiles.
-- [ ] ExpressRoute ciruits.
+- [ ] ExpressRoute circuits.
 - [ ] Network security groups.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4052,7 +4052,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### All paying Azure customers receive a creoit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).
+### All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).
 
 - [ ] Yes.
 - [x] No.
