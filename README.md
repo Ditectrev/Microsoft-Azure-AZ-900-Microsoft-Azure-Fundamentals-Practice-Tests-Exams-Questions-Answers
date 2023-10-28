@@ -521,7 +521,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |388 | [The Service Level Agreement (SLA) guaranteed uptime for paid Azure services is at least 99.9 percent.](#the-service-level-agreement-sla-guaranteed-uptime-for-paid-azure-services-is-at-least-999-percent)|
 |389 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-adding-azure-resources-to-multiple-regions)|
 |390 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by purchasing multiple subscriptions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-purchasing-multiple-subscriptions)|
-|391 | [Which statement accurately describes the Modern Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modern-lifecycle-policy-for-azure-services)|
+|391 | [PLACEHOLDER](#placeholder)|
 |392 | [You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal?](#you-need-to-request-that-microsoft-increase-a-subscription-quota-limit-for-your-company-which-blade-should-you-use-from-the-azure-portal)|
 |393 | [You can use in Azure to send email alerts when the cost of the current billing period for an Azure subscription exceeds a specified limit.](#you-can-use-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-period-for-an-azure-subscription-exceeds-a-specified-limit)|
 |394 | [From the Azure portal, you can distinguish between services that are generally available and services that are in public preview.](#from-the-azure-portal-you-can-distinguish-between-services-that-are-generally-available-and-services-that-are-in-public-preview)|
@@ -569,7 +569,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |436 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |437 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-)|
 |438 | [From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)
-|439 | [All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).](#all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
+|439 | [PLACEHOLDER](#placeholder)|
 |440 | [[Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |441 | [All the Azure resources deployed to a single resource group must share the same Azure region.](#all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |442 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
@@ -3373,7 +3373,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-###  All Azure free accounts expire after a specific period.
+### All Azure free accounts expire after a specific period.
 
 - [x] Yes.
 - [ ] No.
@@ -3670,15 +3670,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Yes.
 - [x] No.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-###  Which statement accurately describes the Modern Lifecycle Policy for Azure services?
-
-- [ ] Microsoft provides mainstream support for a service for five years.
-- [x] Microsoft provides a minimum of 12 months notice before ending support for a service.
-- [ ] After a service is made generally available, Microsoft provides support for the service for a minimum of four years.
-- [ ] When a service is retired, you can purchase extended support for the service for up to five years.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4053,13 +4044,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Yes.
 - [ ] No.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-### All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).
-
-- [ ] Yes.
-- [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
