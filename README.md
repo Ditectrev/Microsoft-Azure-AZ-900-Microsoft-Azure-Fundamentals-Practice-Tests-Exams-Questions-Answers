@@ -4150,7 +4150,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx).
+### Azure provides flexibility between capital expenditure (CapEx) and operational expenditure (OpEx).
 
 - [x] Yes.
 - [ ] No.
