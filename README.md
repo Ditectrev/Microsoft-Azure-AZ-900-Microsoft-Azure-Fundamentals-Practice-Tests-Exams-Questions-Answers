@@ -72,27 +72,27 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.0.0): October 4, 2022.**
+**[v1.0.0](../../releases/tag/v1.0.0): October 4, 2022.**
 
 - Launch of the course.
 
-**[v1.0.1](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.0.1): January 8, 2023.**
+**[v1.0.1](../../releases/tag/v1.0.1): January 8, 2023.**
 
 - Fix answers for 2 questions.
 
-**[v1.1.0](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.0): June 13, 2023.**
+**[v1.1.0](../../releases/tag/v1.1.0): June 13, 2023.**
 
 - Fix answers for 2 questions, delete 1 repeated question, and minor typos improvements.
 
-**[v1.1.1](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.1): July 28, 2023.**
+**[v1.1.1](../../releases/tag/v1.1.1): July 28, 2023.**
 
 - Fix correct answer for 1 question and duplicated answer for another question.
 
-**[v1.1.2](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.2): September 28, 2023.**
+**[v1.1.2](../../releases/tag/v1.1.2): September 28, 2023.**
 
 - Fix all remaining typos with support of automated proofreading software.
 
-**[v1.1.3](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/releases/tag/v1.1.3): October 28, 2023.**
+**[v1.1.3](../../releases/tag/v1.1.3): October 28, 2023.**
 
 - Delete 2 duplicated questions.
 
@@ -102,7 +102,7 @@
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
-We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers/pulls).
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
 
 ## Who this course is for:
 
