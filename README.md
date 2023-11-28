@@ -2121,15 +2121,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company has on-premises network includes a large number of servers. They would like to make extra resources available to their users, while keeping capital and operational overheads to a minimum. You are required to make recommendations that should be included in the overall solution. Solution: You should indorse the use of a hybrid cloud as part of the solution. Does the solution meet the goal?
 
-- [ ] Yes.
-- [x] No.
+- [x] Yes.
+- [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Your company has on-premises network includes a large number of servers. They would like to make extra resources available to their users, while keeping capital and operational overheads to a minimum. You are required to make recommendations that should be included in the overall solution. Solution: You should indorse the use of a private cloud as part of the solution. Does the solution meet the goal?
 
-- [x] Yes.
-- [ ] No.
+- [ ] Yes.
+- [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
