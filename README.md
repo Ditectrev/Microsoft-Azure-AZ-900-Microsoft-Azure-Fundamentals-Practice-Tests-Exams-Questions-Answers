@@ -494,7 +494,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |353 | [Azure services in public preview can be used in production environments.](#azure-services-in-public-preview-can-be-used-in-production-environments)|
 |354 | [Azure services in public preview are subject to a Service Level Agreement (SLA).](#azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
 |355 | [A Standard support plan is included in an Azure free account.](#a-standard-support-plan-is-included-in-an-azure-free-account)|
-|356 | [A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA).](#a-premier-support-plan-can-only-be-purchased-by-companies-that-have-an-enterprise-agreement-ea)|
+|356 | [PLACEHOLDER](#placeholder)|
 |357 | [Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription.](#support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
 |358 | [A user who is assigned the Owner role can transfer ownership of an Azure subscription.](#a-user-who-is-assigned-the-owner-role-can-transfer-ownership-of-an-azure-subscription)|
 |359 | [You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.](#you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
@@ -1647,10 +1647,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### In which Azure support plans can you open a new support request?
 
-- [ ] Premier and Professional Direct only.
-- [ ] Premier, Professional Direct, and Standard only.
-- [x] Premier, Professional Direct, Standard, and Developer only.
-- [ ] Premier, Professional Direct, Standard, Developer, and Basic.
+- [ ] Professional Direct only.
+- [ ] Professional Direct, and Standard only.
+- [x] Professional Direct, Standard, and Developer only.
+- [ ] Professional Direct, Standard, Developer, and Basic.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1672,8 +1672,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company plans to request an architectural review of an Azure environment from Microsoft. The company currently has a Basic support plan. You need to recommend a new support plan for the company. The solution must minimize costs. Which support plan should you recommend?
 
-- [x] Premier.
-- [ ] Developer.
+- [x] Developer.
 - [ ] Professional Direct.
 - [ ] Standard.
 
@@ -1699,8 +1698,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company plans to purchase an Azure subscription, The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?
 
-- [x] Yes.
-- [ ] No.
+- [ ] Yes.
+- [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2023,7 +2022,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] No change is needed.
 - [ ] Developer.
 - [x] Basic.
-- [ ] Premier.
+- [ ] Professional Direct.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2417,8 +2416,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company has Azure subscription includes a Basic support plan. They would like to request an assessment of an Azure environment has design from Microsoft. This is, however, not supported by the existing plan. You want to make sure that the company subscribes to a support plan that allows this functionality, while keeping expenses to a minimum. Solution: You recommend that the company subscribes to the Premier support plan. Does the solution meet the goal?
 
-- [x] Yes.
-- [ ] No.
+- [ ] Yes.
+- [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3420,13 +3419,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Yes.
 - [x] No.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-### A Premier support plan can only be purchased by companies that have an Enterprise Agreement (EA).
-
-- [x] Yes.
-- [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
