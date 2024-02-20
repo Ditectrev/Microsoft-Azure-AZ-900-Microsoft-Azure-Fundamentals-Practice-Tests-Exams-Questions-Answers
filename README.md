@@ -2892,8 +2892,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### You can access Compliance Manager from the [...].
 
 - [ ] Azure Active Directory admin center.
-- [x] Azure portal.
-- [ ] Microsoft 365 admin center.
+- [ ] Azure portal.
+- [x] Microsoft 365 Admin Center.
 - [ ] Microsoft Service Trust Portal.
 
 **[⬆ Back to Top](#table-of-contents)**
