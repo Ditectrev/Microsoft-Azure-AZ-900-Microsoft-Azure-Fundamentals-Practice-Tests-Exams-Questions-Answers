@@ -1649,8 +1649,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Professional Direct only.
 - [ ] Professional Direct, and Standard only.
-- [x] Professional Direct, Standard, and Developer only.
-- [ ] Professional Direct, Standard, Developer, and Basic.
+- [ ] Professional Direct, Standard, and Developer only.
+- [x] Professional Direct, Standard, Developer, and Basic.
 
 **[⬆ Back to Top](#table-of-contents)**
 
