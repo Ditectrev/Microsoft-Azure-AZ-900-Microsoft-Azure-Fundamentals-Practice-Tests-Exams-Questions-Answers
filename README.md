@@ -68,7 +68,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 484 **unique** questions.
+7. 485 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -285,7 +285,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |144 | [You plan to provision Infrastructure as a Service (IaaS) resources in Azure. Which resource is an example of IaaS?](#you-plan-to-provision-infrastructure-as-a-service-iaas-resources-in-azure-which-resource-is-an-example-of-iaas)|
 |145 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-remove-the-virtual-machines-what-should-you-recommend)|
 |146 | [One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
-|147 | [PLACEHOLDER](#placeholder)|
+|147 | [Match the Azure services to the correct descriptions.](#match-the-azure-services-to-the-correct-descriptions)|
 |148 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-macos-and-has-powershell-core-60-installed-does-this-meet-the-goal)|
 |149 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the amount of inbound traffic to all the Azure virtual networks. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-all-the-azure-virtual-networks-what-should-you-create)|
 |150 | [You have an on-premises application that sends email notifications automatically based on a rule. You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the application. What should you include in the recommendation?](#you-have-an-on-premises-application-that-sends-email-notifications-automatically-based-on-a-rule-you-plan-to-migrate-the-application-to-azure-you-need-to-recommend-a-serverless-computing-solution-for-the-application-what-should-you-include-in-the-recommendation)|
@@ -494,7 +494,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |353 | [Azure services in public preview can be used in production environments.](#azure-services-in-public-preview-can-be-used-in-production-environments)|
 |354 | [Azure services in public preview are subject to a Service Level Agreement (SLA).](#azure-services-in-public-preview-are-subject-to-a-service-level-agreement-sla)|
 |355 | [A Standard support plan is included in an Azure free account.](#a-standard-support-plan-is-included-in-an-azure-free-account)|
-|356 | [PLACEHOLDER](#placeholder)|
+|356 | [Match the Azure services to the appropriate descriptions.](#match-the-azure-services-to-the-appropriate-descriptions)|
 |357 | [Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription.](#support-from-msdn-forums-is-only-provided-to-companies-that-have-a-pay-as-you-go-subscription)|
 |358 | [A user who is assigned the Owner role can transfer ownership of an Azure subscription.](#a-user-who-is-assigned-the-owner-role-can-transfer-ownership-of-an-azure-subscription)|
 |359 | [You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.](#you-can-convert-the-azure-subscription-of-your-company-from-free-trial-to-pay-as-you-go)|
@@ -529,7 +529,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |388 | [The Service Level Agreement (SLA) guaranteed uptime for paid Azure services is at least 99.9 percent.](#the-service-level-agreement-sla-guaranteed-uptime-for-paid-azure-services-is-at-least-999-percent)|
 |389 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-adding-azure-resources-to-multiple-regions)|
 |390 | [Companies can increase the Service Level Agreement (SLA) guaranteed uptime by purchasing multiple subscriptions.](#companies-can-increase-the-service-level-agreement-sla-guaranteed-uptime-by-purchasing-multiple-subscriptions)|
-|391 | [PLACEHOLDER](#placeholder)|
+|391 | [Match the Azure Services service to the correct description.](#match-the-azure-services-service-to-the-correct-description)|
 |392 | [You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal?](#you-need-to-request-that-microsoft-increase-a-subscription-quota-limit-for-your-company-which-blade-should-you-use-from-the-azure-portal)|
 |393 | [You can use in Azure to send email alerts when the cost of the current billing period for an Azure subscription exceeds a specified limit.](#you-can-use-in-azure-to-send-email-alerts-when-the-cost-of-the-current-billing-period-for-an-azure-subscription-exceeds-a-specified-limit)|
 |394 | [From the Azure portal, you can distinguish between services that are generally available and services that are in public preview.](#from-the-azure-portal-you-can-distinguish-between-services-that-are-generally-available-and-services-that-are-in-public-preview)|
@@ -577,7 +577,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |436 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |437 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-)|
 |438 | [From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)
-|439 | [PLACEHOLDER](#placeholder)|
+|439 | [Match the Azure Services service to the correct descriptions.](#match-the-azure-services-service-to-the-correct-descriptions)|
 |440 | [[Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |441 | [All the Azure resources deployed to a single resource group must share the same Azure region.](#all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |442 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
@@ -1397,6 +1397,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Yes.
 - [x] No.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Windows 10 and has the Azure PowerShell module installed. Does this meet the goal?
 
 - [x] Yes.
@@ -1825,6 +1827,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Automatic scaling.
 - [ ] Data compression.
 - [ ] Versioning.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Match the Azure services to the correct descriptions.
+
+![Question 147](images/question147.png)
+
+- [ ] Provide operating system virtualization: Azure App Service. Provide portable environment for virtualized applications: Azure virtual machines. Used to build, deploy, and scale web apps: Azure Container Instances. Provide a platform for serverless code: Azure Functions.
+- [ ] Provide operating system virtualization: Azure Functions. Provide portable environment for virtualized applications: Azure virtual machines. Used to build, deploy, and scale web apps: Azure Container Instances. Provide a platform for serverless code: Azure App Service.
+- [x] Provide operating system virtualization: Azure virtual machines. Provide portable environment for virtualized applications: Azure Container Instances. Used to build, deploy, and scale web apps: Azure App Service. Provide a platform for serverless code: Azure Functions.
+- [ ] Provide operating system virtualization: Azure virtual machines. Provide portable environment for virtualized applications: Azure Functions. Used to build, deploy, and scale web apps: Azure App Service. Provide a platform for serverless code: Azure Container Instances.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3422,6 +3435,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### Match the Azure services to the appropriate descriptions.
+
+![Question 356](images/question356.png)
+
+- [ ] Extends on-premises networks to the Microsoft cloud via a private connection: VPN gateway. Combines two or more Azure virtual networks into a single logical virtual network: ExpressRoute. Provides an encrypted connection from on-premises networks to Azure via a public network: Virtual network peering.
+- [ ] Extends on-premises networks to the Microsoft cloud via a private connection: ExpressRoute. Combines two or more Azure virtual networks into a single logical virtual network: VPN gateway. Provides an encrypted connection from on-premises networks to Azure via a public network: Virtual network peering.
+- [ ] Extends on-premises networks to the Microsoft cloud via a private connection: VPN gateway. Combines two or more Azure virtual networks into a single logical virtual network: Virtual network peering. Provides an encrypted connection from on-premises networks to Azure via a public network: ExpressRoute.
+- [x] Extends on-premises networks to the Microsoft cloud via a private connection: ExpressRoute. Combines two or more Azure virtual networks into a single logical virtual network: Virtual network peering. Provides an encrypted connection from on-premises networks to Azure via a public network: VPN gateway.
+
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription.
 
 - [ ] Yes.
@@ -3670,6 +3694,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Yes.
 - [x] No.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Match the Azure Services service to the correct description.
+
+![Question 391](images/question391.png)
+
+- [x] A managed service that provides bidirectional communication between IoT devices and Azure: IoT Hub. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Central. A software and hardware solution that provides communication and security features for IoT devices: Azure Sphere.
+- [ ] A managed service that provides bidirectional communication between IoT devices and Azure: Azure Sphere. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Hub. A software and hardware solution that provides communication and security features for IoT devices: IoT Central.
+- [ ] A managed service that provides bidirectional communication between IoT devices and Azure: Azure Sphere. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Central. A software and hardware solution that provides communication and security features for IoT devices: IoT Hub.
+- [ ] A managed service that provides bidirectional communication between IoT devices and Azure: IoT Hub. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: Azure Sphere. A software and hardware solution that provides communication and security features for IoT devices: IoT Central.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4044,6 +4079,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Yes.
 - [ ] No.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Match the Azure Services service to the correct descriptions.
+
+![Question 439](images/question439.png)
+
+- [ ] Analyze security log files from Azure virtual machines: Azure Security Center. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.
+- [ ] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.
+- [x] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center. Store passwords for use by Azure Function applications: Azure Key Vault.
+- [ ] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center. Store passwords for use by Azure Function applications: Azure Active Directory (Azure AD).
 
 **[⬆ Back to Top](#table-of-contents)**
 
