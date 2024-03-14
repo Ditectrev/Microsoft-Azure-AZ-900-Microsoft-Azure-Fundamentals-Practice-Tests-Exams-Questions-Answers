@@ -100,6 +100,10 @@
 
 - Fix 1 question with wrong answer.
 
+**[v1.2.0](../../releases/tag/v1.2.0): March 14, 2024.**
+
+Fix several questions with wrong answers, delete obsolete questions related to Enterprise Agreement (EA) & Premier support plan, and 4 new questions.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
