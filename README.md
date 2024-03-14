@@ -102,7 +102,7 @@
 
 **[v1.2.0](../../releases/tag/v1.2.0): March 14, 2024.**
 
-Fix several questions with wrong answers, delete obsolete questions related to Enterprise Agreement (EA) & Premier support plan, and 4 new questions.
+- Fix several questions with wrong answers, delete obsolete questions related to Enterprise Agreement (EA) & Premier support plan, and 4 new questions.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
