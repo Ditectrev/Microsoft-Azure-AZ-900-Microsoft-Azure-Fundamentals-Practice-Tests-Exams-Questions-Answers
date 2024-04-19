@@ -62,7 +62,7 @@
    - Serverless;
    - Service Level Agreement (SLA);
    - Software as a Service (SaaS);
-   - Virtual Machines;
+   - Virtual Machines (VMs);
    - Windows Virtual Desktop;
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
