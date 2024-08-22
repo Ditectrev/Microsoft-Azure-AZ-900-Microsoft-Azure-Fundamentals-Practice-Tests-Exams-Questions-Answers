@@ -104,6 +104,10 @@
 
 - Fix several questions with wrong answers, delete obsolete questions related to Enterprise Agreement (EA) & Premier support plan, and 4 new questions.
 
+**[v1.2.0](../../releases/tag/v1.2.0): August 22, 2024.**
+
+- AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests-exams/?referralCode=C4B47B7C9ABC33DAF4C3)).
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
