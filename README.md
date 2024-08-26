@@ -16,6 +16,10 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 - 🛒 [eBay, in PDF format, without answers marked](https://www.ebay.com/itm/404898798741?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=_ptbuk3gqdw&sssrc=2524149&ssuid=_ptbuk3gqdw&widget_ver=artemis&media=COPY),
 - 🔄 [Patreon subscription, where you can get access to all of the materials in EPUB and PDF formats](https://patreon.com/Ditectrev?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
 
+💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
+
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
+
 ## ✨ This course is unlike any Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) course you will find online.
 
 ✋ Join a live online community and a course taught by industry experts and pass the Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
