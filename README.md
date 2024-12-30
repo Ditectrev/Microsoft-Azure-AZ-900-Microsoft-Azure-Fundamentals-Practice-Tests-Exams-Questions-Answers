@@ -18,7 +18,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
 
-⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
 
 ## ✨ This course is unlike any Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) course you will find online.
 
@@ -119,6 +119,10 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 **[v1.2.0](../../releases/tag/v1.2.0): August 22, 2024.**
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests-exams/?referralCode=C4B47B7C9ABC33DAF4C3)).
+
+**[v1.2.1](../../releases/tag/v1.2.1): December 30, 2024.**
+
+- Fix 2 questions with wrong answers.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
