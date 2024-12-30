@@ -3421,7 +3421,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### If your company uses an Azure free account, you will only be able to use a subset of Azure services.
 
 - [x] Yes.
-- [] No.
+- [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
