@@ -43,9 +43,6 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
    - Access Control;
    - Authentication & Authorization;
    - Availability Zones;
-   - Microsoft Entra ID;
-   - Microsoft Entra ID Protection;
-   - Microsoft Defender for Identity (ATP);
    - Azure Advisor;
    - Azure Analysis Services;
    - Azure Command Line Interface (Azure CLI);
@@ -61,7 +58,6 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
    - Azure Portal;
    - Azure Regions;
    - Azure Resources;
-   - Microsoft Defender for Cloud;
    - Azure Service Health;
    - Azure Services;
    - Azure SQL Databases;
@@ -73,6 +69,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
    - General Data Protection Regulation (GDPR) & Azure;
    - Inbound Data Traffic & Outbound Data Traffic;
    - Infrastructure as a Service (laaS);
+   - Microsoft Defender for Cloud;
+   - Microsoft Defender for Identity;
+   - Microsoft Entra ID;
+   - Microsoft Entra ID Protection;
    - Microsoft Trust Center;
    - Network Security Group (NSG);
    - Platform as a Service (PaaS);
@@ -195,7 +195,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |21 | [Under which of the following circumstances could a company look at decommissioning its data center?](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
 |22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
 |23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed)|
-|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed)|
+|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-chrome-os-installed-and-uses-azure-cloud-shell)|
 |25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macos-and-powershell-core-installed)|
 |26 | [An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an Azure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?](#an-administrator-needs-to-view-the-list-of-planned-maintenance-events-that-could-potentially-affect-the-availability-of-the-resources-hosted-in-an-azure-subscription-which-of-the-following-blade-in-the-azure-portal-should-the-administrator-consider-for-this-requirement)|
 |27 | [Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?](#your-team-needs-to-have-an-integrated-solution-in-place-that-can-be-used-for-the-deployment-of-code-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -238,7 +238,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |64 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-should-be-capable-of-storing-10tb-of-data-the-data-would-be-accessed-infrequently-the-data-would-need-to-be-visualised-using-powerbi-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
 |65 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
 |66 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
-|67 | [What are two characteristics of the public cloud?](#what-are-two-characteristics-of-the-public-cloud)|
+|67 | [What are two key characteristics of the public cloud?](#what-are-two-key-characteristics-of-the-public-cloud)|
 |68 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |69 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
 |70 | [You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-100-servers-you-need-to-recommend-a-solution-that-provides-additional-resources-to-your-users-the-solution-must-minimize-capital-and-operational-expenditure-costs-what-should-you-include-in-the-recommendation)|
@@ -1179,12 +1179,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two characteristics of the public cloud?
+### What are two key characteristics of the public cloud?
 
-- [ ] Unsecured connections.
-- [ ] Limited storage.
-- [x] Metered pricing.
-- [x] Self-service management.
+- [ ] Dedicated hardware resources.
+- [x] Shared infrastructure.
+- [x] Pay-as-you-go model.
+- [ ] On-premises deployment.
+- [ ] Limited geographic availability.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1558,7 +1559,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Microsoft Entra Connect Health.
 - [ ] Microsoft Entra Privileged Identity Management.
-- [ ] Microsoft Defender for Identity (ATP).
+- [ ] Microsoft Defender for Identity.
 - [x] Microsoft Entra ID Protection.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3002,7 +3003,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure Monitor.
 - [ ] Microsoft Defender for Cloud.
 - [ ] Microsoft Entra ID Identity Protection.
-- [x] Microsoft Defender for Identity (ATP).
+- [x] Microsoft Defender for Identity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3011,7 +3012,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure Monitor.
 - [ ] Microsoft Defender for Cloud.
 - [x] Microsoft Entra ID Identity Protection.
-- [ ] Microsoft Defender for Identity (ATP).
+- [ ] Microsoft Defender for Identity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
