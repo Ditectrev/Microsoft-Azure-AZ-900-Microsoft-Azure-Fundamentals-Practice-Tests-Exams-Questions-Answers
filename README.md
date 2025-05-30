@@ -5,6 +5,7 @@
 ## ❣ Support
 
 There are many ways to support us; in exchange, you'll get this material in a proper format:
+
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/microsoft-azure-az-900-microsoft-azure-fundamentals-practice-tests-exams-questions-answers),
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/microsoft-azure-az-900-microsoft-azure-fundamentals-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests-exams/?referralCode=C4B47B7C9ABC33DAF4C3),
@@ -42,9 +43,9 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
    - Access Control;
    - Authentication & Authorization;
    - Availability Zones;
-   - Azure Active Directory (Azure AD);
-   - Azure AD Identity Protection;
-   - Azure Advanced Threat Protection (ATP);
+   - Microsoft Entra ID;
+   - Microsoft Entra ID Protection;
+   - Microsoft Defender for Identity (ATP);
    - Azure Advisor;
    - Azure Analysis Services;
    - Azure Command Line Interface (Azure CLI);
@@ -60,7 +61,7 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
    - Azure Portal;
    - Azure Regions;
    - Azure Resources;
-   - Azure Security Center;
+   - Microsoft Defender for Cloud;
    - Azure Service Health;
    - Azure Services;
    - Azure SQL Databases;
@@ -172,30 +173,30 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | No. | Questions |
 | --- | --------- |
 |1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
-|2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-D2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
+|2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-d2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
 |4 | [Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-use-past-trainings-to-provide-predictions-of-very-high-probability-which-of-the-following-service-can-be-used-for-this-purpose)|
 |5 | [Your team needs to have a tool that can provide serverless computing capabilities. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-provide-serverless-computing-capabilities-which-of-the-following-service-can-be-used-for-this-purpose)|
 |6 | [Your team needs to have a tool that can be used to process data from millions of sensors. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-be-used-to-process-data-from-millions-of-sensors-which-of-the-following-service-can-be-used-for-this-purpose)|
-|7 | [A company needs to deploy a set of resources to Azure. Below are the key requirements for the deployment: The need to be deployed across several departments. The resources that need to be deployed are all of the same type. You need to recommend a solution to automate the deployment of the Azure resources. Which of the following would you use for this requirement?](#a-company-needs-to-deploy-a-set-of-resources-to-Azure-Below-are-the-key-requirements-for-the-deployment-the-need-to-be-deployed-across-several-departments-the-resources-that-need-to-be-deployed-are-all-of-the-same-type-you-need-to-recommend-a-solution-to-automate-the-deployment-of-the-azure-resources-which-of-the-following-would-you-use-for-this-requirement)|
+|7 | [A company needs to deploy a set of resources to Azure. Below are the key requirements for the deployment: The need to be deployed across several departments. The resources that need to be deployed are all of the same type. You need to recommend a solution to automate the deployment of the Azure resources. Which of the following would you use for this requirement?](#a-company-needs-to-deploy-a-set-of-resources-to-azure-below-are-the-key-requirements-for-the-deployment-the-need-to-be-deployed-across-several-departments-the-resources-that-need-to-be-deployed-are-all-of-the-same-type-you-need-to-recommend-a-solution-to-automate-the-deployment-of-the-azure-resources-which-of-the-following-would-you-use-for-this-requirement)|
 |8 | [Your company needs to deploy an application to virtual machines hosted in Azure. The solution must ensure an SLA of 99.99%. What is the minimum number of virtual machines and availability zones that you need to recommend for the deployment?](#your-company-needs-to-deploy-an-application-to-virtual-machines-hosted-in-azure-the-solution-must-ensure-an-sla-of-9999-what-is-the-minimum-number-of-virtual-machines-and-availability-zones-that-you-need-to-recommend-for-the-deployment)|
 |9 | [Your team needs a tool that can be used to correlate events from multiple resources into a central repository. Which of the following can be used for this purpose?](#your-team-needs-a-tool-that-can-be-used-to-correlate-events-from-multiple-resources-into-a-central-repository-which-of-the-following-can-be-used-for-this-purpose)|
-|10 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDOS protection plan. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-HTTPS-you-decide-to-implement-a-DDOS-protection-plan-would-this-satisfy-the-requirement)|
-|11 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement an Azure Traffic Manager profile. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-HTTPS-you-decide-to-implement-an-azure-traffic-manager-profile-would-this-satisfy-the-requirement)|
+|10 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDOS protection plan. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-https-you-decide-to-implement-a-ddos-protection-plan-would-this-satisfy-the-requirement)|
+|11 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement an Azure Traffic Manager profile. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-https-you-decide-to-implement-an-azure-traffic-manager-profile-would-this-satisfy-the-requirement)|
 |12 | [Which of the following customers are eligible to use Azure Government to develop a cloud solution? Choose 2 answers from the options given below.](#which-of-the-following-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution-choose-2-answers-from-the-options-given-below)|
 |13 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-is-it-required-to-deploy-a-federated-solution-to-implement-multi-factor-authentication)|
 |14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
 |15 | [Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost.](#which-of-the-following-support-plan-gives-you-access-to-best-practice-information-health-status-and-notifications-and-247-access-to-billing-information-at-the-lowest-possible-cost)|
 |16 | [If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then you will have complete control over the underlying operating system.](#if-you-plan-to-host-a-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-you-will-have-complete-control-over-the-underlying-operating-system)|
-|17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-D2s_v3-If-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
+|17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-d2s_v3-if-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
 |18 | [Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure.](#your-company-is-planning-on-using-azure-for-hosting-infrastructure-level-resources-such-as-azure-virtual-machines-when-planning-for-the-costing-aspect-for-these-resources-is-there-a-flexibility-offered-when-it-comes-to-capital-and-operational-expenditure)|
-|19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?](#you-are-looking-at-using-a-software-as-a-solution-service-in-Azure-Which-of-the-following-would-you-be-responsible-for)|
+|19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?](#you-are-looking-at-using-a-software-as-a-solution-service-in-azure-which-of-the-following-would-you-be-responsible-for)|
 |20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
 |21 | [Under which of the following circumstances could a company look at decommissioning its data center?](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
 |22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
-|23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-CLI-tools-installed)|
-|25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macOS-and-powershell-core-installed)|
+|23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed)|
+|24 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed)|
+|25 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-you-be-able-to-run-the-script-on-a-machine-that-has-macos-and-powershell-core-installed)|
 |26 | [An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an Azure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?](#an-administrator-needs-to-view-the-list-of-planned-maintenance-events-that-could-potentially-affect-the-availability-of-the-resources-hosted-in-an-azure-subscription-which-of-the-following-blade-in-the-azure-portal-should-the-administrator-consider-for-this-requirement)|
 |27 | [Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?](#your-team-needs-to-have-an-integrated-solution-in-place-that-can-be-used-for-the-deployment-of-code-which-of-the-following-service-can-be-used-for-this-purpose)|
 |28 | [Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose?](#your-team-needs-a-tool-that-can-provide-guidance-and-recommendations-that-can-be-used-to-improve-an-azure-environment-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -209,13 +210,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |36 | [Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure?](#which-of-the-following-service-can-be-used-to-build-test-and-deploy-a-predictive-analytics-solution-that-could-subsequently-be-used-to-deploy-an-artificial-intelligence-solution-to-azure)|
 |37 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-configure-network-settings-for-azure-virtual-machines)|
 |38 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-save-costs-when-it-comes-to-hosting-virtual-machines-in-azure)|
-|39 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-improve-the-security-for-azure-active-directory)|
+|39 | [Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Microsoft Entra ID?](#your-team-is-planning-on-using-the-azure-advisor-tool-would-the-azure-advisor-tool-give-recommendations-on-how-to-improve-the-security-for-microsoft-entra-id)|
 |40 | [A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer?](#a-support-engineer-currently-has-a-computer-that-runs-ubuntu-which-of-the-following-azure-management-tools-could-be-run-from-this-computer)|
-|41 | [Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?](#your-company-has-just-setup-an-azure-account-and-azure-active-directory-they-need-to-ensure-that-when-users-connect-to-azure-ad-from-the-internet-from-an-anonymous-ip-address-they-are-prompted-to-change-their-password-automatically-which-of-the-following-azure-service-can-help-them-achieve-this-requirement)|
+|41 | [Your company has just setup an Azure account and Microsoft Entra ID. They need to ensure that when users connect to Microsoft Entra ID from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?](#your-company-has-just-setup-an-azure-account-and-microsoft-entra-id-they-need-to-ensure-that-when-users-connect-to-microsoft-entra-id-from-the-internet-from-an-anonymous-ip-address-they-are-prompted-to-change-their-password-automatically-which-of-the-following-azure-service-can-help-them-achieve-this-requirement)|
 |42 | [A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement?](#a-company-is-planning-on-creating-several-virtual-machines-that-will-be-used-to-host-web-and-database-servers-you-need-to-limit-the-type-of-connections-from-the-web-and-database-servers-which-of-the-following-can-be-used-to-fulfil-this-requirement)|
 |43 | [Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions?](#which-of-the-following-can-be-used-to-allow-an-organization-to-manage-the-compliance-of-resources-across-multiple-subscriptions)|
-|44 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-247-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-basic-support-plan-does-this-support-the-requirement)|
-|45 | [Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-azure-ad-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-247-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-standard-support-plan-does-this-support-the-requirement)|
+|44 | [Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-microsoft-entra-id-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-247-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-basic-support-plan-does-this-support-the-requirement)|
+|45 | [Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?](#your-company-is-planning-on-setting-an-azure-environment-by-setting-up-a-subscription-and-microsoft-entra-id-they-need-to-purchase-a-low-cost-option-support-plan-the-support-plan-needs-to-ensure-247-access-to-support-engineers-by-phone-or-email-you-suggest-opting-for-the-standard-support-plan-does-this-support-the-requirement)|
 |46 | [Does Microsoft release most of the Azure services in private preview before being introduced in public preview?](#does-microsoft-release-most-of-the-azure-services-in-private-preview-before-being-introduced-in-public-preview)|
 |47 | [Is it true that Azure services released in public preview can only be managed via the Azure command line interface?](#is-it-true-that-azure-services-released-in-public-preview-can-only-be-managed-via-the-azure-command-line-interface)|
 |48 | [Is it true that an Azure service that is released in private preview is made available to all Azure customers?](#is-it-true-that-an-azure-service-that-is-released-in-private-preview-is-made-available-to-all-azure-customers)|
@@ -227,9 +228,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |54 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions?](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-deploying-resources-across-multiple-regions)|
 |55 | [A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions?](#a-company-has-just-started-using-azure-they-have-setup-a-subscription-and-started-deploying-resources-to-azure-could-the-company-increase-the-sla-for-their-resources-by-purchasing-multiple-subscriptions)|
 |56 | [A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription?](#a-set-of-virtual-machines-have-been-created-in-a-subscription-you-have-now-paid-for-a-new-subscription-is-it-possible-to-move-the-virtual-machines-to-the-new-subscription)|
-|57 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-users-from-the-account-help-reduce-the-cost)|
-|58 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-user-groups-from-the-account-help-reduce-the-cost)|
-|59 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-azure-ad-5-user-groups-in-azure-ad-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-public-ip-addresses-from-the-account-help-reduce-the-cost)|
+|57 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-microsoft-entra-id-5-user-groups-in-microsoft-entra-id-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-users-from-the-account-help-reduce-the-cost)|
+|58 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-microsoft-entra-id-5-user-groups-in-microsoft-entra-id-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-user-groups-from-the-account-help-reduce-the-cost)|
+|59 | [A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?](#a-company-has-defined-the-following-resources-in-azure-10-public-ip-addresses-20-users-in-microsoft-entra-id-5-user-groups-in-microsoft-entra-id-they-now-want-to-reduce-the-costs-associated-with-the-azure-account-would-the-removal-of-the-public-ip-addresses-from-the-account-help-reduce-the-cost)|
 |60 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose?](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-azure-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
 |61 | [A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose?](#a-team-member-currently-has-a-laptop-that-is-based-on-the-android-os-the-team-member-wants-to-create-a-virtual-machine-in-azure-the-team-member-decides-to-use-the-powerapps-portal-to-create-the-virtual-machine-would-this-suit-the-purpose)|
 |62 | [Which of the following URL is used to manage the creation of Azure resources?](#which-of-the-following-url-is-used-to-manage-the-creation-of-azure-resources)|
@@ -237,7 +238,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |64 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-should-be-capable-of-storing-10tb-of-data-the-data-would-be-accessed-infrequently-the-data-would-need-to-be-visualised-using-powerbi-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
 |65 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
 |66 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
-|67 | [What are two characteristics of the public cloud? Each correct answer presents a complete solution.](#what-are-two-characteristics-of-the-public-cloud-each-correct-answer-presents-a-complete-solution)|
+|67 | [What are two characteristics of the public cloud?](#what-are-two-characteristics-of-the-public-cloud)|
 |68 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |69 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
 |70 | [You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?](#you-have-an-on-premises-network-that-contains-100-servers-you-need-to-recommend-a-solution-that-provides-additional-resources-to-your-users-the-solution-must-minimize-capital-and-operational-expenditure-costs-what-should-you-include-in-the-recommendation)|
@@ -248,8 +249,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |75 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure virtual machines, Azure SQL databases, and Azure Storage accounts. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-virtual-machines-azure-sql-databases-and-azure-storage-accounts-does-this-meet-the-goal)|
 |76 | [Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the company. Each application will have several prerequisite applications and services installed. You need to recommend a cloud deployment solution for all the applications. What should you recommend?](#your-company-plans-to-deploy-several-custom-applications-to-azure-the-applications-will-provide-invoicing-services-to-the-customers-of-the-company-each-application-will-have-several-prerequisite-applications-and-services-installed-you-need-to-recommend-a-cloud-deployment-solution-for-all-the-applications-what-should-you-recommend)|
 |77 | [[An Azure region] contains one or more data centers that are connected by using a low-latency network.](#an-azure-region-contains-one-or-more-data-centers-that-are-connected-by-using-a-low-latency-network)|
-|78 | [A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use? Each correct answer presents a complete solution.](#a-support-engineer-plans-to-perform-several-azure-management-tasks-by-using-the-azure-cli-you-install-the-cli-on-a-computer-you-need-to-tell-the-support-engineer-which-tools-to-use-to-run-the-cli-which-two-tools-should-you-instruct-the-support-engineer-to-use-each-correct-answer-presents-a-complete-solution)|
-|79 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend? Each correct answer presents a complete solution.](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend-each-correct-answer-presents-a-complete-solution)|
+|78 | [A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use?](#a-support-engineer-plans-to-perform-several-azure-management-tasks-by-using-the-azure-cli-you-install-the-cli-on-a-computer-you-need-to-tell-the-support-engineer-which-tools-to-use-to-run-the-cli-which-two-tools-should-you-instruct-the-support-engineer-to-use)|
+|79 | [You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend?](#you-plan-to-store-20-tb-of-data-in-azure-the-data-will-be-accessed-infrequently-and-visualized-by-using-microsoft-power-bi-you-need-to-recommend-a-storage-solution-for-the-data-which-two-solutions-should-you-recommend)|
 |80 | [You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?](#you-need-to-identify-the-type-of-failure-for-which-an-azure-availability-zone-can-be-used-to-protect-access-to-azure-services-what-should-you-identify)|
 |81 | [You have a virtual machine named VM1 that runs Windows Server 2016. VM1 is in the East US Azure region. Which Azure service should you use from the Azure portal to view service failure notifications that can affect the availability of VM1?](#you-have-a-virtual-machine-named-vm1-that-runs-windows-server-2016-vm1-is-in-the-east-us-azure-region-which-azure-service-should-you-use-from-the-azure-portal-to-view-service-failure-notifications-that-can-affect-the-availability-of-vm1)|
 |82 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Linux and has the Azure CLI tools installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed-does-this-meet-the-goal)|
@@ -262,8 +263,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |89 | [Your company plans to migrate all its network resources to Azure. You need to start the planning process by exploring Azure. What should you create first?](#your-company-plans-to-migrate-all-its-network-resources-to-azure-you-need-to-start-the-planning-process-by-exploring-azure-what-should-you-create-first)|
 |90 | [You have an on-premises application that sends email notifications automatically based on a rule, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the application. What should you include in the recommendation?](#you-have-an-on-premises-application-that-sends-email-notifications-automatically-based-on-a-rule-you-plan-to-migrate-the-application-to-azure-you-need-to-recommend-a-serverless-computing-solution-for-the-application-what-should-you-include-in-the-recommendation)|
 |91 | [You plan to deploy a website to Azure. The website will be accessed by users worldwide and will host large video files. You need to recommend which Azure feature must be used to provide the best video playback experience. What should you recommend?](#you-plan-to-deploy-a-website-to-azure-the-website-will-be-accessed-by-users-worldwide-and-will-host-large-video-files-you-need-to-recommend-which-azure-feature-must-be-used-to-provide-the-best-video-playback-experience-what-should-you-recommend)|
-|92 | [Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify? Each correct answer presents part of the solution.](#your-company-plans-to-deploy-several-million-sensors-that-will-upload-data-to-azure-you-need-to-identify-which-azure-resources-must-be-created-to-support-the-planned-solution-which-two-azure-resources-should-you-identify-each-correct-answer-presents-part-of-the-solution)|
-|93 | [You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use? Each correct answer presents a complete solution.](#you-have-an-azure-web-app-you-need-to-manage-the-settings-of-the-web-app-from-an-iphone-what-are-two-azure-management-tools-that-you-can-use-each-correct-answer-presents-a-complete-solution)|
+|92 | [Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify?](#your-company-plans-to-deploy-several-million-sensors-that-will-upload-data-to-azure-you-need-to-identify-which-azure-resources-must-be-created-to-support-the-planned-solution-which-two-azure-resources-should-you-identify)|
+|93 | [You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use?](#you-have-an-azure-web-app-you-need-to-manage-the-settings-of-the-web-app-from-an-iphone-what-are-two-azure-management-tools-that-you-can-use)|
 |94 | [Company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?](#company-plans-to-deploy-an-artificial-intelligence-ai-solution-in-azure-what-should-the-company-use-to-build-test-and-deploy-predictive-analytics-solutions)|
 |95 | [You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys You need to create VM1 in Subscription1 by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select PowerShell. Run the command in Cloud Shell. Does this meet the goal?](#you-have-an-azure-subscription-named-subscription1-you-sign-in-to-the-azure-portal-and-create-a-resource-group-named-rg1-from-azure-documentation-you-have-the-following-command-that-creates-a-virtual-machine-named-vm1-az-vm-create---resource-group-rg1---name-vm1---image-ubuntults---generate-ssh-keys-you-need-to-create-vm1-in-subscription1-by-using-the-command-solution-from-the-azure-portal-launch-azure-cloud-shell-and-select-powershell-run-the-command-in-cloud-shell-does-this-meet-the-goal)|
 |96 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Windows 10 and has the Azure PowerShell module installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-windows-10-and-has-the-azure-powershell-module-installed-does-this-meet-the-goal)|
@@ -281,26 +282,26 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |108 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-firewall-does-this-meet-the-goal)|
 |109 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure Traffic Manager profile. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-an-azure-traffic-manager-profile-does-this-meet-the-goal)|
 |110 | [Which two types of customers are eligible to use Azure Government to develop a cloud solution?](#which-two-types-of-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution)|
-|111 | [You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?](#you-need-to-ensure-that-when-azure-active-directory-azure-ad-users-connect-to-azure-ad-from-the-internet-by-using-an-anonymous-ip-address-the-users-are-prompted-automatically-to-change-their-password-which-azure-service-should-you-use)|
+|111 | [You need to ensure that when Microsoft Entra ID users connect to Microsoft Entra ID from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?](#you-need-to-ensure-that-when-microsoft-entra-id-users-connect-to-microsoft-entra-id-from-the-internet-by-using-an-anonymous-ip-address-the-users-are-prompted-automatically-to-change-their-password-which-azure-service-should-you-use)|
 |112 | [Your company plans to deploy several web servers and several database servers to Azure. You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers. What should you include in the recommendation?](#your-company-plans-to-deploy-several-web-servers-and-several-database-servers-to-azure-you-need-to-recommend-an-azure-solution-to-limit-the-types-of-connections-from-the-web-servers-to-the-database-servers-what-should-you-include-in-the-recommendation)|
 |113 | [To what should an application connect to retrieve security tokens?](#to-what-should-an-application-connect-to-retrieve-security-tokens)|
 |114 | [Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?](#which-service-provides-network-traffic-filtering-across-multiple-azure-subscriptions-and-virtual-networks)|
 |115 | [Which Azure service should you use to store certificates?](#which-azure-service-should-you-use-to-store-certificates)|
 |116 | [You have a resource group named RG1. You plan to create virtual networks and app services in RG1. You need to prevent the creation of virtual machines only in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-plan-to-create-virtual-networks-and-app-services-in-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-what-should-you-use)|
-|117 | [What can Azure Information Protection encrypt?](#what-can-azure-information-protection-encrypt)|
+|117 | [What can Microsoft Purview Information Protection encrypt?](#what-can-microsoft-purview-information-protection-encrypt)|
 |118 | [From [Azure Monitor], you can view which user turned off a specific virtual machine during the last 14 days.](#from-azure-monitor-you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
-|119 | [ Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
+|119 | [Your company has an Azure subscription that contains resources In several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-a-company-policy-states-that-administrators-must-only-be-allowed-to-create-additional-azure-resources-in-a-region-in-the-country-where-their-office-is-located-you-need-to-create-the-azure-resource-that-must-be-used-to-meet-the-policy-requirement-what-should-you-create)|
 |120 | [From [Azure Cloud Shell], you can track your company regulatory standards and regulations, such as ISO 27001.](#from-azure-cloud-shell-you-can-track-your-company-regulatory-standards-and-regulations-such-as-iso-27001)|
 |121 | [You need to configure an Azure solution that meets the following requirements: Secures websites from attacks. Generates reports that contain details of attempted attacks. What should you include in the solution?](#you-need-to-configure-an-azure-solution-that-meets-the-following-requirements-secures-websites-from-attacks-generates-reports-that-contain-details-of-attempted-attacks-what-should-you-include-in-the-solution)|
 |122 | [You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?](#you-attempt-to-create-several-managed-microsoft-sql-server-instances-in-an-azure-environment-and-receive-a-message-that-you-must-increase-your-azure-subscription-limits-what-should-you-do-to-increase-the-limits)|
 |123 | [Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?](#your-company-has-10-offices-you-plan-to-generate-several-billing-reports-from-the-azure-portal-each-report-will-contain-the-azure-resource-utilization-of-each-office-which-azure-resource-manager-feature-should-you-use-before-you-generate-the-reports)|
-|124 | [Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.](#your-company-plans-to-migrate-to-azure-the-company-has-several-departments-all-the-azure-resources-used-by-each-department-will-be-managed-by-a-department-administrator-what-are-two-possible-techniques-to-segment-azure-for-the-departments-each-correct-answer-presents-a-complete-solution)|
+|124 | [Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments?](#your-company-plans-to-migrate-to-azure-the-company-has-several-departments-all-the-azure-resources-used-by-each-department-will-be-managed-by-a-department-administrator-what-are-two-possible-techniques-to-segment-azure-for-the-departments)|
 |125 | [In which Azure support plans can you open a new support request?](#in-which-azure-support-plans-can-you-open-a-new-support-request)|
 |126 | [What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?](#what-is-guaranteed-in-an-azure-service-level-agreement-sla-for-virtual-machines)|
 |127 | [Your company plans to purchase an Azure subscription. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-basic-support-plan-does-this-meet-the-goal)|
 |128 | [Your company plans to request an architectural review of an Azure environment from Microsoft. The company currently has a Basic support plan. You need to recommend a new support plan for the company. The solution must minimize costs. Which support plan should you recommend?](#your-company-plans-to-request-an-architectural-review-of-an-azure-environment-from-microsoft-the-company-currently-has-a-basic-support-plan-you-need-to-recommend-a-new-support-plan-for-the-company-the-solution-must-minimize-costs-which-support-plan-should-you-recommend)|
 |129 | [What is required to use Azure Cost Management?](#what-is-required-to-use-azure-cost-management)|
-|130 | [Your Azure trial account expired last week. You are now unable to [create additional Azure Active Directory (Azure AD) user accounts].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-azure-active-directory-azure-ad-user-accounts)|
+|130 | [Your Azure trial account expired last week. You are now unable to [create additional Microsoft Entra ID user accounts].](#your-azure-trial-account-expired-last-week-you-are-now-unable-to-create-additional-microsoft-entra-id-user-accounts)|
 |131 | [Your company plans to purchase an Azure subscription, The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?](#your-company-plans-to-purchase-an-azure-subscription-the-company-support-policy-states-that-the-azure-environment-must-provide-an-option-to-access-support-engineers-by-phone-or-email-you-need-to-recommend-which-support-plan-meets-the-support-policy-requirement-solution-recommend-a-premier-support-plan-does-this-meet-the-goal)|
 |132 | [Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?](#your-company-has-10-departments-the-company-plans-to-implement-azure-environment-you-need-to-ensure-that-each-department-can-use-a-different-payment-option-for-the-azure-services-it-consumes-what-should-you-create-for-each-department)|
 |133 | [Which statement accurately describes the Modern Lifecycle Policy for Azure services?](#which-statement-accurately-describes-the-modern-lifecycle-policy-for-azure-services)|
@@ -316,7 +317,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |143 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more scale sets. Does this meet the goal?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-are-available-if-a-single-data-center-fails-solution-you-deploy-the-virtual-machines-to-two-or-more-scale-sets-does-this-meet-the-goal)|
 |144 | [You plan to provision Infrastructure as a Service (IaaS) resources in Azure. Which resource is an example of IaaS?](#you-plan-to-provision-infrastructure-as-a-service-iaas-resources-in-azure-which-resource-is-an-example-of-iaas)|
 |145 | [A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?](#a-team-of-developers-at-your-company-plans-to-deploy-and-then-remove-50-customized-virtual-machines-each-week-thirty-of-the-virtual-machines-run-windows-server-2016-and-20-of-the-virtual-machines-run-ubuntu-linux-you-need-to-recommend-which-azure-service-will-minimize-the-administrative-effort-required-to-deploy-and-remove-the-virtual-machines-what-should-you-recommend)|
-|146 | [One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-sql-data-warehouse-is-that-high-availability-is-built-into-the-platform)|
+|146 | [One of the benefits of Azure Synapse Analytics is that [high availability] is built into the platform.](#one-of-the-benefits-of-azure-synapse-analytics-is-that-high-availability-is-built-into-the-platform)|
 |147 | [Match the Azure services to the correct descriptions.](#match-the-azure-services-to-the-correct-descriptions)|
 |148 | [An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed. Does this meet the goal?](#an-azure-administrator-plans-to-run-a-powershell-script-that-creates-azure-resources-you-need-to-recommend-which-computer-configuration-to-use-to-run-the-script-solution-run-the-script-from-a-computer-that-runs-macos-and-has-powershell-core-60-installed-does-this-meet-the-goal)|
 |149 | [You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the amount of inbound traffic to all the Azure virtual networks. What should you create?](#you-have-an-azure-environment-that-contains-10-virtual-networks-and-100-virtual-machines-you-need-to-limit-the-amount-of-inbound-traffic-to-all-the-azure-virtual-networks-what-should-you-create)|
@@ -329,7 +330,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |156 | [Azure Site Recovery provides [fault tolerance] for virtual machines.](#azure-site-recovery-provides-fault-tolerance-for-virtual-machines)|
 |157 | [An Availability Zone in Azure has physically separate locations [across two continents].](#an-availability-zone-in-azure-has-physically-separate-locations-across-two-continents)|
 |158 | [Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company regional requirements. What should you use?](#your-company-plans-to-migrate-all-on-premises-data-to-azure-you-need-to-identify-whether-azure-complies-with-the-company-regional-requirements-what-should-you-use)|
-|159 | [Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts].](#azure-key-vault-is-used-to-store-secrets-for-azure-active-directory-azure-ad-user-accounts)|
+|159 | [Azure Key Vault is used to store secrets for [Microsoft Entra ID user accounts].](#azure-key-vault-is-used-to-store-secrets-for-microsoft-entra-id-user-accounts)|
 |160 | [After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.](#after-you-create-a-virtual-machine-you-need-to-modify-the-network-security-group-nsg-to-allow-connections-to-tcp-port-8080-on-the-virtual-machine)|
 |161 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-network-security-group-nsg-does-this-meet-the-goal)|
 |162 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-solution-you-modify-a-ddos-protection-plan-does-this-meet-the-goal)|
@@ -338,12 +339,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |165 | [What should you use to evaluate whether your company Azure environment meets regulatory requirements?](#what-should-you-use-to-evaluate-whether-your-company-azure-environment-meets-regulatory-requirements)|
 |166 | [The [Microsoft Online Services Privacy Statement] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the-microsoft-online-services-privacy-statement-explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |167 | [If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least [12 months] before.](#if-microsoft-plans-to-end-support-for-an-azure-service-that-does-not-have-a-successor-service-microsoft-will-provide-notification-at-least-12-months-before)|
-|168 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-network-interfaces-does-this-meet-the-goal)|
-|169 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-public-ip-addresses-does-this-meet-the-goal)|
-|170 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-user-accounts-does-this-meet-the-goal)|
+|168 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-microsoft-entra-id-five-groups-in-microsoft-entra-id-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-network-interfaces-does-this-meet-the-goal)|
+|169 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-microsoft-entra-id-five-groups-in-microsoft-entra-id-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-public-ip-addresses-does-this-meet-the-goal)|
+|170 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-microsoft-entra-id-five-groups-in-microsoft-entra-id-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-user-accounts-does-this-meet-the-goal)|
 |171 | [A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a [Standard] support plan.](#a-support-plan-solution-that-gives-you-best-practice-information-health-status-and-notifications-and-247-access-to-billing-information-at-the-lowest-possible-cost-is-a-standard-support-plan)|
 |172 | [You can create an Azure support request from [support.microsoft.com].](#you-can-create-an-azure-support-request-from-supportmicrosoftcom)|
-|173 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-groups-does-this-meet-the-goal)|
+|173 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-microsoft-entra-id-five-groups-in-microsoft-entra-id-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-solution-you-remove-the-unused-groups-does-this-meet-the-goal)|
 |174 | [The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.](#the-azure-standard-support-plan-is-the-lowest-cost-option-to-receive-247-access-to-support-engineers-by-phone)|
 |175 | [All Azure services that are in public preview are [provided without any documentation].](#all-azure-services-that-are-in-public-preview-are-provided-without-any-documentation)|
 |176 | [An Azure service is available to all Azure customers when it is in [public preview].](#an-azure-service-is-available-to-all-azure-customers-when-it-is-in-public-preview)|
@@ -372,23 +373,23 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |199 | [Your company has developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed. You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service. Solution: you recommend the use of Azure Reserved Virtual Machines (VM) Instances.](#your-company-has-developers-intend-to-deploy-a-large-number-of-custom-virtual-machines-on-a-weekly-basis-they-will-also-be-removing-these-virtual-machines-during-the-same-week-it-was-deployed-sixty-percent-of-the-virtual-machines-have-windows-server-2016-installed-while-the-other-forty-percent-has-ubuntu-linux-installed-you-are-required-to-make-sure-that-the-administrative-effort-needed-for-this-process-is-reduced-by-employing-a-suitable-azure-service-solution-you-recommend-the-use-of-azure-reserved-virtual-machines-vm-instances)|
 |200 | [Your company has developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed. You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service. Solution: you recommend the use of Azure DevTest Labs. Does the solution meet the goal?](#your-company-has-developers-intend-to-deploy-a-large-number-of-custom-virtual-machines-on-a-weekly-basis-they-will-also-be-removing-these-virtual-machines-during-the-same-week-it-was-deployed-sixty-percent-of-the-virtual-machines-have-windows-server-2016-installed-while-the-other-forty-percent-has-ubuntu-linux-installed-you-are-required-to-make-sure-that-the-administrative-effort-needed-for-this-process-is-reduced-by-employing-a-suitable-azure-service-solution-you-recommend-the-use-of-azure-devtest-labs-does-the-solution-meet-the-goal)|
 |201 | [Your company has virtual machines (VMs) hosted in Microsoft Azure. The VMs are located in a single Azure virtual network named VNet1. The company has users that work remotely. The remote workers require access to the VMs on VNet1. You need to provide access for the remote workers. What should you do?](#your-company-has-virtual-machines-vms-hosted-in-microsoft-azure-the-vms-are-located-in-a-single-azure-virtual-network-named-vnet1-the-company-has-users-that-work-remotely-the-remote-workers-require-access-to-the-vms-on-vnet1-you-need-to-provide-access-for-the-remote-workers-what-should-you-do)|
-|202 | [You have been informed by your superiors of the company intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Information Protection. Does the solution meet the goal?](#you-have-been-informed-by-your-superiors-of-the-company-has-intentions-to-automate-server-deployment-to-azure-there-is-however-some-concern-that-administrative-credentials-could-be-uncovered-during-this-process-you-are-required-to-make-sure-that-during-the-deployment-the-administrative-credentials-are-encrypted-using-a-suitable-azure-solution-solution-you-recommend-the-use-of-azure-information-protection-does-the-solution-meet-the-goal)|
+|202 | [You have been informed by your superiors of the company intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Microsoft Purview Information Protection. Does the solution meet the goal?](#you-have-been-informed-by-your-superiors-of-the-company-has-intentions-to-automate-server-deployment-to-azure-there-is-however-some-concern-that-administrative-credentials-could-be-uncovered-during-this-process-you-are-required-to-make-sure-that-during-the-deployment-the-administrative-credentials-are-encrypted-using-a-suitable-azure-solution-solution-you-recommend-the-use-of-microsoft-purview-information-protection-does-the-solution-meet-the-goal)|
 |203 | [You have been informed by your superiors of the company intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Key Vault. Does the solution meet the goal?](#you-have-been-informed-by-your-superiors-of-the-company-has-intentions-to-automate-server-deployment-to-azure-there-is-however-some-concern-that-administrative-credentials-could-be-uncovered-during-this-process-you-are-required-to-make-sure-that-during-the-deployment-the-administrative-credentials-are-encrypted-using-a-suitable-azure-solution-solution-you-recommend-the-use-of-azure-key-vault-does-the-solution-meet-the-goal)|
 |204 | [You have been informed by your superiors of the company intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Multi-Factor Authentication (MFA). Does the solution meet the goal?](#you-have-been-informed-by-your-superiors-of-the-company-has-intentions-to-automate-server-deployment-to-azure-there-is-however-some-concern-that-administrative-credentials-could-be-uncovered-during-this-process-you-are-required-to-make-sure-that-during-the-deployment-the-administrative-credentials-are-encrypted-using-a-suitable-azure-solution-solution-you-recommend-the-use-of-azure-multi-factor-authentication-mfa-does-the-solution-meet-the-goal)|
-|205 | [Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure Key Vault. Does the solution meet the goal?](#your-company-has-an-azure-active-directory-azure-ad-environment-users-occasionally-connect-to-azure-ad-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-azure-ad-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-azure-key-vault-does-the-solution-meet-the-goal)|
-|206 | [Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure AD Identity Protection. Does the solution meet the goal?](#your-company-has-an-azure-active-directory-azure-ad-environment-users-occasionally-connect-to-azure-ad-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-azure-ad-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-azure-ad-identity-protection-does-the-solution-meet-the-goal)|
-|207 | [Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure AD Privileged Identity Management. Does the solution meet the goal?](#your-company-has-an-azure-active-directory-azure-ad-environment-users-occasionally-connect-to-azure-ad-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-azure-ad-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-azure-ad-privileged-identity-management-does-the-solution-meet-the-goal)|
+|205 | [Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure Key Vault. Does the solution meet the goal?](#your-company-has-an-microsoft-entra-id-environment-users-occasionally-connect-to-microsoft-entra-id-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-microsoft-entra-id-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-azure-key-vault-does-the-solution-meet-the-goal)|
+|206 | [Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra ID Protection. Does the solution meet the goal?](#your-company-has-an-microsoft-entra-id-environment-users-occasionally-connect-to-microsoft-entra-id-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-microsoft-entra-id-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-microsoft-entra-id-protection-does-the-solution-meet-the-goal)|
+|207 | [Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra Privileged Identity Management. Does the solution meet the goal?](#your-company-has-an-microsoft-entra-id-environment-users-occasionally-connect-to-microsoft-entra-id-via-the-internet-you-have-been-tasked-with-making-sure-that-users-who-connect-to-microsoft-entra-id-via-the-internet-from-an-unidentified-ip-address-are-automatically-encouraged-to-change-passwords-solution-you-configure-the-use-of-microsoft-entra-privileged-identity-management-does-the-solution-meet-the-goal)|
 |208 | [You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include the Azure Service Bus in your strategy. Does the solution meet the goal?](#you-are-planning-a-strategy-to-deploy-numerous-web-servers-and-database-servers-to-azure-this-strategy-should-allow-for-connection-types-between-the-web-servers-and-database-servers-to-be-controlled-solution-you-include-the-azure-service-bus-in-your-strategy-does-the-solution-meet-the-goal)|
 |209 | [You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include network security groups (NSGs) in your strategy. Does the solution meet the goal?](#you-are-planning-a-strategy-to-deploy-numerous-web-servers-and-database-servers-to-azure-this-strategy-should-allow-for-connection-types-between-the-web-servers-and-database-servers-to-be-controlled-solution-you-include-network-security-groups-nsgs-in-your-strategy-does-the-solution-meet-the-goal)|
 |210 | [You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include a local network gateway in your strategy. Does the solution meet the goal?](#you-are-planning-a-strategy-to-deploy-numerous-web-servers-and-database-servers-to-azure-this-strategy-should-allow-for-connection-types-between-the-web-servers-and-database-servers-to-be-controlled-solution-you-include-a-local-network-gateway-in-your-strategy-does-the-solution-meet-the-goal)|
 |211 | [Your company Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to require Azure Multi-Factor Authentication (MFA). Does the solution meet the goal?](#your-company-has-active-directory-forest-includes-thousands-of-user-accounts-you-have-been-informed-that-all-network-resources-will-be-migrated-to-azure-thereafter-the-on-premises-data-center-will-be-retired-you-are-required-to-employ-a-strategy-that-reduces-the-effect-on-users-once-the-planned-migration-has-been-completed-solution-you-plan-to-require-azure-multi-factor-authentication-mfa-does-the-solution-meet-the-goal)|
-|212 | [Your company Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to sync all the Active Directory user accounts to Azure Active Directory (Azure AD). Does the solution meet the goal?](#your-company-has-active-directory-forest-includes-thousands-of-user-accounts-you-have-been-informed-that-all-network-resources-will-be-migrated-to-azure-thereafter-the-on-premises-data-center-will-be-retired-you-are-required-to-employ-a-strategy-that-reduces-the-effect-on-users-once-the-planned-migration-has-been-completed-solution-you-plan-to-sync-all-the-active-directory-user-accounts-to-azure-active-directory-azure-ad-does-the-solution-meet-the-goal)|
+|212 | [Your company Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to sync all the Active Directory user accounts to Microsoft Entra ID. Does the solution meet the goal?](#your-company-has-active-directory-forest-includes-thousands-of-user-accounts-you-have-been-informed-that-all-network-resources-will-be-migrated-to-azure-thereafter-the-on-premises-data-center-will-be-retired-you-are-required-to-employ-a-strategy-that-reduces-the-effect-on-users-once-the-planned-migration-has-been-completed-solution-you-plan-to-sync-all-the-active-directory-user-accounts-to-microsoft-entra-id-does-the-solution-meet-the-goal)|
 |213 | [Your company Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to enforce password change. Does the solution meet the goal?](#your-company-has-active-directory-forest-includes-thousands-of-user-accounts-you-have-been-informed-that-all-network-resources-will-be-migrated-to-azure-thereafter-the-on-premises-data-center-will-be-retired-you-are-required-to-employ-a-strategy-that-reduces-the-effect-on-users-once-the-planned-migration-has-been-completed-solution-you-plan-to-enforce-password-change-does-the-solution-meet-the-goal)|
 |214 | [Your developers have created 10 web applications that must be host on Azure. You need to determine which Azure web tier plan to host the web apps. The web tier plan must meet the following requirements: The web apps will use custom domains. The web apps each require 10 GB of storage. The web apps must each run in dedicated compute instances. Load balancing between instances must be included. Costs must be minimized. Which web tier plan should you use?](#your-developers-have-created-10-web-applications-that-must-be-host-on-azure-you-need-to-determine-which-azure-web-tier-plan-to-host-the-web-apps-the-web-tier-plan-must-meet-the-following-requirements-the-web-apps-will-use-custom-domains-the-web-apps-each-require-10-gb-of-storage-the-web-apps-must-each-run-in-dedicated-compute-instances-load-balancing-between-instances-must-be-included-costs-must-be-minimized-which-web-tier-plan-should-you-use)|
 |215 | [You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You generate a service health alert. Does the solution meet the goal?](#you-are-currently-trying-to-generate-a-number-of-managed-microsoft-sql-server-instances-in-an-azure-environment-during-the-process-you-are-presented-with-a-notification-informing-you-that-the-azure-subscription-limits-must-be-increased-you-want-to-make-sure-that-you-can-complete-your-task-solution-you-generate-a-service-health-alert-does-the-solution-meet-the-goal)|
 |216 | [You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You alter an Azure policy. Does the solution meet the goal?](#you-are-currently-trying-to-generate-a-number-of-managed-microsoft-sql-server-instances-in-an-azure-environment-during-the-process-you-are-presented-with-a-notification-informing-you-that-the-azure-subscription-limits-must-be-increased-you-want-to-make-sure-that-you-can-complete-your-task-solution-you-alter-an-azure-policy-does-the-solution-meet-the-goal)|
 |217 | [You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You generate a new support request. Does the solution meet the goal?](#you-are-currently-trying-to-generate-a-number-of-managed-microsoft-sql-server-instances-in-an-azure-environment-during-the-process-you-are-presented-with-a-notification-informing-you-that-the-azure-subscription-limits-must-be-increased-you-want-to-make-sure-that-you-can-complete-your-task-solution-you-generate-a-new-support-request-does-the-solution-meet-the-goal)|
-|218 | [You are planning to migrate a company to Azure. Each of the company numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several Azure Active Directory (Azure AD) directories. Does the solution meet the goal?](#you-are-planning-to-migrate-a-company-to-azure-each-of-the-company-has-numerous-divisions-will-have-an-administrator-in-place-to-manage-the-azure-resources-used-by-their-respective-division-you-want-to-make-sure-that-the-azure-deployment-you-employ-allows-for-azure-to-be-segmented-for-the-divisions-while-keeping-administrative-effort-to-a-minimum-solution-you-plan-to-make-use-of-several-azure-active-directory-azure-ad-directories-does-the-solution-meet-the-goal)|
+|218 | [You are planning to migrate a company to Azure. Each of the company numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several Microsoft Entra ID directories. Does the solution meet the goal?](#you-are-planning-to-migrate-a-company-to-azure-each-of-the-company-has-numerous-divisions-will-have-an-administrator-in-place-to-manage-the-azure-resources-used-by-their-respective-division-you-want-to-make-sure-that-the-azure-deployment-you-employ-allows-for-azure-to-be-segmented-for-the-divisions-while-keeping-administrative-effort-to-a-minimum-solution-you-plan-to-make-use-of-several-microsoft-entra-id-directories-does-the-solution-meet-the-goal)|
 |219 | [You are planning to migrate a company to Azure. Each of the company numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several resource groups. Does the solution meet the goal?](#you-are-planning-to-migrate-a-company-to-azure-each-of-the-company-has-numerous-divisions-will-have-an-administrator-in-place-to-manage-the-azure-resources-used-by-their-respective-division-you-want-to-make-sure-that-the-azure-deployment-you-employ-allows-for-azure-to-be-segmented-for-the-divisions-while-keeping-administrative-effort-to-a-minimum-solution-you-plan-to-make-use-of-several-resource-groups-does-the-solution-meet-the-goal)|
 |220 | [You are planning to migrate a company to Azure. Each of the company numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several subscriptions. Does the solution meet the goal?](#you-are-planning-to-migrate-a-company-to-azure-each-of-the-company-has-numerous-divisions-will-have-an-administrator-in-place-to-manage-the-azure-resources-used-by-their-respective-division-you-want-to-make-sure-that-the-azure-deployment-you-employ-allows-for-azure-to-be-segmented-for-the-divisions-while-keeping-administrative-effort-to-a-minimum-solution-you-plan-to-make-use-of-several-subscriptions-does-the-solution-meet-the-goal)|
 |221 | [Your developers have created a portal web app for users in the Miami branch office. The web app will be publicly accessible and used by the Miami users to retrieve customer and product information. The web app is currently running in an on-premises test environment. You plan to host the web app on Azure. You need to determine which Azure web tier plan to host the web app. The web tier plan must meet the following requirements: The website will use the miami.weyland.com URL. The website will be deployed to two instances. SSL support must be included. The website requires 12 GB of storage. Costs must be minimized. Which web tier plan should you use?](#your-developers-have-created-a-portal-web-app-for-users-in-the-miami-branch-office-the-web-app-will-be-publicly-accessible-and-used-by-the-miami-users-to-retrieve-customer-and-product-information-the-web-app-is-currently-running-in-an-on-premises-test-environment-you-plan-to-host-the-web-app-on-azure-you-need-to-determine-which-azure-web-tier-plan-to-host-the-web-app-the-web-tier-plan-must-meet-the-following-requirements-the-website-will-use-the-miamiweylandcom-url-the-website-will-be-deployed-to-two-instances-ssl-support-must-be-included-the-website-requires-12-gb-of-storage-costs-must-be-minimized-which-web-tier-plan-should-you-use)|
@@ -399,9 +400,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |226 | [A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that an Azure role be created for each division. Does the solution meet the goal?](#a-company-that-has-numerous-divisions-is-planning-to-deploy-an-azure-environment-the-company-would-like-each-division-has-option-to-pay-for-the-azure-services-it-utilizes-not-be-the-same-you-have-been-asked-to-recommend-a-solution-to-meet-the-requirements-solution-you-recommend-that-an-azure-role-be-created-for-each-division-does-the-solution-meet-the-goal)|
 |227 | [A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that an Azure policy be created for each division. Does the solution meet the goal?](#a-company-that-has-numerous-divisions-is-planning-to-deploy-an-azure-environment-the-company-would-like-each-division-has-option-to-pay-for-the-azure-services-it-utilizes-not-be-the-same-you-have-been-asked-to-recommend-a-solution-to-meet-the-requirements-solution-you-recommend-that-an-azure-policy-be-created-for-each-division-does-the-solution-meet-the-goal)|
 |228 | [A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that a subscription be created for each division. Does the solution meet the goal?](#a-company-that-has-numerous-divisions-is-planning-to-deploy-an-azure-environment-the-company-would-like-each-division-has-option-to-pay-for-the-azure-services-it-utilizes-not-be-the-same-you-have-been-asked-to-recommend-a-solution-to-meet-the-requirements-solution-you-recommend-that-a-subscription-be-created-for-each-division-does-the-solution-meet-the-goal)|
-|229 | [An Azure subscription can be associated to multiple Azure Active Directory (Azure AD) tenants.](#an-azure-subscription-can-be-associated-to-multiple-azure-active-directory-azure-ad-tenants)|
-|230 | [You can change the Azure Active Directory (Azure AD) tenant to which an Azure subscription is associated.](#you-can-change-the-azure-active-directory-azure-ad-tenant-to-which-an-azure-subscription-is-associated)|
-|231 | [When an Azure subscription expires, the associated Azure Active Directory (Azure AD) tenant is deleted automatically.](#when-an-azure-subscription-expires-the-associated-azure-active-directory-azure-ad-tenant-is-deleted-automatically)|
+|229 | [An Azure subscription can be associated to multiple Microsoft Entra ID tenants.](#an-azure-subscription-can-be-associated-to-multiple-microsoft-entra-id-tenants)|
+|230 | [You can change the Microsoft Entra ID tenant to which an Azure subscription is associated.](#you-can-change-the-microsoft-entra-id-tenant-to-which-an-azure-subscription-is-associated)|
+|231 | [When an Azure subscription expires, the associated Microsoft Entra ID tenant is deleted automatically.](#when-an-azure-subscription-expires-the-associated-microsoft-entra-id-tenant-is-deleted-automatically)|
 |232 | [A single Microsoft account can be used to manage multiple Azure subscriptions.](#a-single-microsoft-account-can-be-used-to-manage-multiple-azure-subscriptions)|
 |233 | [Two Azure subscriptions can be merged into a single subscription.](#two-azure-subscriptions-can-be-merged-into-a-single-subscription)|
 |234 | [A company can use resources from multiple subscriptions.](#a-company-can-use-resources-from-multiple-subscriptions)|
@@ -426,19 +427,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |253 | [A Windows Virtual Desktop session host can run Windows 10 only.](#a-windows-virtual-desktop-session-host-can-run-windows-10-only)|
 |254 | [A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections.](#a-windows-virtual-desktop-host-pool-that-includes-20-session-hosts-supports-a-maximum-of-20-simultaneous-user-connections)|
 |255 | [Windows Virtual Desktop supports desktop and app virtualization.](#windows-virtual-desktop-supports-desktop-and-app-virtualization)|
-|256 | [[...] can calculate cost savings due to reduced electricity consumption as a result of migrating on-premises Microsoft SQL servers to Azure.](#can-calculate-cost-savings-due-to-reduced-electricity-consumption-as-a-result-of-migrating-on-premises-microsoft-sql-servers-to-azure)|
+|256 | [[...] can calculate cost savings due to reduced electricity consumption as a result of migrating on-premises Microsoft SQL servers to Azure.](#-can-calculate-cost-savings-due-to-reduced-electricity-consumption-as-a-result-of-migrating-on-premises-microsoft-sql-servers-to-azure)|
 |257 | [You can use Availability Zones in Azure to protect Azure virtual machines from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-datacenter-failure)|
 |258 | [You can use Availability Zones in Azure to protect Azure virtual machines from a region failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-virtual-machines-from-a-region-failure)|
 |259 | [You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure.](#you-can-use-availability-zones-in-azure-to-protect-azure-managed-disks-from-a-datacenter-failure)|
 |260 | [An Azure subscription can have multiple account administrators.](#an-azure-subscription-can-have-multiple-account-administrators)|
 |261 | [An Azure subscription can be managed by using a Microsoft account only.](#an-azure-subscription-can-be-managed-by-using-a-microsoft-account-only)|
 |262 | [An Azure resource group can contain multiple Azure subscriptions.](#an-azure-resource-group-can-contain-multiple-azure-subscriptions)|
-|263 | [To use Azure Active Directory (Azure AD) credentials to sign in to a computer that runs Windows 10, the computer must be joined to Azure AD.](#to-use-azure-active-directory-azure-ad-credentials-to-sign-in-to-a-computer-that-runs-windows-10-the-computer-must-be-joined-to-azure-ad)|
-|264 | [Users in Azure Active Directory (Azure AD) are organized by using resource groups.](#users-in-azure-active-directory-azure-ad-are-organized-by-using-resource-groups)|
-|265 | [Azure Active Directory (Azure AD) groups support dynamic membership rules.](#azure-active-directory-azure-ad-groups-support-dynamic-membership-rules)|
+|263 | [To use Microsoft Entra ID credentials to sign in to a computer that runs Windows 10, the computer must be joined to Microsoft Entra ID.](#to-use-microsoft-entra-id-credentials-to-sign-in-to-a-computer-that-runs-windows-10-the-computer-must-be-joined-to-microsoft-entra-id)|
+|264 | [Users in Microsoft Entra ID are organized by using resource groups.](#users-in-microsoft-entra-id-are-organized-by-using-resource-groups)|
+|265 | [Microsoft Entra ID groups support dynamic membership rules.](#microsoft-entra-id-groups-support-dynamic-membership-rules)|
 |266 | [You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines remain available if a single data center fails. What are two possible solutions?](#you-plan-to-deploy-several-azure-virtual-machines-you-need-to-ensure-that-the-services-running-on-the-virtual-machines-remain-available-if-a-single-data-center-fails-what-are-two-possible-solutions)|
 |267 | [Azure Monitor can monitor the performance of on-premises computers.](#azure-monitor-can-monitor-the-performance-of-on-premises-computers)|
-|268 | [Azure Monitor can send alerts to Azure Active Directory security groups.](#azure-monitor-can-send-alerts-to-azure-active-directory-security-groups)|
+|268 | [Azure Monitor can send alerts to Microsoft Entra ID security groups.](#azure-monitor-can-send-alerts-to-microsoft-entra-id-security-groups)|
 |269 | [Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace.](#azure-monitor-can-trigger-alerts-based-on-data-in-an-azure-log-analytics-workspace)|
 |270 | [From Azure Service Health, an administrator can view the health of all the services in an Azure environment.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-in-an-azure-environment)|
 |271 | [From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails.](#from-azure-service-health-an-administrator-can-create-a-rule-to-be-alerted-if-an-azure-service-fails)|
@@ -451,7 +452,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |278 | [To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days.](#to-maintain-microsoft-support-you-must-implement-the-security-recommendations-provided-by-azure-advisor-within-a-period-of-30-days)|
 |279 | [What can you use to automatically send an alert if an administrator stops an Azure virtual machine?](#what-can-you-use-to-automatically-send-an-alert-if-an-administrator-stops-an-azure-virtual-machine)|
 |280 | [You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-a-tablet-that-runs-the-android-operating-system-what-are-three-possible-solutions)|
-|281 | [Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment.](#azure-advisor-provides-recommendations-on-how-to-improve-the-security-of-an-azure-active-directory-azure-ad-environment)|
+|281 | [Azure Advisor provides recommendations on how to improve the security of an Microsoft Entra ID environment.](#azure-advisor-provides-recommendations-on-how-to-improve-the-security-of-an-microsoft-entra-id-environment)|
 |282 | [Azure Advisor provides recommendations on how to reduce the cost of running Azure virtual machines.](#azure-advisor-provides-recommendations-on-how-to-reduce-the-cost-of-running-azure-virtual-machines)|
 |283 | [Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines.](#azure-advisor-provides-recommendations-on-how-to-configure-the-network-settings-on-azure-virtual-machines)|
 |284 | [Several support engineers plan to manage Azure by using the Computer1-Windows 10. You need to identify which Azure management tools can be used.](#several-support-engineers-plan-to-manage-azure-by-using-the-computer1-windows-10-you-need-to-identify-which-azure-management-tools-can-be-used)|
@@ -462,9 +463,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |289 | [Azure Firewall will encrypt all the network traffic sent from Azure the Internet.](#azure-firewall-will-encrypt-all-the-network-traffic-sent-from-azure-the-internet)|
 |290 | [A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet.](#a-network-security-group-nsg-will-encrypt-all-the-network-traffic-sent-from-azure-to-the-internet)|
 |291 | [Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet.](#azure-virtual-machines-that-run-windows-server-2016-can-encrypt-network-traffic-sent-to-the-internet)|
-|292 | [Azure Security Center can monitor Azure resources and on-premises resources.](#azure-security-center-can-monitor-azure-resources-and-on-premises-resources)|
-|293 | [All Azure Security Center features are free.](#all-azure-security-center-features-are-free)|
-|294 | [From Azure Security Center, you can download a Regulatory Compliance report.](#from-azure-security-center-you-can-download-a-regulatory-compliance-report)|
+|292 | [Microsoft Defender for Cloud can monitor Azure resources and on-premises resources.](#microsoft-defender-for-cloud-can-monitor-azure-resources-and-on-premises-resources)|
+|293 | [All Microsoft Defender for Cloud features are free.](#all-microsoft-defender-for-cloud-features-are-free)|
+|294 | [From Microsoft Defender for Cloud, you can download a Regulatory Compliance report.](#from-microsoft-defender-for-cloud-you-can-download-a-regulatory-compliance-report)|
 |295 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Monitor threats by using sensors.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-monitor-threats-by-using-sensors)|
 |296 | [You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.](#you-plan-to-implement-several-security-services-for-an-azure-environment-you-need-to-identify-which-azure-services-must-be-used-to-meet-the-following-security-requirements-enforce-azure-multi-factor-authentication-mfa-based-on-a-condition)|
 |297 | [Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions?](#your-azure-environment-contains-multiple-azure-virtual-machines-you-need-to-ensure-that-a-virtual-machine-named-vm1-is-accessible-from-the-internet-over-http-what-are-two-possible-solutions)|
@@ -476,14 +477,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |303 | [You can create custom Azure roles to control access to resources.](#you-can-create-custom-azure-roles-to-control-access-to-resources)|
 |304 | [A user account can be assigned to multiple Azure roles.](#a-user-account-can-be-assigned-to-multiple-azure-roles)|
 |305 | [A resource group can have the Owner role assigned to multiple users.](#a-resource-group-can-have-the-owner-role-assigned-to-multiple-users)|
-|306 | [You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-azure-active-directory-azure-ad-what-should-you-use)|
+|306 | [You need to collect and automatically analyze security events from Microsoft Entra ID. What should you use?](#you-need-to-collect-and-automatically-analyze-security-events-from-microsoft-entra-id-what-should-you-use)|
 |307 | [From [...] you can view which user turned off a specific virtual machine during the last 14 days.](#from--you-can-view-which-user-turned-off-a-specific-virtual-machine-during-the-last-14-days)|
 |308 | [Which Azure service can you use as a security information and event management (SIEM) solution?](#which-azure-service-can-you-use-as-a-security-information-and-event-management-siem-solution)|
 |309 | [Your company implements [Azure policies] to automatically add a watermark to Microsoft Word documents that contain credit card information.](#your-company-implements-azure-policies-to-automatically-add-a-watermark-to-microsoft-word-documents-that-contain-credit-card-information)|
 |310 | [You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1 [...].](#you-have-an-azure-virtual-network-named-vnet1-in-a-resource-group-named-rg1-you-assign-the-azure-policy-definition-of-not-allowed-resource-type-and-specify-that-virtual-networks-are-not-an-allowed-resource-type-in-rg1-vnet1-)|
-|311 | [You can create Group Polices in Azure Active Directory (Azure AD).](#you-can-create-group-polices-in-azure-active-directory-azure-ad)|
-|312 | [You can join Windows 10 devices to Azure Active Directory (Azure AD).](#you-can-join-windows-10-devices-to-azure-active-directory-azure-ad)|
-|313 | [You can join Android devices to Azure Active Directory (Azure AD).](#you-can-join-android-devices-to-azure-active-directory-azure-ad)|
+|311 | [You can create Group Polices in Microsoft Entra ID.](#you-can-create-group-polices-in-microsoft-entra-id)|
+|312 | [You can join Windows 10 devices to Microsoft Entra ID.](#you-can-join-windows-10-devices-to-microsoft-entra-id)|
+|313 | [You can join Android devices to Microsoft Entra ID.](#you-can-join-android-devices-to-microsoft-entra-id)|
 |314 | [The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.](#the--explains-what-data-microsoft-processes-how-microsoft-processes-the-data-and-the-purpose-of-processing-the-data)|
 |315 | [An Azure Policy initiative definition is a [...].](#an-azure-policy-initiative-definition-is-a-)|
 |316 | [[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.](#-provide-organizations-with-the-ability-to-manage-the-compliance-of-azure-resources-across-multiple-subscriptions)|
@@ -499,23 +500,23 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |326 | [An Azure resource can have multiple Delete locks.](#an-azure-resource-can-have-multiple-delete-locks)|
 |327 | [An Azure resource inherits locks from its resource group.](#an-azure-resource-inherits-locks-from-its-resource-group)|
 |328 | [If an Azure resource has a Read-only lock, you can add a Delete lock to the resource.](#if-an-azure-resource-has-a-read-only-lock-you-can-add-a-delete-lock-to-the-resource)|
-|329 | [Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users.](#authorization-to-access-azure-resources-can-be-provided-only-to-azure-active-directory-azure-ad-users)|
-|330 | [Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.](#identities-stored-in-azure-active-directory-azure-ad-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
+|329 | [Authorization to access Azure resources can be provided only to Microsoft Entra ID users.](#authorization-to-access-azure-resources-can-be-provided-only-to-microsoft-entra-id-users)|
+|330 | [Identities stored in Microsoft Entra ID, third-party cloud services, and on-premises Active Directory can be used to access Azure resources.](#identities-stored-in-microsoft-entra-id-third-party-cloud-services-and-on-premises-active-directory-can-be-used-to-access-azure-resources)|
 |331 | [Azure has built-in authentication and authorization services that provide secure access to Azure resources.](#azure-has-built-in-authentication-and-authorization-services-that-provide-secure-access-to-azure-resources)|
-|332 | [Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).](#identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-azure-active-directory-azure-ad)|
+|332 | [Identities stored in an on-premises Active Directory can be synchronized to Microsoft Entra ID.](#identities-stored-in-an-on-premises-active-directory-can-be-synchronized-to-microsoft-entra-id)|
 |333 | [You can view your company regulatory compliance report from [...].](#you-can-view-your-company-regulatory-compliance-report-from-)|
 |334 | [Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?](#your-company-has-an-azure-subscription-that-contains-resources-in-several-regions-you-need-to-ensure-that-administrators-can-only-create-resources-in-those-regions-what-should-you-use)|
-|335 | [Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines.](#azure-active-directory-azure-ad-requires-the-implementation-of-domain-controllers-on-azure-virtual-machines)|
-|336 | [Azure Active Directory (Azure AD) provides authentication services for resources hosted in Azure and Microsoft 365.](#azure-active-directory-azure-ad-provides-authentication-services-for-resources-hosted-in-azure-and-microsoft-365)|
-|337 | [Each user account in Azure Active Directory (Azure AD) can be assigned only one license.](#each-user-account-in-azure-active-directory-azure-ad-can-be-assigned-only-one-license)|
+|335 | [Microsoft Entra ID requires the implementation of domain controllers on Azure virtual machines.](#microsoft-entra-id-requires-the-implementation-of-domain-controllers-on-azure-virtual-machines)|
+|336 | [Microsoft Entra ID provides authentication services for resources hosted in Azure and Microsoft 365.](#microsoft-entra-id-provides-authentication-services-for-resources-hosted-in-azure-and-microsoft-365)|
+|337 | [Each user account in Microsoft Entra ID can be assigned only one license.](#each-user-account-in-microsoft-entra-id-can-be-assigned-only-one-license)|
 |338 | [To implement an Azure Multi-Factor Authentication (MFA) solution, you must sync on-premises identities to the cloud.](#to-implement-an-azure-multi-factor-authentication-mfa-solution-you-must-sync-on-premises-identities-to-the-cloud)|
 |339 | [Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number.](#two-valid-methods-for-azure-multi-factor-authentication-mfa-are-picture-identification-and-a-passport-number)|
-|340 | [You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor.](#you-can-configure-the-azure-active-directory-azure-ad-activity-logs-to-appear-in-azure-monitor)|
+|340 | [You can configure the Microsoft Entra ID activity logs to appear in Azure Monitor.](#you-can-configure-the-microsoft-entra-id-activity-logs-to-appear-in-azure-monitor)|
 |341 | [From Azure Monitor, you can monitor resources across multiple Azure subscriptions.](#from-azure-monitor-you-can-monitor-resources-across-multiple-azure-subscriptions)|
 |342 | [From Azure Monitor, you can create alerts.](#from-azure-monitor-you-can-create-alerts)|
 |343 | [You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use?](#you-create-a-resource-group-named-rg1-in-azure-resource-manager-you-need-to-prevent-the-accidental-deletion-of-the-resources-in-rg1-which-setting-should-you-use)|
 |344 | [You have a resource group named RG1. You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1. What should you use?](#you-have-a-resource-group-named-rg1-you-need-to-prevent-the-creation-of-virtual-machines-only-in-rg1-the-solution-must-ensure-that-other-objects-can-be-created-in-rg1-what-should-you-use)|
-|345 | [You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-integrated applications. What should you implement?](#you-have-an-azure-subscription-and-100-windows-10-devices-you-need-to-ensure-that-only-users-whose-devices-have-the-latest-security-patches-installed-can-access-azure-active-directory-azure-ad-integrated-applications-what-should-you-implement)|
+|345 | [You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Microsoft Entra ID-integrated applications. What should you implement?](#you-have-an-azure-subscription-and-100-windows-10-devices-you-need-to-ensure-that-only-users-whose-devices-have-the-latest-security-patches-installed-can-access-microsoft-entra-id-integrated-applications-what-should-you-implement)|
 |346 | [[...] enables users to authenticate to multiple applications by using single sign-on (SSO).](#-enables-users-to-authenticate-to-multiple-applications-by-using-single-sign-on-sso)|
 |347 | [You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will [...].](#you-deploy-an-azure-resource-the-resource-becomes-unavailable-for-an-extended-period-due-to-a-service-outage-microsoft-will-)|
 |348 | [Which task can you perform by using Azure Advisor?](#which-task-can-you-perform-by-using-azure-advisor)|
@@ -570,13 +571,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |397 | [When using an Azure ExpressRoute connection, inbound data traffic from an on-premises network to Azure is always free.](#when-using-an-azure-expressroute-connection-inbound-data-traffic-from-an-on-premises-network-to-azure-is-always-free)|
 |398 | [Outbound data traffic from Azure to an on-premises network is always free.](#outbound-data-traffic-from-azure-to-an-on-premises-network-is-always-free)|
 |399 | [Data traffic between Azure services within the same Azure region is always free.](#data-traffic-between-azure-services-within-the-same-azure-region-is-always-free)|
-|400 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD). Five groups in Azure AD. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-azure-active-directory-azure-ad-five-groups-in-azure-ad-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
+|400 | [Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?](#your-company-has-an-azure-subscription-that-contains-the-following-unused-resources-20-user-accounts-in-microsoft-entra-id-five-groups-in-microsoft-entra-id-10-public-ip-addresses-10-network-interfaces-you-need-to-reduce-the-azure-costs-for-the-company-which-unused-resources-should-you-remove)|
 |401 | [If an Azure virtual machine has a status of Stopped (deallocated), you will continue to pay for.](#if-an-azure-virtual-machine-has-a-status-of-stopped-deallocated-you-will-continue-to-pay-for)|
 |402 | [Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located.](#storing-1-tb-of-data-in-azure-blob-storage-will-always-cost-the-same-regardless-of-the-azure-region-in-which-the-data-is-located)|
 |403 | [When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free.](#when-you-use-a-general-purpose-v2-azure-storage-account-you-are-only-charged-for-the-amount-of-data-that-is-stored-all-read-and-write-operations-are-free)|
 |404 | [Transferring data between Azure Storage accounts in different Azure regions is free.](#transferring-data-between-azure-storage-accounts-in-different-azure-regions-is-free)|
-|405 | [In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed.](#in-azure-active-directory-premium-p2-at-least-999-percent-availability-is-guaranteed)|
-|406 | [The Service Level Agreement (SLA) for Azure Active Directory Premium P2 is the same as the SLA for Azure Active Directory Free.](#the-service-level-agreement-sla-for-azure-active-directory-premium-p2-is-the-same-as-the-sla-for-azure-active-directory-free)|
+|405 | [In Microsoft Entra ID Premium P2, at least 99.9 percent availability is guaranteed.](#in-microsoft-entra-id-premium-p2-at-least-999-percent-availability-is-guaranteed)|
+|406 | [The Service Level Agreement (SLA) for Microsoft Entra ID Premium P2 is the same as the SLA for Microsoft Entra ID Free.](#the-service-level-agreement-sla-for-microsoft-entra-id-premium-p2-is-the-same-as-the-sla-for-microsoft-entra-id-free)|
 |407 | [All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).](#all-paying-azure-customers-receive-a-credit-if-their-monthly-uptime-percentage-is-below-the-guaranteed-amount-in-the-service-level-agreement-sla)|
 |408 | [Adding resource groups in an Azure subscription generates additional costs.](#adding-resource-groups-in-an-azure-subscription-generates-additional-costs)|
 |409 | [Copying 10 GB of data to Azure from an on-premises network over a VPN generates additional Azure data transfer costs.](#copying-10-gb-of-data-to-azure-from-an-on-premises-network-over-a-vpn-generates-additional-azure-data-transfer-costs)|
@@ -652,7 +653,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |479 | [If you delete a resource group, all the resources in the resource group will be deleted.](#if-you-delete-a-resource-group-all-the-resources-in-the-resource-group-will-be-deleted)|
 |480 | [A resource group can contain resources from multiple Azure regions.](#a-resource-group-can-contain-resources-from-multiple-azure-regions)|
 |481 | [Data that is copied to an Azure Storage account is maintained automatically in at least three copies.](#data-that-is-copied-to-an-azure-storage-account-is-maintained-automatically-in-at-least-three-copies)|
-|482 | [Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify? Each correct answer presents a complete solution.](#your-company-has-an-on-premises-network-that-contains-multiple-servers-the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-backing-up-application-data-replacing-failed-server-hardware-managing-physical-server-security-updating-server-operating-systems-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migration-which-two-responsibilities-should-you-identify-each-correct-answer-presents-a-complete-solution)|
+|482 | [Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify?](#your-company-has-an-on-premises-network-that-contains-multiple-servers-the-company-plans-to-reduce-the-following-administrative-responsibilities-of-network-administrators-backing-up-application-data-replacing-failed-server-hardware-managing-physical-server-security-updating-server-operating-systems-managing-permissions-to-shared-documents-the-company-plans-to-migrate-several-servers-to-azure-virtual-machines-you-need-to-identify-which-administrative-responsibilities-will-be-eliminated-after-the-planned-migration-which-two-responsibilities-should-you-identify)|
 |483 | [Azure Cosmos DB is an example of a [Platform as a Service (PaaS)] offering.](#azure-cosmos-db-is-an-example-of-a-platform-as-a-service-paas-offering)|
 |484 | [[Authorization] is the process of verifying a user credentials.](#authorization-is-the-process-of-verifying-a-user-credentials)|
 |485 | [You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?](#you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-you-need-to-identify-the-primary-benefit-of-using-a-public-cloud-service-for-the-servers-what-should-you-identify)|
@@ -711,7 +712,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Virtual Machine scale sets.
 - [ ] Management Groups.
-- [ ] Azure AD.
+- [ ] Microsoft Entra ID.
 - [x] Azure Resource Manager Templates.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -728,8 +729,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your team needs a tool that can be used to correlate events from multiple resources into a central repository. Which of the following can be used for this purpose?
 
 - [ ] Azure Event Hubs.
-- [ ] Azure Security Center.
-- [ ] Azure AD.
+- [ ] Microsoft Defender for Cloud.
+- [ ] Microsoft Entra ID.
 - [x] Azure Log Analytics.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -860,7 +861,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an Azure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?
 
 - [ ] Resource Groups.
-- [ ] Azure Active Directory.
+- [ ] Microsoft Entra ID.
 - [ ] Azure Advisor.
 - [x] Help + Support.
 
@@ -916,7 +917,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure SQL Database.
 - [x] Azure Cosmos DB.
 - [ ] Azure Redis Cache.
-- [ ] Azure SQL data warehouse.
+- [ ] Azure Synapse Analytics.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -964,7 +965,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Azure Active Directory?
+### Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Microsoft Entra ID?
 
 - [ ] Yes.
 - [x] No.
@@ -979,19 +980,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has just setup an Azure account and Azure Active Directory. They need to ensure that when users connect to Azure AD from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?
+### Your company has just setup an Azure account and Microsoft Entra ID. They need to ensure that when users connect to Microsoft Entra ID from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?
 
-- [ ] Azure AD Connect.
-- [x] Azure AD Identity Protection.
-- [ ] Azure AD Privileged Identity Management.
-- [ ] Azure Advanced Threat Protection.
+- [ ] Microsoft Entra Connect.
+- [x] Microsoft Entra ID Protection.
+- [ ] Microsoft Entra Privileged Identity Management.
+- [ ] Microsoft Defender for Identity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement?
 
 - [x] Network Security Groups.
-- [ ] Azure AD Identity Protection.
+- [ ] Microsoft Entra ID Protection.
 - [ ] Azure VPN.
 - [ ] Azure Route tables.
 
@@ -1006,14 +1007,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?
+### Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company is planning on setting an Azure environment by setting up a subscription and Azure AD. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?
+### Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?
 
 - [x] Yes.
 - [ ] No.
@@ -1097,21 +1098,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?
+### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?
+### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Azure AD. 5 user groups in Azure AD. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?
+### A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?
 
 - [x] Yes.
 - [ ] No.
@@ -1134,11 +1135,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following URL is used to manage the creation of Azure resources?
 
-- [ ] https://admin.azure.com
-- [ ] https://admin.azurewebsites.com
-- [ ] https://portal.microsoft.com
-- [ ] https://portal.azurewebsites.com
-- [x] https://portal.azure.com
+- [ ] `https://admin.azure.com`
+- [ ] `https://admin.azurewebsites.com`
+- [ ] `https://portal.microsoft.com`
+- [ ] `https://portal.azurewebsites.com`
+- [x] `https://portal.azure.com`
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1154,7 +1155,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.
 
 - [ ] Azure SQL database.
-- [x] Azure SQL data warehouse.
+- [x] Azure Synapse Analytics.
 - [x] Azure Data Lake.
 - [ ] Azure Cosmos DB.
 
@@ -1178,7 +1179,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two characteristics of the public cloud? Each correct answer presents a complete solution.
+### What are two characteristics of the public cloud?
 
 - [ ] Unsecured connections.
 - [ ] Limited storage.
@@ -1272,7 +1273,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use? Each correct answer presents a complete solution.
+### A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use?
 
 - [x] Command Prompt.
 - [ ] Azure Resource Explorer.
@@ -1282,11 +1283,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend? Each correct answer presents a complete solution.
+### You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend?
 
 - [x] Azure Data Lake.
 - [ ] Azure Cosmos DB.
-- [x] Azure SQL Data Warehouse.
+- [x] Azure Synapse Analytics.
 - [ ] Azure SQL Database.
 - [ ] Azure Database for PostgreSQL.
 
@@ -1395,7 +1396,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify? Each correct answer presents part of the solution.
+### Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify?
 
 - [x] Azure Data Lake.
 - [ ] Azure Queue storage.
@@ -1405,7 +1406,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use? Each correct answer presents a complete solution.
+### You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use?
 
 - [ ] Azure CLI.
 - [x] The Azure portal.
@@ -1498,8 +1499,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?
 
 - [x] Azure Key Vault.
-- [ ] Azure Information Protection.
-- [ ] Azure Security Center.
+- [ ] Microsoft Purview Information Protection.
+- [ ] Microsoft Defender for Cloud.
 - [ ] Azure Multi-Factor Authentication (MFA).
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1507,8 +1508,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?
 
 - [x] a Network Security Group (NSG).
-- [ ] an Azure Active Directory (Azure AD) role.
-- [ ] an Azure Active Directory group.
+- [ ] an Microsoft Entra ID role.
+- [ ] an Microsoft Entra ID group.
 - [ ] an Azure key vault.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1518,7 +1519,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] No change is needed.
 - [ ] Only enterprises that are registered in Germany.
 - [ ] Only enterprises that purchase their azure licenses from a partner based in Germany.
-- [x] Any user or enterprise that requires its data to reside in Germany.
+- [x] This service has been discontinued. Azure Germany was retired in 2021.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1553,12 +1554,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?
+### You need to ensure that when Microsoft Entra ID users connect to Microsoft Entra ID from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?
 
-- [ ] Azure AD Connect Health.
-- [ ] Azure AD Privileged Identity Management.
-- [ ] Azure Advanced Threat Protection (ATP).
-- [x] Azure AD Identity Protection.
+- [ ] Microsoft Entra Connect Health.
+- [ ] Microsoft Entra Privileged Identity Management.
+- [ ] Microsoft Defender for Identity (ATP).
+- [x] Microsoft Entra ID Protection.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1574,7 +1575,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### To what should an application connect to retrieve security tokens?
 
 - [ ] An Azure Storage account.
-- [x] Azure Active Directory (Azure AD).
+- [x] Microsoft Entra ID.
 - [ ] A certificate store.
 - [ ] An Azure key vault.
 
@@ -1591,10 +1592,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which Azure service should you use to store certificates?
 
-- [ ] Azure Security Center.
+- [ ] Microsoft Defender for Cloud.
 - [ ] An Azure Storage account.
 - [x] Azure Key Vault.
-- [ ] Azure Information Protection.
+- [ ] Microsoft Purview Information Protection.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1607,7 +1608,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What can Azure Information Protection encrypt?
+### What can Microsoft Purview Information Protection encrypt?
 
 - [ ] Network traffic.
 - [x] Documents and email messages.
@@ -1647,7 +1648,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Azure Firewall.
 - [ ] A Network Security Group (NSG).
-- [ ] Azure Information Protection.
+- [ ] Microsoft Purview Information Protection.
 - [x] DDoS protection.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1670,10 +1671,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.
+### Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments?
 
 - [x] Multiple subscriptions.
-- [ ] Multiple Azure Active Directory (Azure AD) directories.
+- [ ] Multiple Microsoft Entra ID directories.
 - [ ] Multiple regions.
 - [x] Multiple resource groups.
 
@@ -1721,7 +1722,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your Azure trial account expired last week. You are now unable to [create additional Azure Active Directory (Azure AD) user accounts].
+### Your Azure trial account expired last week. You are now unable to [create additional Microsoft Entra ID user accounts].
 
 - [ ] No change is needed.
 - [x] Start an existing Azure virtual machine.
@@ -1846,6 +1847,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?
+
 - [ ] Azure Reserved Virtual Machines (VM) Instances.
 - [ ] Azure virtual machine scale sets.
 - [x] Azure DevTest Labs.
@@ -1853,7 +1855,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### One of the benefits of Azure SQL Data Warehouse is that [high availability] is built into the platform.
+### One of the benefits of Azure Synapse Analytics is that [high availability] is built into the platform.
 
 - [x] No change is needed.
 - [ ] Automatic scaling.
@@ -1964,10 +1966,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Key Vault is used to store secrets for [Azure Active Directory (Azure AD) user accounts].
+### Azure Key Vault is used to store secrets for [Microsoft Entra ID user accounts].
 
 - [ ] No change is needed.
-- [ ] Azure Active Directory (Azure AD) administrative accounts.
+- [ ] Microsoft Entra ID administrative accounts.
 - [ ] Personally Identifiable Information (PII).
 - [x] Server applications.
 
@@ -2008,9 +2010,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration. What should you recommend?
 
 - [ ] Implement Azure Multi-Factor Authentication (MFA).
-- [x] Sync all the Active Directory user accounts to Azure Active Directory (Azure AD).
+- [x] Sync all the Active Directory user accounts to Microsoft Entra ID.
 - [ ] Instruct all users to change their password.
-- [ ] Create a guest user account in Azure Active Directory (Azure AD) for each user.
+- [ ] Create a guest user account in Microsoft Entra ID for each user.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2041,21 +2043,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -2080,7 +2082,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD) Five groups in Azure AD 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID Five groups in Microsoft Entra ID 10 public IP addresses 10 network interfaces You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -2292,7 +2294,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have been informed by your superiors of the company has intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Information Protection. Does the solution meet the goal?
+### You have been informed by your superiors of the company has intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Microsoft Purview Information Protection. Does the solution meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -2313,21 +2315,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure Key Vault. Does the solution meet the goal?
+### Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure Key Vault. Does the solution meet the goal?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure AD Identity Protection. Does the solution meet the goal?
+### Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra ID Protection. Does the solution meet the goal?
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet. You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure AD Privileged Identity Management. Does the solution meet the goal?
+### Your company has an Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra Privileged Identity Management. Does the solution meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -2362,7 +2364,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to sync all the Active Directory user accounts to Azure Active Directory (Azure AD). Does the solution meet the goal?
+### Your company has Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to sync all the Active Directory user accounts to Microsoft Entra ID. Does the solution meet the goal?
 
 - [x] Yes.
 - [ ] No.
@@ -2406,7 +2408,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are planning to migrate a company to Azure. Each of the company has numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several Azure Active Directory (Azure AD) directories. Does the solution meet the goal?
+### You are planning to migrate a company to Azure. Each of the company has numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several Microsoft Entra ID directories. Does the solution meet the goal?
 
 - [ ] Yes.
 - [x] No.
@@ -2487,21 +2489,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An Azure subscription can be associated to multiple Azure Active Directory (Azure AD) tenants.
+### An Azure subscription can be associated to multiple Microsoft Entra ID tenants.
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You can change the Azure Active Directory (Azure AD) tenant to which an Azure subscription is associated.
+### You can change the Microsoft Entra ID tenant to which an Azure subscription is associated.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When an Azure subscription expires, the associated Azure Active Directory (Azure AD) tenant is deleted automatically.
+### When an Azure subscription expires, the associated Microsoft Entra ID tenant is deleted automatically.
 
 - [ ] Yes.
 - [x] No.
@@ -2747,21 +2749,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### To use Azure Active Directory (Azure AD) credentials to sign in to a computer that runs Windows 10, the computer must be joined to Azure AD.
+### To use Microsoft Entra ID credentials to sign in to a computer that runs Windows 10, the computer must be joined to Microsoft Entra ID.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Users in Azure Active Directory (Azure AD) are organized by using resource groups.
+### Users in Microsoft Entra ID are organized by using resource groups.
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Active Directory (Azure AD) groups support dynamic membership rules.
+### Microsoft Entra ID groups support dynamic membership rules.
 
 - [x] Yes.
 - [ ] No.
@@ -2784,7 +2786,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Monitor can send alerts to Azure Active Directory security groups.
+### Azure Monitor can send alerts to Microsoft Entra ID security groups.
 
 - [x] Yes.
 - [ ] No.
@@ -2886,7 +2888,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment.
+### Azure Advisor provides recommendations on how to improve the security of an Microsoft Entra ID environment.
 
 - [ ] Yes.
 - [x] No.
@@ -2936,7 +2938,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You can access Compliance Manager from the [...].
 
-- [ ] Azure Active Directory admin center.
+- [ ] Microsoft Entra ID admin center.
 - [ ] Azure portal.
 - [x] Microsoft 365 Admin Center.
 - [ ] Microsoft Service Trust Portal.
@@ -2974,21 +2976,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Security Center can monitor Azure resources and on-premises resources.
+### Microsoft Defender for Cloud can monitor Azure resources and on-premises resources.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### All Azure Security Center features are free.
+### All Microsoft Defender for Cloud features are free.
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### From Azure Security Center, you can download a Regulatory Compliance report.
+### From Microsoft Defender for Cloud, you can download a Regulatory Compliance report.
 
 - [x] Yes.
 - [ ] No.
@@ -2998,18 +3000,18 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Monitor threats by using sensors.
 
 - [ ] Azure Monitor.
-- [ ] Azure Security Center.
-- [ ] Azure Active Directory (Azure AD) Identity Protection.
-- [x] Azure Advanced Threat Protection (ATP).
+- [ ] Microsoft Defender for Cloud.
+- [ ] Microsoft Entra ID Identity Protection.
+- [x] Microsoft Defender for Identity (ATP).
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.
 
 - [ ] Azure Monitor.
-- [ ] Azure Security Center.
-- [x] Azure Active Directory (Azure AD) Identity Protection.
-- [ ] Azure Advanced Threat Protection (ATP).
+- [ ] Microsoft Defender for Cloud.
+- [x] Microsoft Entra ID Identity Protection.
+- [ ] Microsoft Defender for Identity (ATP).
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3027,7 +3029,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure Bastion.
 - [ ] Azure Firewall.
 - [ ] Azure Front Door.
-- [x] Azure Security Center.
+- [x] Microsoft Defender for Cloud.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3082,11 +3084,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You need to collect and automatically analyze security events from Azure Active Directory (Azure AD). What should you use?
+### You need to collect and automatically analyze security events from Microsoft Entra ID. What should you use?
 
 - [x] Azure Sentinel.
 - [ ] Azure Synapse Analytics.
-- [ ] Azure AD Connect.
+- [ ] Microsoft Entra Connect.
 - [ ] Azure Key Vault.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3104,7 +3106,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Azure Analysis Services.
 - [x] Azure Sentinel.
-- [ ] Azure Information Protection.
+- [ ] Microsoft Purview Information Protection.
 - [ ] Azure Cognitive Services.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3113,8 +3115,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] No change is needed.
 - [ ] DDoS protection.
-- [x] Azure Information Protection.
-- [ ] Azure Active Directory (Azure AD) Identity Protection.
+- [x] Microsoft Purview Information Protection.
+- [ ] Microsoft Entra ID Identity Protection.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3127,21 +3129,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You can create Group Polices in Azure Active Directory (Azure AD).
+### You can create Group Polices in Microsoft Entra ID.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You can join Windows 10 devices to Azure Active Directory (Azure AD).
+### You can join Windows 10 devices to Microsoft Entra ID.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You can join Android devices to Azure Active Directory (Azure AD).
+### You can join Android devices to Microsoft Entra ID.
 
 - [ ] Yes.
 - [x] No.
@@ -3259,14 +3261,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users.
+### Authorization to access Azure resources can be provided only to Microsoft Entra ID users.
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.
+### Identities stored in Microsoft Entra ID, third-party cloud services, and on-premises Active Directory can be used to access Azure resources.
 
 - [x] Yes.
 - [ ] No.
@@ -3280,7 +3282,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).
+### Identities stored in an on-premises Active Directory can be synchronized to Microsoft Entra ID.
 
 - [x] Yes.
 - [ ] No.
@@ -3292,7 +3294,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Azure Advisor.
 - [ ] Azure Analysis Services.
 - [ ] Azure Monitor.
-- [x] Azure Security Center.
+- [x] Microsoft Defender for Cloud.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3305,21 +3307,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines.
+### Microsoft Entra ID requires the implementation of domain controllers on Azure virtual machines.
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Azure Active Directory (Azure AD) provides authentication services for resources hosted in Azure and Microsoft 365.
+### Microsoft Entra ID provides authentication services for resources hosted in Azure and Microsoft 365.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Each user account in Azure Active Directory (Azure AD) can be assigned only one license.
+### Each user account in Microsoft Entra ID can be assigned only one license.
 
 - [ ] Yes.
 - [x] No.
@@ -3340,7 +3342,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor.
+### You can configure the Microsoft Entra ID activity logs to appear in Azure Monitor.
 
 - [x] Yes.
 - [ ] No.
@@ -3382,7 +3384,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-integrated applications. What should you implement?
+### You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Microsoft Entra ID-integrated applications. What should you implement?
 
 - [x] A conditional access policy.
 - [ ] Azure Bastion.
@@ -3394,9 +3396,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### [...] enables users to authenticate to multiple applications by using single sign-on (SSO).
 
 - [ ] Application security groups in Azure Azure.
-- [x] Active Directory (Azure AD).
+- [x] Active Directory (Microsoft Entra ID).
 - [ ] Azure Key Vault.
-- [ ] Azure Security Center.
+- [ ] Microsoft Defender for Cloud.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3411,7 +3413,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which task can you perform by using Azure Advisor?
 
-- [ ] Integrate Active Directory and Azure Active Directory (Azure AD).
+- [ ] Integrate Active Directory and Microsoft Entra ID.
 - [x] Estimate the costs of an Azure solution.
 - [ ] Confirm that Azure subscription security follows best practices.
 - [ ] Evaluate which on-premises resources can be migrated to Azure.
@@ -3592,7 +3594,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your Azure trial account expired last week. You are now unable to [...].
 
-- [ ] Create additional Azure Active Directory (Azure AD) user accounts.
+- [ ] Create additional Microsoft Entra ID user accounts.
 - [x] Start an existing Azure virtual machine.
 - [ ] Access your data stored in Azure.
 - [ ] Access the Azure portal.
@@ -3809,7 +3811,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD). Five groups in Azure AD. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?
 
 - [ ] The network interfaces.
 - [x] The public IP addresses.
@@ -3848,14 +3850,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In Azure Active Directory Premium P2, at least 99.9 percent availability is guaranteed.
+### In Microsoft Entra ID Premium P2, at least 99.9 percent availability is guaranteed.
 
 - [x] Yes.
 - [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Service Level Agreement (SLA) for Azure Active Directory Premium P2 is the same as the SLA for Azure Active Directory Free.
+### The Service Level Agreement (SLA) for Microsoft Entra ID Premium P2 is the same as the SLA for Microsoft Entra ID Free.
 
 - [ ] Yes.
 - [x] No.
@@ -4118,10 +4120,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ![Question 439](images/question439.png)
 
-- [ ] Analyze security log files from Azure virtual machines: Azure Security Center. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.
+- [ ] Analyze security log files from Azure virtual machines: Microsoft Defender for Cloud. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.
 - [ ] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.
-- [x] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center. Store passwords for use by Azure Function applications: Azure Key Vault.
-- [ ] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center. Store passwords for use by Azure Function applications: Azure Active Directory (Azure AD).
+- [x] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Microsoft Defender for Cloud. Store passwords for use by Azure Function applications: Azure Key Vault.
+- [ ] Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Microsoft Defender for Cloud. Store passwords for use by Azure Function applications: Microsoft Entra ID.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4310,7 +4312,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Load balancers.
 - [ ] Storage accounts.
 - [ ] Virtual networks.
-- [ ] Azure Active Directory.
+- [ ] Microsoft Entra ID.
 - [ ] Monitor.
 - [ ] Advisor.
 - [ ] Security Center.
@@ -4458,7 +4460,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify? Each correct answer presents a complete solution.
+### Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify?
 
 - [x] Replacing failed server hardware.
 - [ ] Backing up application data.
