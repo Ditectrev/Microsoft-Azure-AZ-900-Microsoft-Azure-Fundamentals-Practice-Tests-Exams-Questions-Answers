@@ -609,14 +609,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |435 | [A Platform as a Service (PaaS) solution that hosts web apps in Azure can be configured to automatically scale the number of instances based on demand.](#a-platform-as-a-service-paas-solution-that-hosts-web-apps-in-azure-can-be-configured-to-automatically-scale-the-number-of-instances-based-on-demand)|
 |436 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-powershell-in-azure-cloud-shell-does-this-meet-the-goal)|
 |437 | [You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].](#you-plan-to-deploy-20-virtual-machines-to-an-azure-environment-to-ensure-that-a-virtual-machine-named-vm1-cannot-connect-to-the-other-virtual-machines-vm1-must-)|
-|438 | [From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)
+|438 | [From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.](#from-azure-service-health-an-administrator-can-view-the-health-of-all-the-services-deployed-to-an-azure-environment-and-all-the-other-services-available-in-azure)|
 |439 | [Match the Azure Services service to the correct descriptions.](#match-the-azure-services-service-to-the-correct-descriptions)|
 |440 | [[Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.](#azure-policies-provide-a-common-platform-for-deploying-objects-to-a-cloud-infrastructure-and-for-implementing-consistency-across-the-azure-environment)|
 |441 | [All the Azure resources deployed to a single resource group must share the same Azure region.](#all-the-azure-resources-deployed-to-a-single-resource-group-must-share-the-same-azure-region)|
 |442 | [If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.](#if-you-set-permissions-to-a-resource-group-all-the-azure-resources-in-that-resource-group-inherit-the-permissions)|
 |443 | [If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs.](#if-you-create-two-azure-virtual-machines-that-use-the-b2s-size-each-virtual-machine-will-always-generate-the-same-monthly-costs)|
 |444 | [When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.](#when-an-azure-virtual-machine-is-stopped-you-continue-to-pay-storage-costs-associated-to-the-virtual-machine)|
-|445 | [An Azure Policy initiative is a [...].](#an-azure-policy-initiative-is-a-)|
+|445 | [What is the primary purpose of Azure Policy assignments?](#what-is-the-primary-purpose-of-azure-policy-assignments)|
 |446 | [Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?](#your-company-has-a-software-assurance-agreement-that-includes-microsoft-sql-server-licenses-you-plan-to-deploy-sql-server-on-azure-virtual-machines-what-should-you-do-to-minimize-licensing-costs-for-the-deployment)|
 |447 | [If your company uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts.](#if-your-company-uses-an-azure-free-account-you-can-only-deploy-azure-virtual-machines-and-azure-storage-accounts)|
 |448 | [You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the Azure portal. Does this meet the goal?](#you-have-an-azure-environment-you-need-to-create-a-new-azure-virtual-machine-from-an-android-laptop-solution-you-use-the-azure-portal-does-this-meet-the-goal)|
@@ -3060,7 +3060,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Network Security Group (NSG).
 - [ ] Virtual network gateway.
 - [ ] Virtual network.
-- [ ] Eoute table.
+- [ ] Route table.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3123,10 +3123,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1 [...].
 
-- [ ] Is deleted automatically.
-- [ ] Is moved automatically to another resource group.
-- [x] Continues to function normally.
-- [ ] Is now a read-only object.
+- [ ] is deleted automatically.
+- [ ] is moved automatically to another resource group.
+- [x] continues to function normally.
+- [ ] is now a read-only object.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3153,7 +3153,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
 
-- [x] The Microsoft Online Services Privacy Statement.
+- [x] Microsoft Online Services Privacy Statement.
 - [ ] Microsoft Online Services Terms.
 - [ ] Microsoft Online Service Level Agreement.
 - [ ] Online Subscription Agreement for Microsoft Azure.
@@ -3162,10 +3162,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### An Azure Policy initiative definition is a [...].
 
-- [x] Collection of policy definitions.
-- [ ] Collection of Azure Policy definition assignments.
-- [ ] Group of Azure Blueprints definitions.
-- [ ] Group of role-based access control (RBAC) role assignments.
+- [x] collection of policy definitions.
+- [ ] collection of Azure Policy definition assignments.
+- [ ] group of Azure Blueprints definitions.
+- [ ] group of role-based access control (RBAC) role assignments.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3397,7 +3397,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### [...] enables users to authenticate to multiple applications by using single sign-on (SSO).
 
 - [ ] Application security groups in Azure Azure.
-- [x] Active Directory (Microsoft Entra ID).
+- [x] Microsoft Entra ID.
 - [ ] Azure Key Vault.
 - [ ] Microsoft Defender for Cloud.
 
@@ -3405,10 +3405,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will [...].
 
-- [ ] Refund your bank account.
-- [ ] Migrate the resource to another subscription.
-- [x] Credit your Azure account.
-- [ ] Send you a coupon code that you can redeem for Azure credits.
+- [ ] refund your bank account.
+- [ ] migrate the resource to another subscription.
+- [x] credit your Azure account.
+- [ ] send you a coupon code that you can redeem for Azure credits.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3595,10 +3595,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your Azure trial account expired last week. You are now unable to [...].
 
-- [ ] Create additional Microsoft Entra ID user accounts.
-- [x] Start an existing Azure virtual machine.
-- [ ] Access your data stored in Azure.
-- [ ] Access the Azure portal.
+- [ ] create additional Microsoft Entra ID user accounts.
+- [x] start an existing Azure virtual machine.
+- [ ] access your data stored in Azure.
+- [ ] access the Azure portal.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3704,10 +3704,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL database that has an SLA of 99.99 percent. The composite SLA for the application is [...].
 
-- [x] The product of both SLAS, which equals 99.94 percent.
-- [ ] The lowest SLA associated to the application, which is 99.95 percent.
-- [ ] The highest SLA associated to the application, which is 99.99 percent.
-- [ ] The difference between the two SLAS, which is 0.05 percent.
+- [x] the product of both SLAS, which equals 99.94 percent.
+- [ ] the lowest SLA associated to the application, which is 99.95 percent.
+- [ ] the highest SLA associated to the application, which is 99.99 percent.
+- [ ] the difference between the two SLAS, which is 0.05 percent.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3916,10 +3916,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Data that is stored in the Archive access tier of an Azure Storage account [...].
 
-- [ ] Can be accessed at any time by using azcopy.exe.
-- [ ] Can only be read by using Azure Backup.
-- [ ] Must be restored before the data can be accessed.
-- [x] Must be rehydrated before the data can be accessed.
+- [ ] can be accessed at any time by using azcopy.exe.
+- [ ] can only be read by using Azure Backup.
+- [ ] must be restored before the data can be accessed.
+- [x] must be rehydrated before the data can be accessed.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4066,10 +4066,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### If a resource group named RG1 has a delete lock, [...] can delete RG1.
 
-- [ ] Only a member of the global administrators group.
-- [x] The delete lock must be removed before an administrator.
-- [ ] An Azure policy must be modified before an administrator.
-- [ ] An Azure tag must be added before an administrator.
+- [ ] only a member of the global administrators group.
+- [x] the delete lock must be removed before an administrator.
+- [ ] an Azure policy must be modified before an administrator.
+- [ ] an Azure tag must be added before an administrator.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4103,10 +4103,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].
 
-- [x] Be deployed to a separate virtual network.
-- [ ] Run a different operating system than the other virtual machines.
-- [ ] Be deployed to a separate resource group.
-- [ ] Have two network interfaces.
+- [x] be deployed to a separate virtual network.
+- [ ] run a different operating system than the other virtual machines.
+- [ ] be deployed to a separate resource group.
+- [ ] have two network interfaces.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4165,12 +4165,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An Azure Policy initiative is a [...].
+### What is the primary purpose of Azure Policy assignments?
 
-- [x] Collection of policy definitions.
-- [ ] Collection of Azure Policy definition assignments.
-- [ ] Group of Azure Blueprints definitions.
-- [ ] Group of role-based access control (RBAC) role assignments.
+[ ] To create new policy definitions.
+[x] To enforce compliance standards.
+[ ] To manage resource groups.
+[ ] To configure network security.
+[ ] To automate resource deployment.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4354,10 +4355,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When planning to migrate a public website to Azure, you must plan to [...].
 
-- [ ] Deploy a VPN.
-- [x] Pay monthly usage costs.
-- [ ] Pay to transfer all the website data to Azure.
-- [ ] Reduce the number of connections to the website.
+- [ ] deploy a VPN.
+- [x] pay monthly usage costs.
+- [ ] pay to transfer all the website data to Azure.
+- [ ] reduce the number of connections to the website.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4419,10 +4420,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When you are implementing a Software as a Service (SaaS) solution, you are responsible for [...].
 
-- [ ] Configuring high availability.
-- [ ] Defining scalability rules.
-- [ ] Installing the Saas solution.
-- [x] Configuring the SaaS solution.
+- [ ] configuring high availability.
+- [ ] defining scalability rules.
+- [ ] installing the Saas solution.
+- [x] configuring the SaaS solution.
 
 **[⬆ Back to Top](#table-of-contents)**
 
