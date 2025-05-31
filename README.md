@@ -172,7 +172,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------- |
-|1 | [If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
+|1 | [If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?](#if-you-plan-to-host-a-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically)|
 |2 | [You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?](#you-decide-to-create-2-virtual-machines-each-virtual-machine-is-of-the-size-d2s-v3-would-these-machines-always-generate-the-same-monthly-cost)|
 |3 | [Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-provides-a-digital-online-assistant-that-can-provide-speech-support-which-of-the-following-service-can-be-used-for-this-purpose)|
 |4 | [Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-use-past-trainings-to-provide-predictions-of-very-high-probability-which-of-the-following-service-can-be-used-for-this-purpose)|
@@ -181,17 +181,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |7 | [A company needs to deploy a set of resources to Azure. Below are the key requirements for the deployment: The need to be deployed across several departments. The resources that need to be deployed are all of the same type. You need to recommend a solution to automate the deployment of the Azure resources. Which of the following would you use for this requirement?](#a-company-needs-to-deploy-a-set-of-resources-to-azure-below-are-the-key-requirements-for-the-deployment-the-need-to-be-deployed-across-several-departments-the-resources-that-need-to-be-deployed-are-all-of-the-same-type-you-need-to-recommend-a-solution-to-automate-the-deployment-of-the-azure-resources-which-of-the-following-would-you-use-for-this-requirement)|
 |8 | [Your company needs to deploy an application to virtual machines hosted in Azure. The solution must ensure an SLA of 99.99%. What is the minimum number of virtual machines and availability zones that you need to recommend for the deployment?](#your-company-needs-to-deploy-an-application-to-virtual-machines-hosted-in-azure-the-solution-must-ensure-an-sla-of-9999-what-is-the-minimum-number-of-virtual-machines-and-availability-zones-that-you-need-to-recommend-for-the-deployment)|
 |9 | [Your team needs a tool that can be used to correlate events from multiple resources into a central repository. Which of the following can be used for this purpose?](#your-team-needs-a-tool-that-can-be-used-to-correlate-events-from-multiple-resources-into-a-central-repository-which-of-the-following-can-be-used-for-this-purpose)|
-|10 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDOS protection plan. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-https-you-decide-to-implement-a-ddos-protection-plan-would-this-satisfy-the-requirement)|
+|10 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDoS protection plan. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-https-you-decide-to-implement-a-ddos-protection-plan-would-this-satisfy-the-requirement)|
 |11 | [A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement an Azure Traffic Manager profile. Would this satisfy the requirement?](#a-company-is-planning-on-hosting-an-application-on-an-azure-virtual-machine-it-needs-to-be-ensured-that-the-application-hosted-on-the-virtual-machine-is-accessible-from-the-internet-over-https-you-decide-to-implement-an-azure-traffic-manager-profile-would-this-satisfy-the-requirement)|
 |12 | [Which of the following customers are eligible to use Azure Government to develop a cloud solution? Choose 2 answers from the options given below.](#which-of-the-following-customers-are-eligible-to-use-azure-government-to-develop-a-cloud-solution-choose-2-answers-from-the-options-given-below)|
-|13 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-is-it-required-to-deploy-a-federated-solution-to-implement-multi-factor-authentication)|
-|14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-the-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
+|13 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-they-want-to-implement-multi-factor-authentication-for-the-users-is-it-required-to-deploy-a-federated-solution-to-implement-multi-factor-authentication)|
+|14 | [A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.](#a-team-is-currently-planning-on-using-azure-for-hosting-resources-they-are-going-to-create-users-which-would-have-access-to-the-azure-resources-they-want-to-implement-multi-factor-authentication-for-the-users-are-two-valid-methods-for-azure-multi-factor-authentication-picture-identification-and-entering-a-passport-number)|
 |15 | [Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost.](#which-of-the-following-support-plan-gives-you-access-to-best-practice-information-health-status-and-notifications-and-247-access-to-billing-information-at-the-lowest-possible-cost)|
 |16 | [If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then you will have complete control over the underlying operating system.](#if-you-plan-to-host-a-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-you-will-have-complete-control-over-the-underlying-operating-system)|
 |17 | [You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.](#you-decide-to-create-a-virtual-machine-which-is-of-the-size-d2s_v3-if-you-plan-to-stop-the-virtual-machine-will-you-incur-any-costs-for-the-storage-associated-with-the-virtual-machine)|
 |18 | [Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure.](#your-company-is-planning-on-using-azure-for-hosting-infrastructure-level-resources-such-as-azure-virtual-machines-when-planning-for-the-costing-aspect-for-these-resources-is-there-a-flexibility-offered-when-it-comes-to-capital-and-operational-expenditure)|
-|19 | [You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?](#you-are-looking-at-using-a-software-as-a-solution-service-in-azure-which-of-the-following-would-you-be-responsible-for)|
-|20 | [A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.](#a-company-is-planning-on-migrating-all-of-their-on-premise-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
+|19 | [You are looking at using a Software as a Service in Azure. Which of the following would you be responsible for?](#you-are-looking-at-using-a-software-as-a-service-in-azure-which-of-the-following-would-you-be-responsible-for)|
+|20 | [A company is planning on migrating all of their on-premises servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.](#a-company-is-planning-on-migrating-all-of-their-on-premises-servers-to-azure-their-business-continuity-department-has-advised-that-they-need-to-ensure-that-servers-hosted-in-azure-are-available-even-if-an-azure-data-center-were-to-go-down-which-of-the-following-is-a-concept-that-would-be-involved-in-the-design-stage-for-this-requirement)|
 |21 | [Under which of the following circumstances could a company look at decommissioning its data center?](#under-which-of-the-following-circumstances-could-a-company-look-at-decommissioning-its-data-center)|
 |22 | [A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?](#a-company-is-planning-on-migrating-a-web-site-to-azure-this-is-a-public-web-site-that-is-used-by-users-on-the-internet-which-of-the-following-must-the-company-plan-for-if-they-are-planning-to-migrate-the-web-site-to-azure)|
 |23 | [An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?](#an-administrator-needs-to-run-a-script-written-in-powershell-this-script-is-going-to-create-a-virtual-machine-in-azure-would-the-script-run-on-a-computer-that-runs-linux-and-has-the-azure-cli-tools-installed)|
@@ -202,7 +202,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |28 | [Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose?](#your-team-needs-a-tool-that-can-provide-guidance-and-recommendations-that-can-be-used-to-improve-an-azure-environment-which-of-the-following-service-can-be-used-for-this-purpose)|
 |29 | [Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose?](#your-team-needs-to-use-a-tool-that-can-be-used-to-build-intelligent-artificial-intelligence-based-applications-which-of-the-following-service-can-be-used-for-this-purpose)|
 |30 | [Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose?](#your-team-needs-to-have-a-tool-that-can-be-used-to-monitor-web-applications-deployed-to-azure-which-of-the-following-service-can-be-used-for-this-purpose)|
-|31 | [A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?](#a-team-currently-has-several-computers-in-their-on-premise-environment-that-runs-on-windows-10-they-need-to-share-files-by-enabling-mapped-drives-from-the-computers-which-of-the-following-would-be-an-ideal-storage-solution-for-this-requirement)|
+|31 | [A team currently has several computers in their on-premises environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?](#a-team-currently-has-several-computers-in-their-on-premises-environment-that-runs-on-windows-10-they-need-to-share-files-by-enabling-mapped-drives-from-the-computers-which-of-the-following-would-be-an-ideal-storage-solution-for-this-requirement)|
 |32 | [A company wants to have a data store hosted in Azure. Below are the key requirements for the data store: The data store must be able to store JSON documents. The data store must be able to handle data writes from multiple regions. Which of the following would be the ideal data store for this requirement?](#a-company-wants-to-have-a-data-store-hosted-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-must-be-able-to-store-json-documents-the-data-store-must-be-able-to-handle-data-writes-from-multiple-regions-which-of-the-following-would-be-the-ideal-data-store-for-this-requirement)|
 |33 | [A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only?](#a-team-is-planning-on-deploying-azure-virtual-machines-to-a-resource-group-named-demogroup-the-group-has-been-created-in-the-us-central-region-do-the-virtual-machines-deployed-to-the-resource-group-also-need-to-be-deployed-to-the-us-central-region-only)|
 |34 | [A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group?](#a-team-is-planning-on-assigning-tags-to-a-resource-group-would-the-tag-be-inherited-by-resources-in-the-resource-group)|
@@ -237,7 +237,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |63 | [You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine?](#you-need-to-create-a-virtual-machine-in-azure-which-of-the-following-storage-account-service-is-used-to-store-the-data-disks-for-the-virtual-machine)|
 |64 | [Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.](#your-company-needs-to-have-a-data-store-in-azure-below-are-the-key-requirements-for-the-data-store-the-data-store-should-be-capable-of-storing-10tb-of-data-the-data-would-be-accessed-infrequently-the-data-would-need-to-be-visualised-using-powerbi-which-of-the-following-services-could-you-use-for-this-requirement-choose-2-answers-from-the-options-given-below)|
 |65 | [You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?](#you-need-to-deploy-several-virtual-machines-to-azure-you-need-to-ensure-that-you-can-assign-permissions-to-the-virtual-machines-simultaneously-which-of-the-following-can-be-implemented-to-fulfil-this-requirement)|
-|66 | [Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?](#which-of-the-following-is-a-benefit-of-moving-on-premise-servers-to-the-azure-cloud-environment)|
+|66 | [Which of the following is a benefit of moving on-premises servers to the Azure cloud environment?](#which-of-the-following-is-a-benefit-of-moving-on-premises-servers-to-the-azure-cloud-environment)|
 |67 | [What are two key characteristics of the public cloud?](#what-are-two-key-characteristics-of-the-public-cloud)|
 |68 | [Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?](#your-company-plans-to-migrate-all-its-data-and-resources-to-azure-the-company-migration-plan-states-that-only-platform-as-a-service-paas-solutions-must-be-used-in-azure-you-need-to-deploy-an-azure-environment-that-meets-the-company-migration-plan-solution-you-create-an-azure-app-service-and-azure-sql-databases-does-this-meet-the-goal)|
 |69 | [You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?](#you-plan-to-migrate-a-web-application-to-azure-the-web-application-is-accessed-by-external-users-you-need-to-recommend-a-cloud-deployment-solution-to-minimize-the-amount-of-administrative-effort-used-to-manage-the-web-application-what-should-you-include-in-the-recommendation)|
@@ -658,7 +658,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 |484 | [[Authorization] is the process of verifying a user credentials.](#authorization-is-the-process-of-verifying-a-user-credentials)|
 |485 | [You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?](#you-plan-to-migrate-several-servers-from-an-on-premises-network-to-azure-you-need-to-identify-the-primary-benefit-of-using-a-public-cloud-service-for-the-servers-what-should-you-identify)|
 
-### If you plan to web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?
+### If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?
 
 - [x] Yes.
 - [ ] No.
@@ -735,7 +735,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDOS protection plan. Would this satisfy the requirement?
+### A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDoS protection plan. Would this satisfy the requirement?
 
 - [ ] Yes.
 - [x] No.
@@ -758,14 +758,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?
+### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?
 
 - [ ] Yes.
 - [x] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. The want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.
+### A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.
 
 - [ ] Yes.
 - [x] No.
@@ -802,7 +802,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are looking at using a Software as a Solution service in Azure. Which of the following would you be responsible for?
+### You are looking at using a Software as a Service in Azure. Which of the following would you be responsible for?
 
 - [ ] High availability of the solution.
 - [x] Configuration of the solution.
@@ -811,7 +811,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company is planning on migrating all of their on-premise servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.
+### A company is planning on migrating all of their on-premises servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.
 
 - [ ] Scalability.
 - [x] Fault Tolerance.
@@ -903,7 +903,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A team currently has several computers in their on-premise environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?
+### A team currently has several computers in their on-premises environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?
 
 - [ ] Using the Azure storage - BLOB service.
 - [x] Using the Azure storage - File service.
@@ -1170,7 +1170,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following is a benefit of moving on-premise servers to the Azure cloud environment?
+### Which of the following is a benefit of moving on-premises servers to the Azure cloud environment?
 
 - [ ] The Azure platform is a public cloud platform wherein all the resources can be accessed by the public.
 - [ ] The Azure platform is a private cloud platform wherein all the resources can be accessed only by a private handful of people.
@@ -1586,7 +1586,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Azure Firewall.
 - [ ] An application security group.
-- [ ] Azure DDOS protection.
+- [ ] Azure DDoS protection.
 - [ ] A Network Security Group (NSG).
 
 **[⬆ Back to Top](#table-of-contents)**
