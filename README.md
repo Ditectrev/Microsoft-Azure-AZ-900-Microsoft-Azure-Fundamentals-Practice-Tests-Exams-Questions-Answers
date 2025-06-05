@@ -25,7 +25,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 It's great to learn these questions as your exam preparation, and, yes, you should pass just based on that. However, we highly recommend more interactive learning if you want to become an expert. Currently, we're recommending those courses:
 
-- 🎬 [Coursera: video-based, official course by Microsoft.](https://imp.i384100.net/aO62Po).
+- 🎬 [Coursera: video-based, official course by Microsoft](https://imp.i384100.net/aO62Po).
 - 📖 [Educative: text-based, video-free course, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). The link includes the highest available discount Educative offers](https://www.educative.io/courses/complete-guide-devops-azure?aff=VALz).
 
 Yes, we have a little commission from that link. Therefore, by using that link, you're supporting us.
@@ -133,6 +133,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 **[v1.2.1](../../releases/tag/v1.2.1): December 30, 2024.**
 
 - Fix 2 questions with wrong answers.
+
+**[v1.3.0](../../releases/tag/v1.3.0): June 6, 2024.**
+
+- Update outdated terminology related to Azure Active Directory (Azure AD) (now Microsoft Entra ID), Azure AD Identity Protection (now Microsoft Entra ID Protection), Azure Advanced Threat Protection (ATP) (now Microsoft Defender for Identity), and Azure Security Center (now Microsoft Defender for Cloud). Additionally, formatting improvements, and 1 question with a wrong answer were corrected.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
