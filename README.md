@@ -134,7 +134,7 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 - Fix 2 questions with wrong answers.
 
-**[v1.3.0](../../releases/tag/v1.3.0): June 6, 2024.**
+**[v1.3.0](../../releases/tag/v1.3.0): June 6, 2025.**
 
 - Update outdated terminology related to Azure Active Directory (Azure AD) (now Microsoft Entra ID), Azure AD Identity Protection (now Microsoft Entra ID Protection), Azure Advanced Threat Protection (ATP) (now Microsoft Defender for Identity), and Azure Security Center (now Microsoft Defender for Cloud). Additionally, formatting improvements, and 1 question with a wrong answer were corrected.
 
