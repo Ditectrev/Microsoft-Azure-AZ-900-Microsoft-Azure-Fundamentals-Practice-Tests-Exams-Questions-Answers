@@ -3085,8 +3085,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A resource group can have the Owner role assigned to multiple users.
 
-- [ ] Yes.
-- [x] No.
+- [x] Yes.
+- [ ] No.
 
 **[⬆ Back to Top](#table-of-contents)**
 
