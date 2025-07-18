@@ -3401,7 +3401,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### [...] enables users to authenticate to multiple applications by using single sign-on (SSO).
 
-- [ ] Application security groups in Azure Azure.
+- [ ] Application security groups in Azure.
 - [x] Microsoft Entra ID.
 - [ ] Azure Key Vault.
 - [ ] Microsoft Defender for Cloud.
