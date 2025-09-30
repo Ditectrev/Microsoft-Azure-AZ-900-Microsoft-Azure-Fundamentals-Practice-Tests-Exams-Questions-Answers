@@ -1283,7 +1283,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Command Prompt.
 - [ ] Azure Resource Explorer.
-- [x] Windowe PowerShell.
+- [x] Windows PowerShell.
 - [ ] Windows Defender Firewall.
 - [ ] Network and Sharing Center.
 
