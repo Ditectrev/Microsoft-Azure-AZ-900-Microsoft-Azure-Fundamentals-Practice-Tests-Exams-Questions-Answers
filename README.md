@@ -4172,11 +4172,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is the primary purpose of Azure Policy assignments?
 
-[ ] To create new policy definitions.
-[x] To enforce compliance standards.
-[ ] To manage resource groups.
-[ ] To configure network security.
-[ ] To automate resource deployment.
+- [ ] To create new policy definitions.
+- [x] To enforce compliance standards.
+- [ ] To manage resource groups.
+- [ ] To configure network security.
+- [ ] To automate resource deployment.
 
 **[⬆ Back to Top](#table-of-contents)**
 
