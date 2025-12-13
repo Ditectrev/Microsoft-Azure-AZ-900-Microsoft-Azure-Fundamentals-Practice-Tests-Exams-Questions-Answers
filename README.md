@@ -138,6 +138,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 - Update outdated terminology related to Azure Active Directory (Azure AD) (now Microsoft Entra ID), Azure AD Identity Protection (now Microsoft Entra ID Protection), Azure Advanced Threat Protection (ATP) (now Microsoft Defender for Identity), and Azure Security Center (now Microsoft Defender for Cloud). Additionally, formatting improvements, and 1 question with a wrong answer were corrected.
 
+**[v1.3.1](../../releases/tag/v1.3.1): December 13, 2025.**
+
+- Fix 1 question with a wrong answer and 3 typos.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
